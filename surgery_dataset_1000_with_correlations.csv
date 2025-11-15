@@ -1,0 +1,1001 @@
+Age,Medical_Comorbidities,BMI,Hemoglobin_Level_g/dL,ASA_Rating,Surgeon,Anaesthesia_Type,Nurses,Procedure,Surgery_Duration_Minutes
+70,Chronic Kidney Disease,24.3,11.7,2,Dr. James O'Brien,Regional,"Nurse Maria Lopez, Nurse Rachel Green",Hernia Repair,200
+64,None,24.5,12.7,2,Dr. James O'Brien,General,"Nurse Jennifer Wong, Nurse David Thompson, Nurse Ahmed Hassan",Cholecystectomy,30
+58,Obesity; COPD; Diabetes; Coagulopathy,27,11.3,5,Dr. Elena Rodriguez,General,"Nurse John Smith, Nurse Lisa Park",Hip Replacement,212
+78,Obesity; Hypertension,23.5,12.3,3,Dr. Michael Chen,Regional,"Nurse John Smith, Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse Maria Lopez, Nurse Sarah Johnson",Hernia Repair,141
+65,Chronic Kidney Disease,33.3,12,2,Dr. Michael Chen,Local,"Nurse Emily Li, Nurse Rachel Green, Nurse Jennifer Wong, Nurse John Smith, Nurse Sarah Johnson",Spine Fusion,183
+64,None,27.7,13.1,2,Dr. Priya Patel,General,"Nurse David Thompson, Nurse Sarah Johnson",Knee Replacement,147
+72,Heart Disease,29,14.5,4,Dr. Elena Rodriguez,General,"Nurse Kevin Tran, Nurse Rachel Green, Nurse Maria Lopez, Nurse Carlos Rodriguez",Knee Replacement,176
+80,COPD; Diabetes,27.6,15,2,Dr. James O'Brien,General,"Nurse Lisa Park, Nurse Kevin Tran, Nurse Emily Li, Nurse John Smith",Cholecystectomy,207
+41,Diabetes,26.3,13.4,3,Dr. Michael Chen,General,"Nurse Rachel Green, Nurse David Thompson, Nurse John Smith",Hip Replacement,161
+64,COPD,32.2,14,3,Dr. Priya Patel,Local,"Nurse Carlos Rodriguez, Nurse Emily Li, Nurse Jennifer Wong, Nurse Kevin Tran",Arthroscopy,63
+57,None,22.8,13.1,3,Dr. Elena Rodriguez,Regional,"Nurse Lisa Park, Nurse Rachel Green, Nurse David Thompson",Hip Replacement,143
+54,None,39.7,13.3,2,Dr. Elena Rodriguez,Local,"Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse Sarah Johnson",Knee Replacement,145
+61,Chronic Kidney Disease; Coagulopathy,27.8,14.7,3,Dr. James O'Brien,Regional,"Nurse Lisa Park, Nurse Emily Li, Nurse Maria Lopez",Knee Replacement,107
+60,Coagulopathy; Diabetes; Heart Disease,24.6,12.9,3,Dr. Sarah Ahmed,Sedation,"Nurse Rachel Green, Nurse David Thompson, Nurse John Smith, Nurse Emily Li, Nurse Kevin Tran",Knee Replacement,163
+70,None,41.1,12,1,Dr. James O'Brien,Regional,"Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse Rachel Green, Nurse David Thompson",Hip Replacement,132
+63,Chronic Kidney Disease,22.5,15.8,4,Dr. James O'Brien,Regional,"Nurse Kevin Tran, Nurse Sarah Johnson, Nurse Lisa Park, Nurse Emily Li",Knee Replacement,177
+36,None,28.7,15,2,Dr. Michael Chen,General,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse David Thompson",Knee Replacement,126
+63,None,29.4,14.8,1,Dr. Sarah Ahmed,Sedation,"Nurse Jennifer Wong, Nurse Lisa Park",Spine Fusion,188
+73,Obesity; Diabetes; COPD; Coagulopathy,22.3,12.4,3,Dr. Elena Rodriguez,General,"Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Lisa Park, Nurse Maria Lopez, Nurse Emily Li",Hernia Repair,118
+49,Chronic Kidney Disease; Obesity; Heart Disease,29.7,14.7,3,Dr. Priya Patel,Sedation,"Nurse David Thompson, Nurse Rachel Green, Nurse Sarah Johnson, Nurse Jennifer Wong",Arthroscopy,69
+60,Diabetes,32.4,12.8,2,Dr. James O'Brien,Local,"Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Lisa Park, Nurse David Thompson",Cholecystectomy,135
+63,Coagulopathy; Chronic Kidney Disease,22.7,13.7,3,Dr. Michael Chen,General,"Nurse Jennifer Wong, Nurse Emily Li, Nurse Lisa Park",Arthroscopy,112
+41,Obesity; Heart Disease; COPD; Diabetes; Coagulopathy,22.4,14.3,4,Dr. Elena Rodriguez,General,"Nurse Rachel Green, Nurse John Smith, Nurse Maria Lopez, Nurse Kevin Tran",Cholecystectomy,143
+49,None,28.9,13.7,2,Dr. Elena Rodriguez,Regional,"Nurse Carlos Rodriguez, Nurse David Thompson",Knee Replacement,101
+70,Hypertension; Chronic Kidney Disease; COPD,20.4,17.1,3,Dr. Priya Patel,Regional,"Nurse Rachel Green, Nurse Ahmed Hassan, Nurse Sarah Johnson",Spine Fusion,251
+36,Obesity; Chronic Kidney Disease,38.7,12.5,2,Dr. Michael Chen,Sedation,"Nurse Rachel Green, Nurse Sarah Johnson, Nurse Emily Li",Hernia Repair,155
+44,None,29.4,13,2,Dr. Priya Patel,General,"Nurse David Thompson, Nurse John Smith, Nurse Kevin Tran, Nurse Lisa Park, Nurse Jennifer Wong",Cholecystectomy,58
+78,None,37.3,15.5,1,Dr. Priya Patel,General,"Nurse Kevin Tran, Nurse John Smith, Nurse Maria Lopez",Hip Replacement,198
+76,Chronic Kidney Disease; Coagulopathy; Diabetes,37.3,14,4,Dr. Sarah Ahmed,General,"Nurse David Thompson, Nurse Maria Lopez, Nurse Emily Li",Hernia Repair,214
+68,None,29.7,12.6,2,Dr. Michael Chen,Regional,"Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse John Smith",Arthroscopy,61
+75,None,29.8,14.7,2,Dr. Priya Patel,General,"Nurse John Smith, Nurse Carlos Rodriguez, Nurse Sarah Johnson, Nurse Lisa Park, Nurse Maria Lopez",Hip Replacement,157
+43,None,37.3,12.8,3,Dr. Priya Patel,General,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse Ahmed Hassan",Spine Fusion,222
+67,None,27.3,13.2,3,Dr. Priya Patel,Local,"Nurse Maria Lopez, Nurse Sarah Johnson",Arthroscopy,149
+94,Coagulopathy; Diabetes; Hypertension; Obesity; Chronic Kidney Disease,38.9,14.1,5,Dr. Priya Patel,Regional,"Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse Lisa Park, Nurse Rachel Green, Nurse John Smith",Spine Fusion,306
+79,Coagulopathy; Diabetes,25.1,12.5,2,Dr. Elena Rodriguez,Regional,"Nurse Ahmed Hassan, Nurse David Thompson, Nurse Maria Lopez, Nurse Lisa Park, Nurse Carlos Rodriguez",Hernia Repair,142
+46,None,23.9,13.4,2,Dr. Priya Patel,Regional,"Nurse Sarah Johnson, Nurse Carlos Rodriguez, Nurse Kevin Tran",Hip Replacement,156
+72,Coagulopathy; COPD,25.6,13.8,2,Dr. Sarah Ahmed,General,"Nurse Jennifer Wong, Nurse Sarah Johnson",Spine Fusion,207
+89,None,33.2,13.8,1,Dr. Priya Patel,Sedation,"Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse Lisa Park, Nurse Sarah Johnson, Nurse Emily Li",Cholecystectomy,173
+43,None,37.5,12.4,2,Dr. Michael Chen,General,"Nurse John Smith, Nurse Rachel Green, Nurse Lisa Park",Spine Fusion,183
+39,Obesity,20.1,16.2,4,Dr. Priya Patel,General,"Nurse Emily Li, Nurse Maria Lopez",Hernia Repair,146
+36,Obesity,36.1,13.3,3,Dr. Sarah Ahmed,General,"Nurse Ahmed Hassan, Nurse Lisa Park, Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Rachel Green",Arthroscopy,101
+62,Coagulopathy; Hypertension,26.1,11.1,2,Dr. Priya Patel,Regional,"Nurse Kevin Tran, Nurse David Thompson",Hernia Repair,94
+85,COPD; Diabetes; Obesity,28.7,15.3,3,Dr. Michael Chen,General,"Nurse Kevin Tran, Nurse Lisa Park, Nurse Maria Lopez",Hip Replacement,215
+82,None,25.4,13,1,Dr. Michael Chen,Regional,"Nurse Lisa Park, Nurse Kevin Tran, Nurse Ahmed Hassan, Nurse Emily Li, Nurse Jennifer Wong",Arthroscopy,49
+57,Chronic Kidney Disease; Coagulopathy; Heart Disease,32.3,15.8,2,Dr. Elena Rodriguez,Local,"Nurse Rachel Green, Nurse Sarah Johnson, Nurse Jennifer Wong",Arthroscopy,69
+61,COPD,18.9,15.3,2,Dr. Priya Patel,General,"Nurse David Thompson, Nurse Maria Lopez, Nurse Carlos Rodriguez, Nurse Lisa Park",Hip Replacement,176
+48,Obesity; Hypertension; Coagulopathy; Heart Disease; Diabetes,31.4,12.4,4,Dr. Elena Rodriguez,Regional,"Nurse David Thompson, Nurse John Smith, Nurse Emily Li, Nurse Rachel Green",Cholecystectomy,160
+54,None,32.7,13.1,2,Dr. Priya Patel,Local,"Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Lisa Park, Nurse Maria Lopez, Nurse Emily Li",Knee Replacement,119
+64,Chronic Kidney Disease; Diabetes; Hypertension; Heart Disease,23.3,13.5,4,Dr. Elena Rodriguez,Regional,"Nurse David Thompson, Nurse Ahmed Hassan",Hernia Repair,175
+50,Heart Disease,27.2,12.1,3,Dr. Elena Rodriguez,Local,"Nurse Kevin Tran, Nurse John Smith, Nurse Emily Li, Nurse Lisa Park",Spine Fusion,177
+65,None,33.5,15.1,3,Dr. James O'Brien,Local,"Nurse Rachel Green, Nurse Maria Lopez, Nurse David Thompson, Nurse Sarah Johnson, Nurse Carlos Rodriguez",Knee Replacement,181
+70,Diabetes; Coagulopathy,25.7,12.5,2,Dr. Sarah Ahmed,Sedation,"Nurse Jennifer Wong, Nurse Rachel Green, Nurse Lisa Park, Nurse Carlos Rodriguez",Spine Fusion,192
+58,None,16,14.7,1,Dr. Priya Patel,Regional,"Nurse David Thompson, Nurse Lisa Park",Cholecystectomy,86
+60,Obesity,40.3,15.9,2,Dr. Sarah Ahmed,Regional,"Nurse Emily Li, Nurse Kevin Tran",Hip Replacement,140
+65,COPD,22.6,14.5,2,Dr. Sarah Ahmed,General,"Nurse Maria Lopez, Nurse Rachel Green, Nurse Emily Li",Spine Fusion,186
+56,None,31.8,12,2,Dr. Michael Chen,Sedation,"Nurse John Smith, Nurse Lisa Park, Nurse David Thompson, Nurse Emily Li",Spine Fusion,202
+53,Obesity,37,12.7,4,Dr. Elena Rodriguez,Sedation,"Nurse John Smith, Nurse Jennifer Wong, Nurse Kevin Tran",Cholecystectomy,97
+72,Diabetes; Hypertension,25.3,14.2,2,Dr. James O'Brien,General,"Nurse Sarah Johnson, Nurse John Smith, Nurse Rachel Green, Nurse Jennifer Wong",Cholecystectomy,106
+77,COPD; Diabetes; Coagulopathy; Hypertension,22.9,11.1,4,Dr. Elena Rodriguez,Regional,"Nurse Carlos Rodriguez, Nurse Emily Li, Nurse Rachel Green",Hernia Repair,166
+79,Hypertension; Diabetes; Coagulopathy; COPD,38.2,13.5,3,Dr. James O'Brien,Sedation,"Nurse Rachel Green, Nurse David Thompson, Nurse Lisa Park, Nurse Emily Li",Hernia Repair,202
+63,Chronic Kidney Disease; Obesity,22.3,12.3,3,Dr. Michael Chen,Local,"Nurse Maria Lopez, Nurse David Thompson, Nurse Rachel Green, Nurse Jennifer Wong",Knee Replacement,97
+91,Diabetes; Coagulopathy; Obesity,35.1,14,5,Dr. Michael Chen,Regional,"Nurse Emily Li, Nurse Lisa Park, Nurse Sarah Johnson, Nurse David Thompson, Nurse John Smith",Arthroscopy,168
+63,Heart Disease,32.4,14.2,3,Dr. James O'Brien,Regional,"Nurse Sarah Johnson, Nurse Maria Lopez",Arthroscopy,101
+54,Heart Disease,24.2,12.8,2,Dr. Sarah Ahmed,Local,"Nurse David Thompson, Nurse Emily Li, Nurse Kevin Tran, Nurse Lisa Park, Nurse Ahmed Hassan",Cholecystectomy,78
+78,Obesity; Heart Disease; COPD,24.5,14.8,4,Dr. Sarah Ahmed,Regional,"Nurse Sarah Johnson, Nurse Rachel Green, Nurse Ahmed Hassan, Nurse Jennifer Wong",Hernia Repair,140
+59,COPD,32.8,13.3,2,Dr. Sarah Ahmed,General,"Nurse Lisa Park, Nurse Jennifer Wong, Nurse Rachel Green, Nurse Sarah Johnson, Nurse Ahmed Hassan",Spine Fusion,200
+57,Heart Disease,21.4,17.4,2,Dr. James O'Brien,Sedation,"Nurse John Smith, Nurse Sarah Johnson, Nurse Emily Li, Nurse Carlos Rodriguez",Knee Replacement,124
+53,COPD,43.4,11.8,2,Dr. Priya Patel,General,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse Jennifer Wong",Hernia Repair,75
+66,Heart Disease,26.5,13.3,2,Dr. Elena Rodriguez,Regional,"Nurse David Thompson, Nurse John Smith, Nurse Rachel Green, Nurse Kevin Tran",Spine Fusion,229
+50,Hypertension,18.3,14,2,Dr. Priya Patel,Sedation,"Nurse Maria Lopez, Nurse John Smith",Knee Replacement,143
+80,None,30.5,13.1,2,Dr. James O'Brien,Regional,"Nurse Carlos Rodriguez, Nurse Sarah Johnson",Hip Replacement,138
+69,Chronic Kidney Disease; Coagulopathy; COPD,18,16.1,4,Dr. Priya Patel,General,"Nurse Sarah Johnson, Nurse John Smith, Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Lisa Park",Arthroscopy,131
+56,Coagulopathy; COPD; Hypertension; Obesity,30.8,13.7,5,Dr. Sarah Ahmed,Regional,"Nurse Maria Lopez, Nurse Ahmed Hassan, Nurse John Smith, Nurse David Thompson, Nurse Kevin Tran",Hip Replacement,178
+54,None,28.1,14,2,Dr. Elena Rodriguez,Sedation,"Nurse Lisa Park, Nurse Ahmed Hassan, Nurse Kevin Tran, Nurse Emily Li, Nurse Sarah Johnson",Cholecystectomy,80
+77,Obesity,30.8,13.9,3,Dr. Sarah Ahmed,Local,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse Kevin Tran, Nurse John Smith",Hernia Repair,131
+42,Coagulopathy,25.9,13.8,3,Dr. Michael Chen,Sedation,"Nurse Lisa Park, Nurse Rachel Green, Nurse Ahmed Hassan",Cholecystectomy,132
+93,None,26.2,13.6,2,Dr. Elena Rodriguez,Local,"Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse David Thompson",Cholecystectomy,128
+63,Hypertension,30.2,11.9,3,Dr. Elena Rodriguez,Regional,"Nurse Emily Li, Nurse Lisa Park, Nurse Ahmed Hassan, Nurse David Thompson",Hernia Repair,139
+69,Hypertension,31.2,11.9,3,Dr. Sarah Ahmed,General,"Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse John Smith",Arthroscopy,106
+58,COPD; Coagulopathy; Heart Disease; Chronic Kidney Disease,32.8,14.9,3,Dr. Elena Rodriguez,General,"Nurse Maria Lopez, Nurse John Smith, Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse Carlos Rodriguez",Hernia Repair,123
+74,Coagulopathy; Obesity; COPD; Chronic Kidney Disease; Diabetes,28.8,14.2,5,Dr. Sarah Ahmed,Sedation,"Nurse Rachel Green, Nurse Sarah Johnson, Nurse Kevin Tran, Nurse John Smith",Hip Replacement,221
+57,None,21.7,15.4,3,Dr. Michael Chen,General,"Nurse Rachel Green, Nurse Sarah Johnson, Nurse Carlos Rodriguez",Arthroscopy,107
+75,None,29.7,11.5,1,Dr. Sarah Ahmed,General,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse David Thompson",Hernia Repair,129
+62,COPD; Obesity; Chronic Kidney Disease; Diabetes; Coagulopathy,24.9,15.6,3,Dr. Elena Rodriguez,Sedation,"Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse Lisa Park, Nurse Maria Lopez, Nurse Ahmed Hassan",Arthroscopy,89
+72,None,37.7,14.2,1,Dr. Michael Chen,Sedation,"Nurse John Smith, Nurse Carlos Rodriguez, Nurse Emily Li, Nurse Ahmed Hassan",Spine Fusion,223
+57,Heart Disease; COPD; Coagulopathy; Diabetes; Hypertension,24.1,14.7,3,Dr. Elena Rodriguez,Local,"Nurse Ahmed Hassan, Nurse Maria Lopez",Hip Replacement,169
+55,Hypertension,27.4,14.3,2,Dr. Elena Rodriguez,General,"Nurse Lisa Park, Nurse Maria Lopez",Hernia Repair,112
+36,None,41.4,12.5,3,Dr. Michael Chen,Regional,"Nurse John Smith, Nurse Maria Lopez, Nurse Jennifer Wong",Cholecystectomy,104
+70,Hypertension,34.5,12.2,3,Dr. Elena Rodriguez,Local,"Nurse Lisa Park, Nurse David Thompson, Nurse John Smith, Nurse Carlos Rodriguez, Nurse Emily Li",Arthroscopy,94
+61,Coagulopathy; Heart Disease; Hypertension; Diabetes,33.4,13.6,3,Dr. James O'Brien,Local,"Nurse Rachel Green, Nurse David Thompson, Nurse Maria Lopez",Hernia Repair,105
+69,Obesity; Chronic Kidney Disease,33.1,15,3,Dr. Sarah Ahmed,Local,"Nurse Sarah Johnson, Nurse John Smith, Nurse David Thompson, Nurse Kevin Tran, Nurse Maria Lopez",Hernia Repair,172
+64,Coagulopathy; Chronic Kidney Disease,23.9,14.2,4,Dr. Elena Rodriguez,Local,"Nurse Kevin Tran, Nurse Maria Lopez",Hernia Repair,140
+71,Obesity; COPD; Heart Disease,41,13,3,Dr. Sarah Ahmed,General,"Nurse Ahmed Hassan, Nurse Emily Li",Hip Replacement,208
+64,None,32.5,15,3,Dr. Elena Rodriguez,Sedation,"Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Sarah Johnson, Nurse Emily Li, Nurse Lisa Park",Knee Replacement,163
+36,None,36.3,15.2,2,Dr. Elena Rodriguez,Local,"Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Ahmed Hassan",Arthroscopy,87
+61,Obesity; Coagulopathy; COPD,28.5,15.2,4,Dr. Elena Rodriguez,Regional,"Nurse Sarah Johnson, Nurse Kevin Tran, Nurse Rachel Green, Nurse Emily Li, Nurse Lisa Park",Hernia Repair,137
+76,Coagulopathy; Diabetes; Heart Disease,33.2,14,3,Dr. Michael Chen,Sedation,"Nurse John Smith, Nurse Carlos Rodriguez, Nurse Sarah Johnson, Nurse Emily Li, Nurse Maria Lopez",Spine Fusion,271
+24,Coagulopathy,29.2,14.6,3,Dr. Elena Rodriguez,Local,"Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse John Smith, Nurse Emily Li",Hernia Repair,129
+63,Heart Disease,23.9,14.8,2,Dr. Sarah Ahmed,Regional,"Nurse Kevin Tran, Nurse Rachel Green, Nurse Ahmed Hassan, Nurse Maria Lopez",Spine Fusion,193
+25,Diabetes,29.5,14.2,3,Dr. Elena Rodriguez,Regional,"Nurse Sarah Johnson, Nurse Carlos Rodriguez, Nurse Ahmed Hassan",Hernia Repair,102
+79,Chronic Kidney Disease,24,15,2,Dr. James O'Brien,Local,"Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Maria Lopez, Nurse Ahmed Hassan",Spine Fusion,221
+70,None,29.7,12.3,3,Dr. Michael Chen,Local,"Nurse Sarah Johnson, Nurse John Smith, Nurse Rachel Green",Spine Fusion,205
+67,COPD; Obesity,32.1,12.6,4,Dr. Michael Chen,Sedation,"Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse Emily Li, Nurse Kevin Tran",Spine Fusion,271
+51,None,25.8,13.8,2,Dr. Sarah Ahmed,Regional,"Nurse Rachel Green, Nurse Lisa Park, Nurse John Smith, Nurse David Thompson",Spine Fusion,197
+69,Heart Disease; Diabetes; Obesity; Hypertension,24.6,13.5,3,Dr. James O'Brien,Local,"Nurse John Smith, Nurse Carlos Rodriguez, Nurse Rachel Green",Hernia Repair,214
+65,Diabetes; Hypertension; Heart Disease; Chronic Kidney Disease,34.8,13.1,3,Dr. Sarah Ahmed,Local,"Nurse Jennifer Wong, Nurse Rachel Green, Nurse Maria Lopez, Nurse Lisa Park",Spine Fusion,227
+81,Diabetes; Coagulopathy,30.6,12.2,2,Dr. James O'Brien,Local,"Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Maria Lopez",Hip Replacement,148
+38,None,29.4,10,3,Dr. Michael Chen,Local,"Nurse Carlos Rodriguez, Nurse Lisa Park, Nurse Emily Li, Nurse Jennifer Wong, Nurse Maria Lopez",Spine Fusion,186
+44,Coagulopathy,29.9,14.1,2,Dr. Sarah Ahmed,General,"Nurse David Thompson, Nurse Lisa Park, Nurse Sarah Johnson, Nurse Carlos Rodriguez, Nurse Maria Lopez",Spine Fusion,173
+57,Hypertension,28.5,11.6,2,Dr. Elena Rodriguez,Regional,"Nurse Kevin Tran, Nurse Rachel Green, Nurse David Thompson",Cholecystectomy,134
+57,Diabetes; Obesity,40.5,14.1,3,Dr. James O'Brien,Sedation,"Nurse Kevin Tran, Nurse Lisa Park, Nurse John Smith, Nurse Sarah Johnson, Nurse Ahmed Hassan",Spine Fusion,246
+51,Heart Disease,32.4,13.4,2,Dr. James O'Brien,Regional,"Nurse Rachel Green, Nurse Kevin Tran, Nurse Maria Lopez, Nurse David Thompson, Nurse Sarah Johnson",Hip Replacement,193
+68,Chronic Kidney Disease,16,12.4,2,Dr. Elena Rodriguez,Regional,"Nurse Rachel Green, Nurse David Thompson, Nurse Jennifer Wong",Hip Replacement,180
+61,None,29.1,13.8,3,Dr. Michael Chen,General,"Nurse Ahmed Hassan, Nurse David Thompson, Nurse Jennifer Wong",Knee Replacement,143
+34,COPD; Coagulopathy; Obesity,33.7,14,2,Dr. Priya Patel,Local,"Nurse Rachel Green, Nurse Maria Lopez, Nurse John Smith, Nurse Lisa Park, Nurse Emily Li",Hernia Repair,112
+50,Chronic Kidney Disease; COPD; Diabetes,33.4,13.3,4,Dr. James O'Brien,Sedation,"Nurse Rachel Green, Nurse Kevin Tran, Nurse John Smith",Cholecystectomy,154
+75,None,16,15.1,3,Dr. Michael Chen,Regional,"Nurse Ahmed Hassan, Nurse John Smith",Hernia Repair,180
+46,Heart Disease; Hypertension; Diabetes; Obesity,46.9,13.5,5,Dr. Michael Chen,Sedation,"Nurse Rachel Green, Nurse Kevin Tran, Nurse Lisa Park",Cholecystectomy,144
+74,Diabetes,33.9,15.5,3,Dr. Elena Rodriguez,General,"Nurse Rachel Green, Nurse Sarah Johnson, Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse John Smith",Cholecystectomy,123
+84,Obesity,19.6,13.4,2,Dr. James O'Brien,Local,"Nurse Sarah Johnson, Nurse Emily Li",Hernia Repair,133
+51,Diabetes; Coagulopathy,37.4,11.9,4,Dr. Michael Chen,Local,"Nurse Lisa Park, Nurse Kevin Tran, Nurse Maria Lopez",Spine Fusion,220
+59,Obesity; Diabetes; Hypertension; COPD; Heart Disease,28.8,12.9,5,Dr. Sarah Ahmed,Sedation,"Nurse Rachel Green, Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse Carlos Rodriguez, Nurse Maria Lopez",Spine Fusion,229
+74,Heart Disease,24.6,16.2,2,Dr. Priya Patel,Sedation,"Nurse Emily Li, Nurse Lisa Park, Nurse David Thompson, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Spine Fusion,196
+50,None,26.9,13.3,1,Dr. Michael Chen,General,"Nurse Rachel Green, Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse Maria Lopez, Nurse John Smith",Knee Replacement,154
+83,Heart Disease,17.9,14,2,Dr. Michael Chen,Sedation,"Nurse Emily Li, Nurse David Thompson, Nurse Sarah Johnson, Nurse Maria Lopez",Knee Replacement,162
+78,COPD,29.8,12.7,3,Dr. James O'Brien,Local,"Nurse John Smith, Nurse Ahmed Hassan",Cholecystectomy,95
+80,Obesity; COPD,26.7,12.7,3,Dr. Sarah Ahmed,Sedation,"Nurse Maria Lopez, Nurse John Smith, Nurse Rachel Green, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Spine Fusion,236
+59,Chronic Kidney Disease,32.2,16.4,3,Dr. Michael Chen,General,"Nurse David Thompson, Nurse Maria Lopez, Nurse John Smith, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Spine Fusion,181
+80,None,26.2,13.5,2,Dr. Michael Chen,Regional,"Nurse David Thompson, Nurse John Smith, Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse Maria Lopez",Cholecystectomy,106
+73,None,23.5,13.8,3,Dr. Priya Patel,Sedation,"Nurse Rachel Green, Nurse Ahmed Hassan, Nurse Lisa Park, Nurse Sarah Johnson, Nurse Carlos Rodriguez",Spine Fusion,229
+51,COPD; Hypertension,21,11.2,2,Dr. James O'Brien,Regional,"Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse John Smith, Nurse Rachel Green",Knee Replacement,105
+83,Coagulopathy,28.2,9.8,2,Dr. James O'Brien,Local,"Nurse Rachel Green, Nurse Sarah Johnson",Hernia Repair,196
+53,Coagulopathy; Obesity,33.9,14.6,3,Dr. Elena Rodriguez,Regional,"Nurse Maria Lopez, Nurse Rachel Green, Nurse Kevin Tran, Nurse Carlos Rodriguez",Spine Fusion,227
+60,None,24.3,13.2,1,Dr. Sarah Ahmed,Sedation,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse Emily Li, Nurse Lisa Park, Nurse Rachel Green",Hernia Repair,108
+72,COPD,25.2,11,2,Dr. James O'Brien,Sedation,"Nurse John Smith, Nurse Lisa Park, Nurse Sarah Johnson, Nurse Kevin Tran",Hernia Repair,192
+60,Diabetes; Heart Disease,23.7,14.8,2,Dr. Sarah Ahmed,Regional,"Nurse Sarah Johnson, Nurse Lisa Park, Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse Maria Lopez",Arthroscopy,74
+76,Obesity; Coagulopathy,30.6,14.8,3,Dr. Priya Patel,General,"Nurse David Thompson, Nurse Carlos Rodriguez, Nurse Lisa Park, Nurse Kevin Tran",Spine Fusion,233
+44,Chronic Kidney Disease; Hypertension; COPD,24.6,12.9,3,Dr. Priya Patel,Local,"Nurse David Thompson, Nurse Carlos Rodriguez, Nurse Rachel Green",Cholecystectomy,110
+60,Obesity,25.4,14.7,3,Dr. Priya Patel,Sedation,"Nurse Lisa Park, Nurse David Thompson, Nurse Emily Li, Nurse Sarah Johnson, Nurse Jennifer Wong",Hernia Repair,97
+70,Coagulopathy; Obesity; Diabetes; Chronic Kidney Disease; COPD,19.8,11.1,3,Dr. Michael Chen,General,"Nurse John Smith, Nurse David Thompson, Nurse Sarah Johnson, Nurse Kevin Tran",Arthroscopy,133
+70,COPD; Hypertension,31.1,9.9,3,Dr. Michael Chen,Local,"Nurse Maria Lopez, Nurse Lisa Park, Nurse Emily Li, Nurse Kevin Tran",Spine Fusion,228
+60,None,34.6,14.4,2,Dr. Sarah Ahmed,Sedation,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse John Smith",Arthroscopy,41
+52,Obesity,35.2,15.4,4,Dr. James O'Brien,Sedation,"Nurse Jennifer Wong, Nurse Lisa Park, Nurse David Thompson",Arthroscopy,49
+62,Obesity; Chronic Kidney Disease,20.5,12.7,2,Dr. Sarah Ahmed,Regional,"Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Jennifer Wong",Knee Replacement,131
+74,None,27.8,17,2,Dr. Michael Chen,General,"Nurse Lisa Park, Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Emily Li",Cholecystectomy,120
+65,Coagulopathy,40.3,11.8,4,Dr. Elena Rodriguez,Local,"Nurse Rachel Green, Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse David Thompson, Nurse John Smith",Cholecystectomy,162
+66,Obesity; Heart Disease; COPD; Chronic Kidney Disease,29.6,14.8,3,Dr. Elena Rodriguez,Regional,"Nurse Rachel Green, Nurse John Smith, Nurse Sarah Johnson, Nurse Carlos Rodriguez, Nurse Maria Lopez",Hip Replacement,174
+52,COPD; Obesity; Heart Disease; Chronic Kidney Disease,28.2,11.3,4,Dr. Elena Rodriguez,General,"Nurse Maria Lopez, Nurse Sarah Johnson, Nurse Rachel Green, Nurse Lisa Park",Hip Replacement,213
+59,Obesity; Chronic Kidney Disease; COPD; Heart Disease,20.7,13.2,4,Dr. Sarah Ahmed,Regional,"Nurse Kevin Tran, Nurse Emily Li, Nurse John Smith",Hernia Repair,138
+83,None,29.9,14,1,Dr. Michael Chen,Local,"Nurse Lisa Park, Nurse Jennifer Wong, Nurse David Thompson, Nurse Maria Lopez",Hip Replacement,187
+49,Coagulopathy; COPD,16,14.4,3,Dr. Elena Rodriguez,Regional,"Nurse Kevin Tran, Nurse Emily Li",Cholecystectomy,102
+80,Diabetes,29.1,12.2,3,Dr. Sarah Ahmed,Regional,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse John Smith",Hernia Repair,175
+52,None,33,13.5,2,Dr. Michael Chen,Local,"Nurse Ahmed Hassan, Nurse Lisa Park, Nurse Rachel Green, Nurse Jennifer Wong",Cholecystectomy,120
+76,Coagulopathy,21.1,13.2,2,Dr. James O'Brien,Regional,"Nurse Rachel Green, Nurse Emily Li, Nurse David Thompson, Nurse Carlos Rodriguez, Nurse Maria Lopez",Arthroscopy,157
+64,None,31.5,16.3,3,Dr. Elena Rodriguez,Local,"Nurse Lisa Park, Nurse Sarah Johnson, Nurse Ahmed Hassan",Knee Replacement,120
+78,None,20.5,14,2,Dr. Sarah Ahmed,Local,"Nurse Sarah Johnson, Nurse Maria Lopez",Hip Replacement,166
+77,Obesity; Diabetes,26.8,12.9,4,Dr. Priya Patel,Regional,"Nurse Emily Li, Nurse Rachel Green, Nurse Sarah Johnson, Nurse Lisa Park, Nurse Maria Lopez",Arthroscopy,136
+88,COPD; Diabetes,25.2,13,2,Dr. Sarah Ahmed,Local,"Nurse Kevin Tran, Nurse John Smith, Nurse David Thompson, Nurse Carlos Rodriguez",Knee Replacement,159
+79,None,26.6,12.4,4,Dr. Michael Chen,Sedation,"Nurse David Thompson, Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Ahmed Hassan, Nurse Kevin Tran",Cholecystectomy,90
+73,Diabetes; Coagulopathy,27,13.7,2,Dr. Michael Chen,Sedation,"Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Sarah Johnson",Knee Replacement,178
+45,Heart Disease; Chronic Kidney Disease; Obesity,31.4,11.5,5,Dr. Sarah Ahmed,Sedation,"Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse David Thompson, Nurse Ahmed Hassan",Hernia Repair,220
+55,Obesity; COPD,34.1,10.1,3,Dr. Sarah Ahmed,Sedation,"Nurse Maria Lopez, Nurse Emily Li, Nurse John Smith, Nurse Carlos Rodriguez",Knee Replacement,136
+86,None,26.4,14.9,2,Dr. Sarah Ahmed,Local,"Nurse Emily Li, Nurse David Thompson, Nurse Lisa Park",Hip Replacement,157
+83,None,37.5,13.9,3,Dr. Priya Patel,Regional,"Nurse Sarah Johnson, Nurse Rachel Green",Spine Fusion,248
+66,Diabetes; COPD,27.8,13.4,4,Dr. Elena Rodriguez,General,"Nurse Lisa Park, Nurse John Smith",Hernia Repair,120
+79,Diabetes; Heart Disease; Hypertension,17,13.8,3,Dr. Elena Rodriguez,Regional,"Nurse Kevin Tran, Nurse John Smith, Nurse David Thompson",Hernia Repair,125
+52,Obesity; Hypertension,34.2,13,2,Dr. James O'Brien,Local,"Nurse Emily Li, Nurse Jennifer Wong, Nurse Maria Lopez",Cholecystectomy,75
+65,Coagulopathy; Hypertension; Chronic Kidney Disease,22.8,15.2,5,Dr. Sarah Ahmed,General,"Nurse Jennifer Wong, Nurse David Thompson, Nurse Maria Lopez, Nurse Lisa Park",Spine Fusion,253
+54,Heart Disease; Hypertension; Obesity; Coagulopathy,20.5,14.2,2,Dr. Elena Rodriguez,General,"Nurse Jennifer Wong, Nurse Rachel Green",Knee Replacement,157
+63,Hypertension; Chronic Kidney Disease; COPD,24.4,16,4,Dr. Michael Chen,Sedation,"Nurse David Thompson, Nurse Carlos Rodriguez",Hernia Repair,169
+57,Coagulopathy,23.9,14.2,5,Dr. Elena Rodriguez,Regional,"Nurse Ahmed Hassan, Nurse Kevin Tran, Nurse David Thompson, Nurse Carlos Rodriguez",Arthroscopy,76
+68,Obesity; Diabetes; Coagulopathy,25,15.7,3,Dr. Priya Patel,Sedation,"Nurse Carlos Rodriguez, Nurse Maria Lopez, Nurse Kevin Tran, Nurse Lisa Park",Arthroscopy,118
+60,COPD; Chronic Kidney Disease,22.2,15.2,3,Dr. Elena Rodriguez,General,"Nurse Carlos Rodriguez, Nurse Lisa Park",Arthroscopy,77
+68,Diabetes; Heart Disease; Obesity; Hypertension; Coagulopathy,33.1,14.2,5,Dr. Sarah Ahmed,Local,"Nurse Rachel Green, Nurse Kevin Tran, Nurse Ahmed Hassan",Arthroscopy,167
+33,COPD,26.2,11.1,2,Dr. Sarah Ahmed,General,"Nurse Carlos Rodriguez, Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse David Thompson",Knee Replacement,148
+75,Coagulopathy; Chronic Kidney Disease,25,14.7,3,Dr. Sarah Ahmed,Sedation,"Nurse Sarah Johnson, Nurse Carlos Rodriguez, Nurse John Smith",Hernia Repair,113
+64,None,38.3,11.8,2,Dr. James O'Brien,Local,"Nurse Carlos Rodriguez, Nurse Sarah Johnson, Nurse Kevin Tran, Nurse David Thompson",Knee Replacement,158
+71,None,36.4,15.2,2,Dr. Sarah Ahmed,Sedation,"Nurse Emily Li, Nurse Rachel Green, Nurse Lisa Park, Nurse Jennifer Wong, Nurse Ahmed Hassan",Hernia Repair,117
+52,Diabetes; Coagulopathy; Chronic Kidney Disease,18.7,13.7,4,Dr. Sarah Ahmed,Local,"Nurse Sarah Johnson, Nurse David Thompson",Knee Replacement,144
+40,None,26.8,13.5,1,Dr. James O'Brien,Local,"Nurse Ahmed Hassan, Nurse Maria Lopez, Nurse Lisa Park",Knee Replacement,158
+54,Chronic Kidney Disease; Diabetes; COPD,27.3,14.7,2,Dr. Sarah Ahmed,Local,"Nurse Lisa Park, Nurse Sarah Johnson, Nurse Maria Lopez, Nurse Rachel Green",Cholecystectomy,99
+63,Heart Disease; Diabetes; Obesity,36.9,12.4,4,Dr. Elena Rodriguez,General,"Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse John Smith",Hernia Repair,169
+51,None,30.1,12.3,2,Dr. Sarah Ahmed,Regional,"Nurse Ahmed Hassan, Nurse Emily Li, Nurse David Thompson, Nurse Rachel Green",Spine Fusion,148
+63,Coagulopathy; COPD; Obesity,31.1,13.2,3,Dr. Michael Chen,General,"Nurse Kevin Tran, Nurse Rachel Green",Arthroscopy,101
+52,None,30.2,11.8,1,Dr. James O'Brien,Local,"Nurse Rachel Green, Nurse Lisa Park, Nurse Emily Li",Arthroscopy,65
+33,Diabetes,27,11.3,4,Dr. Priya Patel,General,"Nurse Jennifer Wong, Nurse Kevin Tran, Nurse Sarah Johnson",Hip Replacement,150
+65,Hypertension; Chronic Kidney Disease,34.3,12.7,3,Dr. Sarah Ahmed,Regional,"Nurse David Thompson, Nurse Ahmed Hassan",Hernia Repair,110
+56,COPD; Coagulopathy,21.4,13.2,4,Dr. Michael Chen,Local,"Nurse Emily Li, Nurse Jennifer Wong, Nurse Lisa Park, Nurse Rachel Green, Nurse Ahmed Hassan",Spine Fusion,182
+49,Coagulopathy; Obesity,29.3,13.7,4,Dr. Elena Rodriguez,Regional,"Nurse Maria Lopez, Nurse Jennifer Wong",Cholecystectomy,135
+68,Coagulopathy; Obesity; Diabetes,27.3,13.3,4,Dr. Priya Patel,Sedation,"Nurse Rachel Green, Nurse Carlos Rodriguez",Spine Fusion,249
+54,None,16,13.7,3,Dr. Priya Patel,General,"Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse Sarah Johnson, Nurse Rachel Green, Nurse David Thompson",Hip Replacement,143
+67,Heart Disease; COPD; Diabetes,24.9,12.5,4,Dr. Priya Patel,General,"Nurse Lisa Park, Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse Rachel Green",Hip Replacement,188
+76,Hypertension; COPD; Obesity; Diabetes,17.1,13.2,3,Dr. Elena Rodriguez,Regional,"Nurse John Smith, Nurse Rachel Green",Spine Fusion,208
+69,Coagulopathy; Hypertension,30.7,14.6,4,Dr. Priya Patel,Sedation,"Nurse Rachel Green, Nurse Emily Li, Nurse David Thompson, Nurse Maria Lopez",Spine Fusion,217
+64,Chronic Kidney Disease; COPD; Hypertension; Obesity,25.6,12.7,5,Dr. Elena Rodriguez,Sedation,"Nurse Ahmed Hassan, Nurse John Smith, Nurse Lisa Park, Nurse Emily Li, Nurse Maria Lopez",Spine Fusion,274
+43,Coagulopathy; Chronic Kidney Disease; Diabetes,26.7,14.5,3,Dr. Elena Rodriguez,Sedation,"Nurse Maria Lopez, Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Emily Li, Nurse Rachel Green",Arthroscopy,93
+46,None,23.2,11.8,1,Dr. Sarah Ahmed,General,"Nurse Lisa Park, Nurse Sarah Johnson, Nurse Rachel Green, Nurse David Thompson, Nurse John Smith",Spine Fusion,173
+49,None,34.7,14.9,3,Dr. Michael Chen,General,"Nurse Jennifer Wong, Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse Emily Li",Cholecystectomy,133
+53,COPD; Diabetes; Hypertension,33.1,14.3,2,Dr. Elena Rodriguez,Local,"Nurse Kevin Tran, Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse David Thompson, Nurse John Smith",Cholecystectomy,99
+65,None,27,12.4,3,Dr. Sarah Ahmed,General,"Nurse John Smith, Nurse Emily Li, Nurse Jennifer Wong, Nurse David Thompson",Hip Replacement,159
+67,Obesity; Coagulopathy,32.8,13.3,2,Dr. Priya Patel,Regional,"Nurse Emily Li, Nurse Lisa Park, Nurse Jennifer Wong",Hip Replacement,125
+50,Diabetes; Hypertension; Heart Disease,26.4,10.5,2,Dr. Elena Rodriguez,General,"Nurse Jennifer Wong, Nurse Kevin Tran, Nurse Lisa Park",Cholecystectomy,63
+52,Hypertension; Chronic Kidney Disease; COPD; Obesity,29.1,11.8,3,Dr. Michael Chen,Sedation,"Nurse Lisa Park, Nurse Kevin Tran, Nurse Emily Li, Nurse Ahmed Hassan, Nurse David Thompson",Spine Fusion,238
+35,Diabetes,31.3,14.7,2,Dr. Michael Chen,General,"Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse Kevin Tran, Nurse Maria Lopez, Nurse Jennifer Wong",Hip Replacement,187
+30,Heart Disease; COPD; Chronic Kidney Disease; Diabetes; Obesity,25.4,13.8,4,Dr. Sarah Ahmed,Sedation,"Nurse Rachel Green, Nurse David Thompson, Nurse Kevin Tran, Nurse Sarah Johnson",Hip Replacement,199
+53,None,30.8,14.9,2,Dr. James O'Brien,Regional,"Nurse Carlos Rodriguez, Nurse Kevin Tran",Arthroscopy,40
+67,Heart Disease,28.9,13.2,3,Dr. Elena Rodriguez,Local,"Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Carlos Rodriguez, Nurse Lisa Park",Knee Replacement,138
+57,None,35.6,14.4,1,Dr. Elena Rodriguez,General,"Nurse Ahmed Hassan, Nurse Jennifer Wong",Hip Replacement,130
+71,Hypertension; Chronic Kidney Disease,21.2,15.1,2,Dr. James O'Brien,Local,"Nurse Carlos Rodriguez, Nurse Ahmed Hassan, Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Lisa Park",Hip Replacement,190
+74,Heart Disease; COPD,20.9,16,3,Dr. James O'Brien,Local,"Nurse Emily Li, Nurse Kevin Tran, Nurse Maria Lopez, Nurse Lisa Park, Nurse Ahmed Hassan",Cholecystectomy,63
+58,Diabetes,22,9.7,3,Dr. Priya Patel,Regional,"Nurse Rachel Green, Nurse Lisa Park, Nurse Jennifer Wong, Nurse Emily Li, Nurse Maria Lopez",Hip Replacement,162
+70,None,17.8,13,2,Dr. Sarah Ahmed,Local,"Nurse Rachel Green, Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse David Thompson",Spine Fusion,188
+58,Obesity; COPD,20.3,11.7,3,Dr. Sarah Ahmed,Local,"Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse David Thompson, Nurse Sarah Johnson",Hip Replacement,148
+91,Diabetes,32,14.5,3,Dr. James O'Brien,Sedation,"Nurse Rachel Green, Nurse Jennifer Wong, Nurse John Smith, Nurse Emily Li",Arthroscopy,118
+59,Hypertension; Coagulopathy,38,13.5,5,Dr. James O'Brien,General,"Nurse Jennifer Wong, Nurse David Thompson, Nurse Rachel Green",Hernia Repair,166
+47,Obesity; Coagulopathy; Chronic Kidney Disease,21.3,13.9,4,Dr. Michael Chen,Regional,"Nurse Lisa Park, Nurse Emily Li",Arthroscopy,108
+66,Obesity; COPD; Hypertension; Coagulopathy,31.7,11.9,5,Dr. James O'Brien,General,"Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Knee Replacement,224
+82,COPD,24.6,13.4,2,Dr. Michael Chen,Sedation,"Nurse Lisa Park, Nurse John Smith, Nurse Carlos Rodriguez, Nurse Rachel Green",Cholecystectomy,140
+38,Hypertension; Obesity,30.8,16.5,2,Dr. James O'Brien,Local,"Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse John Smith",Spine Fusion,152
+70,Chronic Kidney Disease; Obesity,24.2,14.2,3,Dr. Michael Chen,Regional,"Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse David Thompson",Hip Replacement,168
+79,Coagulopathy,30.1,12.7,3,Dr. Priya Patel,Local,"Nurse Rachel Green, Nurse Maria Lopez, Nurse Carlos Rodriguez",Cholecystectomy,140
+42,Obesity,25.4,13.4,3,Dr. Elena Rodriguez,Local,"Nurse Ahmed Hassan, Nurse David Thompson",Cholecystectomy,113
+41,Diabetes; Hypertension; Heart Disease; COPD; Obesity,18.4,13.9,5,Dr. Elena Rodriguez,Sedation,"Nurse Sarah Johnson, Nurse David Thompson, Nurse John Smith",Knee Replacement,185
+53,None,28.1,12.1,2,Dr. Priya Patel,Local,"Nurse Maria Lopez, Nurse Sarah Johnson, Nurse Lisa Park, Nurse Kevin Tran",Spine Fusion,202
+63,Hypertension; COPD,31.5,16.5,3,Dr. Priya Patel,General,"Nurse Emily Li, Nurse John Smith",Knee Replacement,129
+55,Heart Disease,19.3,13.5,3,Dr. Michael Chen,Regional,"Nurse Lisa Park, Nurse Emily Li",Spine Fusion,130
+75,Hypertension,32.5,15.1,3,Dr. Elena Rodriguez,Regional,"Nurse Rachel Green, Nurse Carlos Rodriguez",Hernia Repair,157
+71,None,42.5,14.8,2,Dr. Priya Patel,Local,"Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Maria Lopez, Nurse David Thompson, Nurse Ahmed Hassan",Cholecystectomy,112
+76,Hypertension; Coagulopathy; Obesity; COPD; Diabetes,27,15.2,3,Dr. Priya Patel,Regional,"Nurse John Smith, Nurse Rachel Green, Nurse David Thompson, Nurse Maria Lopez",Hernia Repair,146
+49,None,36.8,10.9,3,Dr. James O'Brien,Sedation,"Nurse Lisa Park, Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Maria Lopez",Cholecystectomy,80
+71,None,19,15.1,3,Dr. Sarah Ahmed,Regional,"Nurse Lisa Park, Nurse Ahmed Hassan",Knee Replacement,114
+64,Chronic Kidney Disease; Hypertension; Heart Disease; COPD,34.5,15,3,Dr. Sarah Ahmed,Regional,"Nurse Kevin Tran, Nurse Emily Li",Hip Replacement,157
+73,Obesity,34.8,16,2,Dr. James O'Brien,General,"Nurse Jennifer Wong, Nurse David Thompson, Nurse Ahmed Hassan, Nurse Emily Li, Nurse Maria Lopez",Spine Fusion,162
+66,COPD; Coagulopathy,27.6,14.2,2,Dr. Michael Chen,Local,"Nurse Lisa Park, Nurse Sarah Johnson",Knee Replacement,142
+68,Heart Disease; Chronic Kidney Disease,26.2,14.4,3,Dr. Elena Rodriguez,Local,"Nurse Emily Li, Nurse David Thompson",Cholecystectomy,144
+59,None,19.9,14.5,2,Dr. Michael Chen,Regional,"Nurse Lisa Park, Nurse David Thompson, Nurse Emily Li",Arthroscopy,46
+60,None,32.2,13.9,2,Dr. James O'Brien,Local,"Nurse Emily Li, Nurse Ahmed Hassan",Knee Replacement,184
+44,Coagulopathy; Chronic Kidney Disease; Hypertension; COPD; Heart Disease,25,11.6,5,Dr. Elena Rodriguez,Sedation,"Nurse Lisa Park, Nurse Jennifer Wong, Nurse Kevin Tran, Nurse David Thompson, Nurse Emily Li",Hip Replacement,216
+67,Diabetes,28.2,11.5,3,Dr. Michael Chen,Local,"Nurse John Smith, Nurse Maria Lopez, Nurse Lisa Park, Nurse Kevin Tran",Cholecystectomy,141
+95,Heart Disease; Obesity,33.7,11.6,5,Dr. Elena Rodriguez,Regional,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse Maria Lopez, Nurse Sarah Johnson",Hip Replacement,229
+84,Heart Disease,35.5,15.3,3,Dr. James O'Brien,Local,"Nurse Maria Lopez, Nurse Emily Li, Nurse Rachel Green, Nurse David Thompson",Arthroscopy,155
+66,COPD; Coagulopathy; Chronic Kidney Disease; Obesity,25,13.3,3,Dr. James O'Brien,Local,"Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Emily Li",Hip Replacement,227
+61,Coagulopathy; Diabetes,27,13.8,4,Dr. Sarah Ahmed,General,"Nurse David Thompson, Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Rachel Green, Nurse Ahmed Hassan",Hip Replacement,159
+60,None,20.2,14.5,3,Dr. Sarah Ahmed,Local,"Nurse Emily Li, Nurse Rachel Green",Arthroscopy,98
+58,COPD; Obesity,32.2,11.4,3,Dr. Sarah Ahmed,Local,"Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse Emily Li, Nurse Kevin Tran, Nurse Maria Lopez",Knee Replacement,146
+25,Obesity,30,9.8,2,Dr. Priya Patel,Regional,"Nurse Rachel Green, Nurse Maria Lopez, Nurse David Thompson, Nurse Sarah Johnson, Nurse Jennifer Wong",Cholecystectomy,70
+74,Diabetes; Hypertension; Obesity,25.7,15,3,Dr. Elena Rodriguez,Local,"Nurse Maria Lopez, Nurse Jennifer Wong, Nurse David Thompson, Nurse John Smith, Nurse Sarah Johnson",Knee Replacement,162
+21,Heart Disease,23.9,13.5,3,Dr. Elena Rodriguez,Local,"Nurse Kevin Tran, Nurse Maria Lopez, Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse Ahmed Hassan",Hip Replacement,160
+57,COPD; Diabetes,26.3,14.7,4,Dr. Sarah Ahmed,Local,"Nurse Ahmed Hassan, Nurse Emily Li, Nurse Sarah Johnson",Cholecystectomy,109
+37,Chronic Kidney Disease; Heart Disease; Hypertension; Diabetes; COPD,26.4,13.7,4,Dr. Sarah Ahmed,General,"Nurse Carlos Rodriguez, Nurse Ahmed Hassan, Nurse Sarah Johnson",Hernia Repair,149
+66,Heart Disease,16,13.9,2,Dr. Priya Patel,Regional,"Nurse Carlos Rodriguez, Nurse John Smith, Nurse Rachel Green, Nurse Lisa Park",Knee Replacement,159
+34,Diabetes; Hypertension; Coagulopathy; COPD,26.7,9.9,3,Dr. Priya Patel,Local,"Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Emily Li",Cholecystectomy,86
+51,Chronic Kidney Disease; Diabetes,20.4,13.2,3,Dr. Michael Chen,Regional,"Nurse Rachel Green, Nurse Jennifer Wong, Nurse Kevin Tran, Nurse Emily Li",Arthroscopy,64
+51,Diabetes; Hypertension; Chronic Kidney Disease,16,15.6,3,Dr. James O'Brien,Local,"Nurse Carlos Rodriguez, Nurse Maria Lopez, Nurse Emily Li",Arthroscopy,111
+46,None,28.5,12.1,2,Dr. Michael Chen,Sedation,"Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse David Thompson, Nurse Lisa Park, Nurse Kevin Tran",Hernia Repair,94
+42,None,28.2,11.3,3,Dr. Sarah Ahmed,Local,"Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse Kevin Tran, Nurse David Thompson, Nurse Carlos Rodriguez",Arthroscopy,70
+72,Chronic Kidney Disease; Diabetes; COPD,22.4,14,3,Dr. Priya Patel,Regional,"Nurse Lisa Park, Nurse Ahmed Hassan, Nurse Emily Li, Nurse Jennifer Wong, Nurse Sarah Johnson",Hernia Repair,164
+34,None,25.8,15.3,3,Dr. Priya Patel,General,"Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse Maria Lopez",Arthroscopy,46
+71,Obesity; Hypertension,30.8,14,3,Dr. James O'Brien,Local,"Nurse Jennifer Wong, Nurse Lisa Park, Nurse Emily Li, Nurse John Smith",Knee Replacement,161
+53,Obesity; Heart Disease,32.2,15.7,3,Dr. Elena Rodriguez,Local,"Nurse Rachel Green, Nurse John Smith",Cholecystectomy,102
+56,None,34.3,12.4,2,Dr. Michael Chen,General,"Nurse Lisa Park, Nurse Rachel Green, Nurse Ahmed Hassan",Cholecystectomy,102
+28,Obesity; Chronic Kidney Disease,28.5,15.6,2,Dr. Priya Patel,Regional,"Nurse Kevin Tran, Nurse Lisa Park, Nurse Jennifer Wong",Cholecystectomy,106
+64,Chronic Kidney Disease; Obesity; Coagulopathy,29.9,16,4,Dr. Priya Patel,General,"Nurse Kevin Tran, Nurse Maria Lopez, Nurse Lisa Park, Nurse David Thompson",Hip Replacement,205
+52,Chronic Kidney Disease; Obesity,23.5,12.5,3,Dr. Elena Rodriguez,Sedation,"Nurse Lisa Park, Nurse John Smith, Nurse Sarah Johnson, Nurse Maria Lopez",Knee Replacement,157
+60,Chronic Kidney Disease; Obesity,31.3,15.9,3,Dr. Michael Chen,Sedation,"Nurse Lisa Park, Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse John Smith",Hip Replacement,206
+57,Heart Disease; COPD; Diabetes; Obesity,31.7,14.3,3,Dr. Elena Rodriguez,Sedation,"Nurse Carlos Rodriguez, Nurse Sarah Johnson, Nurse Lisa Park",Spine Fusion,210
+76,Hypertension; Heart Disease,30.1,13,2,Dr. Priya Patel,Sedation,"Nurse Emily Li, Nurse Lisa Park, Nurse Kevin Tran",Hernia Repair,153
+56,None,42.7,11.7,2,Dr. Sarah Ahmed,General,"Nurse Emily Li, Nurse Ahmed Hassan, Nurse Kevin Tran",Cholecystectomy,99
+71,Heart Disease; Hypertension; COPD; Diabetes; Chronic Kidney Disease,36,14.1,3,Dr. James O'Brien,Sedation,"Nurse John Smith, Nurse Jennifer Wong, Nurse David Thompson, Nurse Maria Lopez, Nurse Kevin Tran",Hernia Repair,189
+53,Coagulopathy; Obesity; COPD,26.8,14.3,3,Dr. Elena Rodriguez,Regional,"Nurse Jennifer Wong, Nurse Emily Li, Nurse Kevin Tran",Arthroscopy,105
+55,Coagulopathy; Hypertension,34.4,13.8,2,Dr. Elena Rodriguez,General,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Rachel Green, Nurse John Smith",Arthroscopy,93
+70,Diabetes,28.6,12.7,3,Dr. Sarah Ahmed,Local,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse John Smith, Nurse Lisa Park, Nurse Rachel Green",Spine Fusion,167
+65,None,32.3,15.3,3,Dr. James O'Brien,Sedation,"Nurse Maria Lopez, Nurse Rachel Green",Cholecystectomy,113
+49,Obesity; Chronic Kidney Disease; COPD,23.2,13.3,3,Dr. James O'Brien,Regional,"Nurse Ahmed Hassan, Nurse Maria Lopez, Nurse David Thompson, Nurse Sarah Johnson",Hernia Repair,109
+65,Heart Disease,32.9,13.4,4,Dr. Priya Patel,General,"Nurse Sarah Johnson, Nurse Emily Li, Nurse Maria Lopez, Nurse Lisa Park",Knee Replacement,186
+50,Obesity,27.4,11.6,2,Dr. Michael Chen,General,"Nurse Emily Li, Nurse Ahmed Hassan, Nurse Rachel Green",Spine Fusion,202
+75,None,24.1,11.7,2,Dr. Sarah Ahmed,General,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse Lisa Park, Nurse Rachel Green, Nurse Sarah Johnson",Spine Fusion,224
+44,Hypertension; Diabetes,33.1,15.8,2,Dr. James O'Brien,Regional,"Nurse Emily Li, Nurse Lisa Park, Nurse Ahmed Hassan, Nurse Kevin Tran, Nurse Sarah Johnson",Hernia Repair,109
+47,Hypertension; Obesity,33.9,11.8,2,Dr. Michael Chen,Local,"Nurse Ahmed Hassan, Nurse Maria Lopez, Nurse Kevin Tran, Nurse Lisa Park, Nurse David Thompson",Knee Replacement,162
+67,Coagulopathy; COPD; Obesity,27.7,11.4,3,Dr. James O'Brien,Local,"Nurse Jennifer Wong, Nurse Kevin Tran, Nurse Ahmed Hassan, Nurse Lisa Park, Nurse Carlos Rodriguez",Hip Replacement,125
+54,Hypertension; COPD,30.1,13.9,3,Dr. James O'Brien,Local,"Nurse Kevin Tran, Nurse Emily Li, Nurse Ahmed Hassan, Nurse Carlos Rodriguez",Arthroscopy,55
+44,COPD,22.5,12.4,2,Dr. James O'Brien,General,"Nurse Emily Li, Nurse Lisa Park",Hernia Repair,100
+80,COPD; Obesity,24.9,12.4,3,Dr. Sarah Ahmed,Regional,"Nurse Lisa Park, Nurse Maria Lopez, Nurse Carlos Rodriguez, Nurse Rachel Green",Cholecystectomy,111
+51,None,23,12.2,1,Dr. Michael Chen,Regional,"Nurse Kevin Tran, Nurse Carlos Rodriguez",Spine Fusion,195
+59,Obesity,20.9,12.4,3,Dr. Priya Patel,General,"Nurse Jennifer Wong, Nurse John Smith, Nurse Maria Lopez, Nurse David Thompson, Nurse Carlos Rodriguez",Knee Replacement,143
+51,COPD,16,10.3,3,Dr. Elena Rodriguez,Sedation,"Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Lisa Park, Nurse John Smith",Hernia Repair,116
+78,Obesity,32.5,13.7,2,Dr. Michael Chen,Local,"Nurse Maria Lopez, Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse John Smith, Nurse Rachel Green",Hernia Repair,133
+48,None,35.2,13.2,2,Dr. Sarah Ahmed,Local,"Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse Emily Li, Nurse Jennifer Wong, Nurse John Smith",Knee Replacement,122
+55,None,21.2,12.8,3,Dr. Sarah Ahmed,Regional,"Nurse Lisa Park, Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse John Smith",Arthroscopy,94
+45,Heart Disease,19.4,11.9,3,Dr. Priya Patel,Sedation,"Nurse John Smith, Nurse Rachel Green, Nurse Kevin Tran, Nurse Lisa Park",Cholecystectomy,78
+80,Heart Disease; COPD,38.2,11.9,2,Dr. Priya Patel,Sedation,"Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Kevin Tran, Nurse David Thompson",Arthroscopy,140
+71,COPD,30.8,16.4,2,Dr. Priya Patel,General,"Nurse Jennifer Wong, Nurse Rachel Green, Nurse Maria Lopez, Nurse Kevin Tran",Spine Fusion,212
+66,None,28.2,13.4,2,Dr. James O'Brien,Regional,"Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse Lisa Park, Nurse John Smith",Knee Replacement,168
+76,None,29.6,14.6,2,Dr. Priya Patel,Regional,"Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Jennifer Wong, Nurse David Thompson",Knee Replacement,172
+74,Hypertension,22.2,12.9,3,Dr. Sarah Ahmed,Regional,"Nurse Lisa Park, Nurse Ahmed Hassan",Hernia Repair,170
+55,Chronic Kidney Disease; Hypertension,34.1,13.9,4,Dr. Elena Rodriguez,Local,"Nurse David Thompson, Nurse Sarah Johnson",Hip Replacement,190
+75,Chronic Kidney Disease; COPD; Diabetes; Hypertension; Obesity,28.6,15.4,3,Dr. Sarah Ahmed,Regional,"Nurse Sarah Johnson, Nurse Carlos Rodriguez, Nurse Kevin Tran",Hip Replacement,179
+63,Coagulopathy,21.8,13.4,5,Dr. Priya Patel,Regional,"Nurse Emily Li, Nurse Rachel Green, Nurse Maria Lopez, Nurse David Thompson",Hernia Repair,147
+72,Obesity,32.7,11.1,3,Dr. James O'Brien,Regional,"Nurse Jennifer Wong, Nurse Sarah Johnson",Hip Replacement,204
+55,Diabetes,25.5,16.3,2,Dr. James O'Brien,Local,"Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse Rachel Green, Nurse Maria Lopez, Nurse Lisa Park",Knee Replacement,155
+29,None,26,15.2,2,Dr. Sarah Ahmed,Sedation,"Nurse Emily Li, Nurse Rachel Green",Cholecystectomy,73
+19,Chronic Kidney Disease; Obesity; Coagulopathy,26.2,13.1,3,Dr. Elena Rodriguez,General,"Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse David Thompson",Cholecystectomy,112
+61,Heart Disease; Hypertension; COPD,24.9,11.8,3,Dr. Sarah Ahmed,Regional,"Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Emily Li, Nurse Rachel Green",Hip Replacement,166
+48,Hypertension; Obesity,34.2,15.5,2,Dr. Elena Rodriguez,General,"Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse Emily Li, Nurse David Thompson, Nurse John Smith",Spine Fusion,207
+85,None,25.9,17,2,Dr. Michael Chen,Regional,"Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse Emily Li",Knee Replacement,214
+62,None,28.6,11.2,3,Dr. James O'Brien,Regional,"Nurse Rachel Green, Nurse Sarah Johnson",Hernia Repair,134
+39,None,22,12.7,2,Dr. James O'Brien,Local,"Nurse Rachel Green, Nurse Emily Li, Nurse Lisa Park, Nurse Maria Lopez, Nurse Jennifer Wong",Arthroscopy,42
+30,Chronic Kidney Disease; Hypertension,25.6,13.1,3,Dr. Priya Patel,Sedation,"Nurse Lisa Park, Nurse David Thompson",Hernia Repair,115
+70,None,33,11.9,2,Dr. Elena Rodriguez,General,"Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse Rachel Green",Arthroscopy,105
+81,Chronic Kidney Disease; Heart Disease; Coagulopathy,36.9,11.3,3,Dr. Sarah Ahmed,Regional,"Nurse John Smith, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Spine Fusion,245
+59,None,33.7,14.8,3,Dr. Michael Chen,Regional,"Nurse Kevin Tran, Nurse Emily Li, Nurse Sarah Johnson, Nurse Carlos Rodriguez, Nurse Ahmed Hassan",Arthroscopy,88
+57,Coagulopathy,21.6,15.4,4,Dr. Michael Chen,Sedation,"Nurse Lisa Park, Nurse Kevin Tran, Nurse David Thompson",Knee Replacement,141
+60,None,29.6,12.1,2,Dr. Priya Patel,Regional,"Nurse David Thompson, Nurse Kevin Tran, Nurse Lisa Park, Nurse Maria Lopez",Hernia Repair,74
+41,Obesity; Coagulopathy; Hypertension,30.6,14.5,4,Dr. Elena Rodriguez,General,"Nurse Emily Li, Nurse Ahmed Hassan, Nurse Carlos Rodriguez",Hip Replacement,187
+95,Chronic Kidney Disease,35.8,12.7,3,Dr. Michael Chen,Sedation,"Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse David Thompson",Arthroscopy,142
+53,Coagulopathy,27.3,12.2,2,Dr. Sarah Ahmed,Sedation,"Nurse Carlos Rodriguez, Nurse Jennifer Wong",Spine Fusion,158
+69,COPD; Obesity,39.1,12.5,2,Dr. Elena Rodriguez,Local,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez",Spine Fusion,206
+58,Chronic Kidney Disease,29.9,15.3,2,Dr. Michael Chen,General,"Nurse Sarah Johnson, Nurse Rachel Green",Hernia Repair,57
+54,Chronic Kidney Disease; Hypertension; Obesity,19.4,14.6,4,Dr. James O'Brien,Local,"Nurse Maria Lopez, Nurse Sarah Johnson",Knee Replacement,149
+44,Chronic Kidney Disease; Diabetes; Obesity,33.4,16.2,4,Dr. Priya Patel,General,"Nurse David Thompson, Nurse Carlos Rodriguez",Spine Fusion,235
+52,Heart Disease,25.6,13.8,3,Dr. Priya Patel,Sedation,"Nurse Jennifer Wong, Nurse Lisa Park, Nurse Sarah Johnson, Nurse Emily Li, Nurse John Smith",Arthroscopy,63
+45,None,30.8,15.5,3,Dr. Priya Patel,Local,"Nurse Sarah Johnson, Nurse David Thompson, Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Emily Li",Hip Replacement,176
+80,None,35.9,14.6,2,Dr. Sarah Ahmed,Sedation,"Nurse Jennifer Wong, Nurse Ahmed Hassan",Hernia Repair,125
+43,None,26.1,13.5,2,Dr. James O'Brien,Local,"Nurse John Smith, Nurse Maria Lopez, Nurse Kevin Tran",Knee Replacement,121
+53,COPD; Chronic Kidney Disease,22.8,13.8,2,Dr. James O'Brien,Local,"Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse John Smith, Nurse Lisa Park, Nurse Carlos Rodriguez",Spine Fusion,179
+77,Hypertension; Heart Disease; Coagulopathy; Diabetes; COPD,28.8,13.3,5,Dr. Michael Chen,General,"Nurse Kevin Tran, Nurse Maria Lopez, Nurse John Smith, Nurse Ahmed Hassan, Nurse Lisa Park",Spine Fusion,252
+71,Obesity; Diabetes; COPD,39.6,12.2,2,Dr. James O'Brien,Sedation,"Nurse John Smith, Nurse Maria Lopez",Knee Replacement,179
+72,COPD; Hypertension; Obesity; Chronic Kidney Disease,21.1,13.8,2,Dr. Elena Rodriguez,Local,"Nurse Jennifer Wong, Nurse Ahmed Hassan",Knee Replacement,170
+53,Hypertension; Chronic Kidney Disease,19.9,11.8,2,Dr. Priya Patel,Local,"Nurse Kevin Tran, Nurse Lisa Park, Nurse Emily Li, Nurse John Smith",Spine Fusion,200
+56,Hypertension,38.1,12.1,3,Dr. Priya Patel,General,"Nurse Sarah Johnson, Nurse Rachel Green, Nurse Kevin Tran",Knee Replacement,142
+77,Obesity,32.9,13.5,3,Dr. James O'Brien,Sedation,"Nurse Lisa Park, Nurse Sarah Johnson, Nurse Ahmed Hassan",Spine Fusion,285
+35,Diabetes,25.8,14.1,2,Dr. Priya Patel,Sedation,"Nurse Lisa Park, Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse Emily Li",Hernia Repair,134
+50,COPD; Hypertension; Heart Disease,27.7,13.4,4,Dr. James O'Brien,Regional,"Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse John Smith, Nurse Sarah Johnson",Arthroscopy,98
+64,Heart Disease; Chronic Kidney Disease; Hypertension; COPD; Diabetes,23.8,15.2,4,Dr. Elena Rodriguez,Regional,"Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse Kevin Tran, Nurse Jennifer Wong, Nurse John Smith",Hernia Repair,148
+68,Heart Disease,28.5,12.6,2,Dr. Priya Patel,Local,"Nurse Emily Li, Nurse David Thompson, Nurse Carlos Rodriguez",Hip Replacement,146
+36,Diabetes,23.1,16.8,2,Dr. Sarah Ahmed,General,"Nurse Maria Lopez, Nurse Rachel Green, Nurse Sarah Johnson",Arthroscopy,57
+64,None,17.7,12.2,3,Dr. Michael Chen,Regional,"Nurse John Smith, Nurse Kevin Tran",Hip Replacement,126
+72,COPD; Hypertension,22.9,12,3,Dr. Michael Chen,General,"Nurse Rachel Green, Nurse Maria Lopez, Nurse John Smith, Nurse Ahmed Hassan",Knee Replacement,196
+82,Chronic Kidney Disease,18.7,10.5,3,Dr. Elena Rodriguez,Local,"Nurse John Smith, Nurse Kevin Tran, Nurse Lisa Park, Nurse Sarah Johnson, Nurse David Thompson",Arthroscopy,101
+46,Coagulopathy; Heart Disease; COPD; Obesity,22.1,11.1,3,Dr. Priya Patel,Sedation,"Nurse Rachel Green, Nurse Lisa Park, Nurse Emily Li, Nurse Carlos Rodriguez",Knee Replacement,159
+67,None,19.2,15.3,1,Dr. Elena Rodriguez,Regional,"Nurse Carlos Rodriguez, Nurse Emily Li",Knee Replacement,125
+58,Heart Disease; Coagulopathy,30.2,13.8,4,Dr. Michael Chen,Local,"Nurse Maria Lopez, Nurse Kevin Tran, Nurse John Smith, Nurse Jennifer Wong, Nurse Lisa Park",Spine Fusion,210
+61,Obesity,32.4,13,2,Dr. Michael Chen,Sedation,"Nurse Rachel Green, Nurse Jennifer Wong, Nurse John Smith, Nurse Emily Li, Nurse David Thompson",Spine Fusion,192
+56,Obesity; Hypertension,30.6,14.1,3,Dr. Michael Chen,Sedation,"Nurse Ahmed Hassan, Nurse Emily Li, Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse Kevin Tran",Hernia Repair,118
+60,COPD,24.6,9.1,2,Dr. Priya Patel,Sedation,"Nurse Emily Li, Nurse Jennifer Wong, Nurse Kevin Tran",Arthroscopy,133
+90,Hypertension; Obesity; Diabetes; Chronic Kidney Disease; COPD,24.9,13,4,Dr. Sarah Ahmed,Regional,"Nurse Maria Lopez, Nurse Sarah Johnson",Spine Fusion,229
+73,None,34.7,15.2,1,Dr. Michael Chen,Regional,"Nurse David Thompson, Nurse Jennifer Wong, Nurse Maria Lopez",Spine Fusion,237
+54,Obesity; COPD,34.9,12.4,3,Dr. Elena Rodriguez,General,"Nurse Maria Lopez, Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse Ahmed Hassan",Spine Fusion,214
+43,Diabetes,31,12.1,2,Dr. Priya Patel,Local,"Nurse Maria Lopez, Nurse Lisa Park, Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Carlos Rodriguez",Hernia Repair,110
+68,Diabetes,28.3,13.6,2,Dr. Priya Patel,Regional,"Nurse Jennifer Wong, Nurse David Thompson, Nurse Kevin Tran, Nurse Lisa Park, Nurse Ahmed Hassan",Hip Replacement,163
+53,Obesity; Coagulopathy,37.6,15.3,4,Dr. Michael Chen,Local,"Nurse Emily Li, Nurse Rachel Green, Nurse Sarah Johnson, Nurse David Thompson",Spine Fusion,253
+28,COPD,28.9,13.5,2,Dr. Priya Patel,General,"Nurse Kevin Tran, Nurse John Smith, Nurse Lisa Park, Nurse Rachel Green, Nurse Emily Li",Cholecystectomy,115
+34,Chronic Kidney Disease,21.7,15.7,2,Dr. Elena Rodriguez,Sedation,"Nurse David Thompson, Nurse Sarah Johnson",Arthroscopy,92
+49,COPD; Obesity,24.4,13.4,3,Dr. Elena Rodriguez,Sedation,"Nurse Maria Lopez, Nurse Lisa Park, Nurse Jennifer Wong, Nurse David Thompson, Nurse John Smith",Hip Replacement,158
+54,None,18.6,14,2,Dr. Sarah Ahmed,Regional,"Nurse Kevin Tran, Nurse David Thompson, Nurse Ahmed Hassan, Nurse Maria Lopez",Spine Fusion,226
+48,Hypertension,31.8,13.7,2,Dr. Priya Patel,General,"Nurse Rachel Green, Nurse Maria Lopez, Nurse David Thompson, Nurse Lisa Park, Nurse Carlos Rodriguez",Arthroscopy,39
+61,Hypertension; Heart Disease; Diabetes; Coagulopathy; Chronic Kidney Disease,28.3,14.9,3,Dr. Priya Patel,Regional,"Nurse Sarah Johnson, Nurse David Thompson, Nurse Rachel Green",Arthroscopy,114
+50,Obesity,40.7,15.5,3,Dr. Michael Chen,Local,"Nurse Kevin Tran, Nurse Sarah Johnson, Nurse Ahmed Hassan",Knee Replacement,157
+51,COPD,18.6,15.5,3,Dr. James O'Brien,General,"Nurse David Thompson, Nurse Ahmed Hassan, Nurse Emily Li",Hip Replacement,200
+76,None,28.4,13.6,1,Dr. James O'Brien,General,"Nurse Sarah Johnson, Nurse John Smith",Hip Replacement,138
+34,Heart Disease; Obesity,21.6,16.5,4,Dr. Elena Rodriguez,Regional,"Nurse Emily Li, Nurse Maria Lopez, Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse John Smith",Cholecystectomy,109
+57,Heart Disease; Obesity,25.6,13.3,2,Dr. Sarah Ahmed,Local,"Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Lisa Park, Nurse David Thompson, Nurse Ahmed Hassan",Hip Replacement,129
+77,Coagulopathy; Hypertension; Diabetes; Obesity,19.5,14.7,4,Dr. Elena Rodriguez,Local,"Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse Lisa Park, Nurse Kevin Tran",Cholecystectomy,154
+62,Heart Disease,26.4,14.2,4,Dr. Sarah Ahmed,Local,"Nurse David Thompson, Nurse Maria Lopez",Knee Replacement,157
+53,COPD; Heart Disease,30.5,14,3,Dr. Elena Rodriguez,Sedation,"Nurse David Thompson, Nurse Jennifer Wong, Nurse Lisa Park, Nurse Kevin Tran",Hip Replacement,155
+51,COPD; Obesity; Chronic Kidney Disease; Coagulopathy; Diabetes,27.2,14,3,Dr. Elena Rodriguez,General,"Nurse David Thompson, Nurse Emily Li",Arthroscopy,113
+61,Obesity; Coagulopathy,28.4,13.6,3,Dr. James O'Brien,Sedation,"Nurse Sarah Johnson, Nurse Maria Lopez, Nurse Rachel Green, Nurse Lisa Park",Arthroscopy,67
+65,Coagulopathy; Diabetes; Obesity,42.9,13.9,3,Dr. James O'Brien,Sedation,"Nurse Kevin Tran, Nurse Ahmed Hassan, Nurse Jennifer Wong",Hernia Repair,190
+53,None,30,14.9,1,Dr. Sarah Ahmed,Local,"Nurse Jennifer Wong, Nurse Rachel Green, Nurse Kevin Tran",Spine Fusion,180
+83,COPD,27.2,14,3,Dr. Elena Rodriguez,Local,"Nurse David Thompson, Nurse Jennifer Wong, Nurse Sarah Johnson",Cholecystectomy,141
+66,COPD,16,15,3,Dr. James O'Brien,Regional,"Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Emily Li, Nurse Rachel Green",Cholecystectomy,97
+60,Chronic Kidney Disease; Coagulopathy,18.2,10.8,3,Dr. Sarah Ahmed,Regional,"Nurse Kevin Tran, Nurse Lisa Park, Nurse John Smith, Nurse Carlos Rodriguez, Nurse Maria Lopez",Cholecystectomy,76
+31,None,28.9,14.7,2,Dr. Michael Chen,Local,"Nurse Maria Lopez, Nurse Sarah Johnson, Nurse Emily Li, Nurse Kevin Tran",Spine Fusion,185
+55,None,23.7,14.3,2,Dr. Sarah Ahmed,Regional,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Rachel Green, Nurse Ahmed Hassan",Arthroscopy,65
+60,COPD; Heart Disease,27.7,14.8,2,Dr. James O'Brien,Sedation,"Nurse Sarah Johnson, Nurse Emily Li, Nurse Rachel Green",Spine Fusion,235
+76,Obesity; Hypertension; Heart Disease; COPD; Chronic Kidney Disease,27.4,12.3,3,Dr. Sarah Ahmed,General,"Nurse Emily Li, Nurse David Thompson, Nurse John Smith, Nurse Jennifer Wong, Nurse Lisa Park",Hernia Repair,142
+58,Chronic Kidney Disease; COPD; Hypertension,33.5,12.9,3,Dr. Michael Chen,Local,"Nurse Rachel Green, Nurse David Thompson, Nurse Sarah Johnson, Nurse Carlos Rodriguez, Nurse Kevin Tran",Knee Replacement,187
+45,Hypertension; Heart Disease; Coagulopathy; COPD,17.4,14.2,3,Dr. Elena Rodriguez,Sedation,"Nurse David Thompson, Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Sarah Johnson, Nurse Rachel Green",Cholecystectomy,99
+65,None,30.7,12.1,1,Dr. Sarah Ahmed,General,"Nurse Emily Li, Nurse Ahmed Hassan",Cholecystectomy,81
+59,Diabetes; Hypertension; Heart Disease; Chronic Kidney Disease,37.4,13.6,4,Dr. James O'Brien,Local,"Nurse Kevin Tran, Nurse Sarah Johnson",Arthroscopy,93
+54,Coagulopathy,22.6,15.7,3,Dr. Elena Rodriguez,Regional,"Nurse David Thompson, Nurse Maria Lopez, Nurse Lisa Park, Nurse Rachel Green, Nurse Ahmed Hassan",Hip Replacement,147
+50,COPD; Heart Disease,25.7,13.3,2,Dr. Priya Patel,General,"Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Lisa Park",Knee Replacement,149
+44,None,30.9,15.3,2,Dr. Michael Chen,Regional,"Nurse David Thompson, Nurse Rachel Green, Nurse Sarah Johnson, Nurse Lisa Park, Nurse Maria Lopez",Arthroscopy,64
+81,Heart Disease; Coagulopathy,31.1,16.3,2,Dr. Michael Chen,Local,"Nurse Carlos Rodriguez, Nurse John Smith, Nurse Ahmed Hassan, Nurse Lisa Park",Hip Replacement,185
+59,COPD,19.4,12.7,2,Dr. Elena Rodriguez,Local,"Nurse Carlos Rodriguez, Nurse Lisa Park",Spine Fusion,190
+59,Diabetes; Heart Disease,19.4,13.8,3,Dr. Priya Patel,Local,"Nurse David Thompson, Nurse Maria Lopez",Arthroscopy,97
+90,Chronic Kidney Disease,37.7,12,3,Dr. Sarah Ahmed,Regional,"Nurse Lisa Park, Nurse Jennifer Wong",Hernia Repair,169
+78,None,29.3,13.3,2,Dr. Priya Patel,Sedation,"Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Emily Li",Hip Replacement,206
+61,COPD,16.1,14.1,2,Dr. James O'Brien,Sedation,"Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Kevin Tran",Knee Replacement,145
+68,COPD,28.6,14.7,2,Dr. Elena Rodriguez,Sedation,"Nurse Kevin Tran, Nurse John Smith",Hip Replacement,168
+64,Obesity,31.4,14.7,4,Dr. James O'Brien,General,"Nurse Sarah Johnson, Nurse Maria Lopez, Nurse John Smith, Nurse Ahmed Hassan, Nurse Jennifer Wong",Spine Fusion,223
+91,Obesity,25.7,17,3,Dr. Priya Patel,Local,"Nurse Ahmed Hassan, Nurse Jennifer Wong",Spine Fusion,220
+60,Heart Disease; Hypertension,31.3,14.9,3,Dr. James O'Brien,Sedation,"Nurse David Thompson, Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse Emily Li, Nurse Kevin Tran",Arthroscopy,107
+44,Obesity; COPD; Coagulopathy; Diabetes,30.8,12.4,3,Dr. James O'Brien,General,"Nurse Emily Li, Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse Rachel Green",Hip Replacement,149
+37,Chronic Kidney Disease,37,15.2,2,Dr. Elena Rodriguez,Local,"Nurse Emily Li, Nurse David Thompson, Nurse John Smith",Cholecystectomy,87
+67,None,32.9,14.5,2,Dr. Elena Rodriguez,Regional,"Nurse Jennifer Wong, Nurse Emily Li",Hip Replacement,196
+68,Obesity,29.2,12.2,2,Dr. Sarah Ahmed,Regional,"Nurse Sarah Johnson, Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Lisa Park, Nurse John Smith",Arthroscopy,129
+63,None,31.5,14.3,3,Dr. Sarah Ahmed,Local,"Nurse Lisa Park, Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Kevin Tran, Nurse John Smith",Knee Replacement,177
+47,None,29.3,14,2,Dr. Sarah Ahmed,General,"Nurse Jennifer Wong, Nurse Emily Li, Nurse Carlos Rodriguez",Spine Fusion,160
+52,Coagulopathy,32.9,14.4,2,Dr. James O'Brien,Sedation,"Nurse Maria Lopez, Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse John Smith",Hernia Repair,119
+70,Obesity,26.8,13.5,2,Dr. Priya Patel,Regional,"Nurse Sarah Johnson, Nurse Carlos Rodriguez, Nurse Lisa Park, Nurse Kevin Tran, Nurse John Smith",Spine Fusion,224
+58,None,37.9,14,3,Dr. Michael Chen,Regional,"Nurse Kevin Tran, Nurse Maria Lopez",Cholecystectomy,160
+72,None,32.8,15.3,2,Dr. Sarah Ahmed,Regional,"Nurse Maria Lopez, Nurse Rachel Green, Nurse John Smith, Nurse Kevin Tran",Arthroscopy,100
+61,Coagulopathy; COPD; Obesity; Chronic Kidney Disease,25.3,15.5,3,Dr. Sarah Ahmed,Local,"Nurse Kevin Tran, Nurse David Thompson",Arthroscopy,121
+81,Coagulopathy; Obesity; Heart Disease; Diabetes,20.3,15.3,4,Dr. Elena Rodriguez,Regional,"Nurse Ahmed Hassan, Nurse John Smith, Nurse Sarah Johnson, Nurse David Thompson, Nurse Emily Li",Hip Replacement,201
+34,None,21.1,15,2,Dr. Michael Chen,General,"Nurse Maria Lopez, Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse Emily Li",Arthroscopy,66
+65,COPD; Diabetes,32.6,11.1,2,Dr. Sarah Ahmed,Sedation,"Nurse John Smith, Nurse Kevin Tran, Nurse Emily Li",Hip Replacement,207
+37,None,34.4,13,2,Dr. Michael Chen,Regional,"Nurse Kevin Tran, Nurse Jennifer Wong, Nurse John Smith",Hernia Repair,89
+71,Coagulopathy; Diabetes; Obesity,22.8,12.1,4,Dr. Priya Patel,Local,"Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Lisa Park, Nurse Jennifer Wong",Hernia Repair,137
+46,Chronic Kidney Disease; Heart Disease; Coagulopathy; Obesity,29.9,13.7,5,Dr. James O'Brien,General,"Nurse Jennifer Wong, Nurse Sarah Johnson",Arthroscopy,141
+23,Heart Disease,28.8,15.5,2,Dr. Michael Chen,Local,"Nurse Jennifer Wong, Nurse John Smith, Nurse Lisa Park",Knee Replacement,175
+61,Coagulopathy; Hypertension; COPD,39.6,11.9,2,Dr. Elena Rodriguez,Sedation,"Nurse Jennifer Wong, Nurse Kevin Tran, Nurse Rachel Green, Nurse Sarah Johnson, Nurse John Smith",Hip Replacement,169
+82,Diabetes; Chronic Kidney Disease; Coagulopathy; COPD,33.3,13.4,4,Dr. Elena Rodriguez,General,"Nurse Emily Li, Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Lisa Park",Hip Replacement,239
+83,Coagulopathy; Chronic Kidney Disease,23.2,12,4,Dr. Sarah Ahmed,General,"Nurse Carlos Rodriguez, Nurse Emily Li",Hernia Repair,157
+78,Coagulopathy; Obesity,24.4,13.2,3,Dr. Michael Chen,Local,"Nurse John Smith, Nurse Sarah Johnson, Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse Jennifer Wong",Knee Replacement,166
+62,Coagulopathy; Heart Disease; Chronic Kidney Disease; Hypertension,33.3,13.5,3,Dr. Elena Rodriguez,Sedation,"Nurse Emily Li, Nurse Maria Lopez, Nurse Kevin Tran, Nurse David Thompson, Nurse Lisa Park",Arthroscopy,88
+58,Diabetes; Coagulopathy,29.9,13.8,2,Dr. Priya Patel,Sedation,"Nurse Carlos Rodriguez, Nurse Lisa Park, Nurse Maria Lopez",Spine Fusion,214
+73,Hypertension,25.6,12.4,3,Dr. Michael Chen,Local,"Nurse Lisa Park, Nurse Rachel Green, Nurse Jennifer Wong",Cholecystectomy,137
+32,None,25,13.4,2,Dr. Priya Patel,Local,"Nurse Lisa Park, Nurse Emily Li",Hip Replacement,114
+62,Diabetes,27.4,11.8,3,Dr. Sarah Ahmed,Local,"Nurse Lisa Park, Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Sarah Johnson",Cholecystectomy,105
+26,Chronic Kidney Disease; Coagulopathy; Hypertension; COPD; Heart Disease,25,15.1,4,Dr. Sarah Ahmed,Regional,"Nurse David Thompson, Nurse Maria Lopez",Spine Fusion,209
+47,COPD,35.4,14,2,Dr. Sarah Ahmed,Regional,"Nurse Jennifer Wong, Nurse Kevin Tran",Knee Replacement,159
+74,Obesity,28.9,13,2,Dr. Elena Rodriguez,Sedation,"Nurse Maria Lopez, Nurse Lisa Park, Nurse Emily Li, Nurse David Thompson, Nurse Sarah Johnson",Hernia Repair,135
+95,None,27.5,13.3,2,Dr. James O'Brien,Sedation,"Nurse Carlos Rodriguez, Nurse David Thompson, Nurse John Smith",Hernia Repair,126
+61,Diabetes,26.9,15.7,2,Dr. Elena Rodriguez,Local,"Nurse David Thompson, Nurse Emily Li",Arthroscopy,65
+55,Heart Disease,31,13.4,3,Dr. James O'Brien,General,"Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Kevin Tran",Cholecystectomy,108
+60,Obesity; Coagulopathy,22.7,15,2,Dr. Michael Chen,Sedation,"Nurse Kevin Tran, Nurse Jennifer Wong",Spine Fusion,170
+53,None,21.3,14.9,3,Dr. Elena Rodriguez,Regional,"Nurse John Smith, Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse Carlos Rodriguez",Cholecystectomy,73
+63,Diabetes; Coagulopathy; Hypertension,29,15.8,3,Dr. Sarah Ahmed,Local,"Nurse Kevin Tran, Nurse Sarah Johnson",Spine Fusion,209
+26,COPD,30,13.5,2,Dr. Michael Chen,Regional,"Nurse Jennifer Wong, Nurse John Smith, Nurse Rachel Green, Nurse David Thompson",Cholecystectomy,33
+50,None,30.1,13.5,2,Dr. Elena Rodriguez,Sedation,"Nurse Maria Lopez, Nurse Rachel Green, Nurse John Smith, Nurse Ahmed Hassan",Cholecystectomy,70
+54,None,32.8,14.9,1,Dr. James O'Brien,Sedation,"Nurse Lisa Park, Nurse Maria Lopez, Nurse John Smith, Nurse Carlos Rodriguez",Cholecystectomy,75
+78,None,22.1,11.5,3,Dr. James O'Brien,General,"Nurse John Smith, Nurse Carlos Rodriguez",Knee Replacement,132
+52,Obesity; Diabetes; Heart Disease,24.3,12.7,4,Dr. Sarah Ahmed,Regional,"Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse Kevin Tran, Nurse Emily Li",Knee Replacement,208
+42,Coagulopathy,16.2,13.7,3,Dr. Michael Chen,Regional,"Nurse David Thompson, Nurse Maria Lopez, Nurse Lisa Park, Nurse Kevin Tran, Nurse Jennifer Wong",Knee Replacement,86
+61,Diabetes,22.4,12.7,3,Dr. Priya Patel,Local,"Nurse Sarah Johnson, Nurse Ahmed Hassan",Hernia Repair,119
+71,Chronic Kidney Disease; Coagulopathy; Obesity; COPD,31.5,12.9,3,Dr. Elena Rodriguez,General,"Nurse Sarah Johnson, Nurse David Thompson, Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Cholecystectomy,143
+65,Heart Disease; Diabetes,25.2,11.1,5,Dr. Elena Rodriguez,Sedation,"Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse Emily Li",Hip Replacement,219
+75,None,30.2,14.1,2,Dr. Elena Rodriguez,Regional,"Nurse Rachel Green, Nurse Sarah Johnson",Hernia Repair,142
+55,Diabetes; Hypertension,31.5,13.3,3,Dr. Priya Patel,Sedation,"Nurse Sarah Johnson, Nurse David Thompson",Arthroscopy,88
+83,Obesity,26.9,16,5,Dr. Elena Rodriguez,General,"Nurse Rachel Green, Nurse Jennifer Wong",Spine Fusion,254
+52,Diabetes; Chronic Kidney Disease,45.8,15.1,2,Dr. Elena Rodriguez,Local,"Nurse Maria Lopez, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Knee Replacement,187
+84,Obesity; Coagulopathy; Heart Disease; Hypertension,26.9,14.5,2,Dr. Sarah Ahmed,Local,"Nurse Jennifer Wong, Nurse Rachel Green, Nurse David Thompson, Nurse Maria Lopez",Hip Replacement,181
+59,None,23.7,13.9,1,Dr. Priya Patel,General,"Nurse Rachel Green, Nurse Ahmed Hassan, Nurse David Thompson, Nurse Lisa Park, Nurse Emily Li",Cholecystectomy,90
+62,COPD; Coagulopathy; Obesity,38.4,11.9,4,Dr. Michael Chen,Regional,"Nurse Maria Lopez, Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse Emily Li",Cholecystectomy,171
+62,Heart Disease; Diabetes; Obesity; Chronic Kidney Disease; COPD,37.7,15.5,3,Dr. James O'Brien,Regional,"Nurse Maria Lopez, Nurse Lisa Park",Hip Replacement,184
+63,Diabetes,24.4,12.7,2,Dr. Priya Patel,General,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse Kevin Tran",Cholecystectomy,125
+82,None,21.7,14.4,2,Dr. James O'Brien,Local,"Nurse John Smith, Nurse Emily Li, Nurse Lisa Park, Nurse Sarah Johnson, Nurse Kevin Tran",Hernia Repair,165
+29,Heart Disease,29.1,15,2,Dr. Sarah Ahmed,General,"Nurse Kevin Tran, Nurse Emily Li",Hip Replacement,121
+77,Obesity; Chronic Kidney Disease,19.6,15.1,5,Dr. James O'Brien,General,"Nurse Jennifer Wong, Nurse John Smith",Spine Fusion,217
+68,COPD,24.5,14.8,2,Dr. James O'Brien,Local,"Nurse Carlos Rodriguez, Nurse Rachel Green",Hernia Repair,137
+87,Heart Disease; Diabetes,18,13.1,4,Dr. Michael Chen,Local,"Nurse Maria Lopez, Nurse Emily Li, Nurse John Smith, Nurse Rachel Green, Nurse Carlos Rodriguez",Arthroscopy,112
+63,Chronic Kidney Disease; Obesity; Hypertension; COPD,19.7,12.3,4,Dr. Priya Patel,Regional,"Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse John Smith, Nurse Ahmed Hassan",Spine Fusion,252
+56,None,22.9,13.6,2,Dr. Priya Patel,Regional,"Nurse Sarah Johnson, Nurse Maria Lopez",Hernia Repair,81
+41,Obesity; Heart Disease; Diabetes; Chronic Kidney Disease; Coagulopathy,32.6,13.4,4,Dr. James O'Brien,Sedation,"Nurse Rachel Green, Nurse David Thompson, Nurse John Smith, Nurse Ahmed Hassan, Nurse Carlos Rodriguez",Spine Fusion,236
+52,Diabetes,28.8,13.6,2,Dr. Elena Rodriguez,Regional,"Nurse Rachel Green, Nurse David Thompson, Nurse Maria Lopez",Knee Replacement,134
+71,None,20,15.1,2,Dr. Michael Chen,Regional,"Nurse Emily Li, Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Ahmed Hassan, Nurse Rachel Green",Hip Replacement,160
+45,None,21,15.1,3,Dr. Michael Chen,Regional,"Nurse David Thompson, Nurse Kevin Tran, Nurse Maria Lopez, Nurse Sarah Johnson, Nurse Emily Li",Hernia Repair,95
+58,Hypertension; Heart Disease; Chronic Kidney Disease; Obesity,30.6,12.5,3,Dr. Priya Patel,General,"Nurse Emily Li, Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse David Thompson",Hip Replacement,148
+57,None,25.3,15.2,2,Dr. James O'Brien,Regional,"Nurse Jennifer Wong, Nurse Kevin Tran, Nurse David Thompson",Hernia Repair,71
+80,Diabetes,33.3,12.5,2,Dr. Priya Patel,Sedation,"Nurse Carlos Rodriguez, Nurse Lisa Park, Nurse Emily Li",Spine Fusion,247
+86,Diabetes; Obesity; Heart Disease; Hypertension; COPD,28.6,13,4,Dr. Elena Rodriguez,Regional,"Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse David Thompson, Nurse Ahmed Hassan",Hernia Repair,180
+41,Coagulopathy; Chronic Kidney Disease; Heart Disease,33.2,10.5,2,Dr. James O'Brien,Regional,"Nurse John Smith, Nurse Emily Li",Cholecystectomy,74
+81,Diabetes,28.3,13,3,Dr. Elena Rodriguez,General,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Ahmed Hassan",Arthroscopy,110
+72,Chronic Kidney Disease; Heart Disease,24.6,11.5,2,Dr. Elena Rodriguez,Regional,"Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Sarah Johnson, Nurse Carlos Rodriguez",Knee Replacement,184
+74,Diabetes; COPD; Coagulopathy,26.3,13.7,4,Dr. Sarah Ahmed,Regional,"Nurse David Thompson, Nurse Maria Lopez, Nurse Kevin Tran",Arthroscopy,175
+66,Hypertension; Coagulopathy,27,14.1,3,Dr. Sarah Ahmed,General,"Nurse Emily Li, Nurse David Thompson, Nurse Rachel Green, Nurse Kevin Tran, Nurse Maria Lopez",Cholecystectomy,109
+49,Hypertension; Chronic Kidney Disease,23.9,14.5,2,Dr. Sarah Ahmed,Sedation,"Nurse Jennifer Wong, Nurse David Thompson, Nurse Emily Li, Nurse Kevin Tran, Nurse Maria Lopez",Hip Replacement,132
+81,Diabetes; Hypertension,19.4,12.7,2,Dr. Elena Rodriguez,Sedation,"Nurse Sarah Johnson, Nurse Carlos Rodriguez, Nurse Maria Lopez, Nurse Lisa Park, Nurse Emily Li",Cholecystectomy,126
+59,Hypertension; Heart Disease; Coagulopathy,27.6,13,2,Dr. Sarah Ahmed,Regional,"Nurse Rachel Green, Nurse Lisa Park, Nurse Carlos Rodriguez",Hip Replacement,156
+76,Diabetes,31.2,13.2,3,Dr. Sarah Ahmed,Sedation,"Nurse Lisa Park, Nurse Rachel Green, Nurse Carlos Rodriguez",Arthroscopy,89
+40,None,28.4,11.8,1,Dr. Priya Patel,Sedation,"Nurse Maria Lopez, Nurse David Thompson, Nurse Rachel Green, Nurse Sarah Johnson, Nurse Kevin Tran",Knee Replacement,170
+71,Hypertension; Chronic Kidney Disease; Obesity,24.7,13.8,5,Dr. Michael Chen,Sedation,"Nurse Lisa Park, Nurse Ahmed Hassan, Nurse Maria Lopez",Spine Fusion,223
+61,Coagulopathy,32.3,13.7,3,Dr. James O'Brien,Local,"Nurse Carlos Rodriguez, Nurse Ahmed Hassan, Nurse Lisa Park, Nurse Emily Li",Arthroscopy,53
+67,COPD; Heart Disease; Hypertension; Diabetes,25.1,12.5,4,Dr. James O'Brien,General,"Nurse Kevin Tran, Nurse John Smith, Nurse Maria Lopez, Nurse Rachel Green",Hip Replacement,179
+84,Coagulopathy; COPD; Obesity; Heart Disease,31.1,14.2,5,Dr. Priya Patel,Regional,"Nurse Jennifer Wong, Nurse David Thompson, Nurse John Smith",Knee Replacement,208
+58,Heart Disease; Obesity,25.6,12.7,3,Dr. Priya Patel,Sedation,"Nurse John Smith, Nurse Kevin Tran",Hip Replacement,167
+47,None,20.2,10.8,1,Dr. Michael Chen,Local,"Nurse Jennifer Wong, Nurse Lisa Park, Nurse John Smith, Nurse Emily Li",Knee Replacement,111
+62,Obesity; Diabetes; Heart Disease,22.2,14.5,3,Dr. Priya Patel,Local,"Nurse Kevin Tran, Nurse John Smith, Nurse Carlos Rodriguez",Hernia Repair,119
+66,Hypertension; COPD,27.4,10.4,3,Dr. Michael Chen,Regional,"Nurse David Thompson, Nurse Maria Lopez",Knee Replacement,153
+48,None,24.9,10.7,1,Dr. Priya Patel,General,"Nurse Maria Lopez, Nurse Ahmed Hassan, Nurse Carlos Rodriguez",Arthroscopy,70
+89,None,31,13.4,2,Dr. James O'Brien,Regional,"Nurse Kevin Tran, Nurse John Smith, Nurse Jennifer Wong, Nurse Emily Li",Arthroscopy,161
+83,Coagulopathy,25.5,14.6,2,Dr. Michael Chen,General,"Nurse Maria Lopez, Nurse Lisa Park, Nurse Jennifer Wong, Nurse Ahmed Hassan",Knee Replacement,109
+58,None,27.8,11.5,2,Dr. Michael Chen,Local,"Nurse David Thompson, Nurse Emily Li, Nurse Sarah Johnson, Nurse Lisa Park",Arthroscopy,72
+18,Heart Disease,25.5,11.4,2,Dr. James O'Brien,Local,"Nurse Jennifer Wong, Nurse Lisa Park, Nurse Sarah Johnson, Nurse Carlos Rodriguez",Hip Replacement,164
+72,Hypertension,38.5,14.9,2,Dr. Elena Rodriguez,Local,"Nurse John Smith, Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Sarah Johnson",Spine Fusion,261
+79,Chronic Kidney Disease; Coagulopathy,31.2,10.2,2,Dr. Michael Chen,General,"Nurse Jennifer Wong, Nurse Lisa Park, Nurse Maria Lopez, Nurse Sarah Johnson",Cholecystectomy,128
+58,None,35.1,17,2,Dr. Elena Rodriguez,General,"Nurse Kevin Tran, Nurse Emily Li, Nurse John Smith",Arthroscopy,84
+70,COPD; Hypertension,29.9,13.4,2,Dr. Priya Patel,Regional,"Nurse David Thompson, Nurse John Smith, Nurse Emily Li, Nurse Ahmed Hassan",Spine Fusion,192
+40,None,43.6,15.2,2,Dr. Michael Chen,Sedation,"Nurse Lisa Park, Nurse Emily Li",Cholecystectomy,63
+51,Diabetes; Heart Disease,33.8,15,3,Dr. James O'Brien,Local,"Nurse John Smith, Nurse David Thompson, Nurse Emily Li",Cholecystectomy,156
+69,Coagulopathy; Diabetes; Chronic Kidney Disease,17.7,13.7,3,Dr. James O'Brien,Sedation,"Nurse Sarah Johnson, Nurse Carlos Rodriguez",Spine Fusion,236
+64,Hypertension; COPD,17.6,13.1,3,Dr. James O'Brien,Sedation,"Nurse Sarah Johnson, Nurse Emily Li, Nurse Ahmed Hassan, Nurse Lisa Park, Nurse Maria Lopez",Arthroscopy,83
+28,Coagulopathy; Obesity,20.4,13.8,2,Dr. James O'Brien,General,"Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse David Thompson",Hernia Repair,95
+70,None,36.5,14.2,3,Dr. Michael Chen,General,"Nurse Maria Lopez, Nurse Emily Li, Nurse Rachel Green, Nurse David Thompson",Knee Replacement,140
+46,Heart Disease; Hypertension,40.9,14.8,3,Dr. Michael Chen,Sedation,"Nurse Jennifer Wong, Nurse David Thompson, Nurse Ahmed Hassan, Nurse Kevin Tran, Nurse Lisa Park",Spine Fusion,223
+76,Chronic Kidney Disease,19.6,14.4,2,Dr. Elena Rodriguez,Sedation,"Nurse Sarah Johnson, Nurse Jennifer Wong",Arthroscopy,80
+41,Hypertension,37.2,14,3,Dr. James O'Brien,Regional,"Nurse David Thompson, Nurse Emily Li",Hernia Repair,127
+57,Hypertension; COPD,21.8,13.3,4,Dr. Michael Chen,General,"Nurse Lisa Park, Nurse Rachel Green, Nurse Kevin Tran, Nurse John Smith",Knee Replacement,164
+51,Diabetes; COPD,24.7,15.5,3,Dr. Elena Rodriguez,General,"Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Emily Li, Nurse Kevin Tran, Nurse John Smith",Arthroscopy,65
+48,Heart Disease,22.2,13.7,3,Dr. James O'Brien,Local,"Nurse John Smith, Nurse David Thompson, Nurse Maria Lopez, Nurse Lisa Park, Nurse Kevin Tran",Cholecystectomy,120
+71,Diabetes; COPD,39.5,12.5,2,Dr. Sarah Ahmed,Sedation,"Nurse Rachel Green, Nurse Sarah Johnson",Cholecystectomy,106
+83,COPD; Chronic Kidney Disease,25.1,13.9,2,Dr. Priya Patel,Local,"Nurse David Thompson, Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse Jennifer Wong",Hip Replacement,185
+77,COPD; Heart Disease; Hypertension; Coagulopathy; Diabetes,24.7,13.5,3,Dr. Sarah Ahmed,Local,"Nurse Carlos Rodriguez, Nurse Lisa Park, Nurse Rachel Green, Nurse John Smith",Hip Replacement,177
+34,Obesity; Diabetes; Hypertension; Chronic Kidney Disease,34.3,13.5,4,Dr. Priya Patel,Sedation,"Nurse Lisa Park, Nurse Emily Li",Hip Replacement,199
+70,Coagulopathy; Obesity; Hypertension; Diabetes; Chronic Kidney Disease,34.3,15.5,4,Dr. Michael Chen,General,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse John Smith, Nurse Kevin Tran, Nurse Jennifer Wong",Arthroscopy,178
+91,COPD; Chronic Kidney Disease; Diabetes; Hypertension; Obesity,17.1,13.2,4,Dr. Sarah Ahmed,General,"Nurse Jennifer Wong, Nurse Lisa Park, Nurse John Smith, Nurse Ahmed Hassan, Nurse David Thompson",Hip Replacement,253
+51,None,24.3,12.6,2,Dr. James O'Brien,Local,"Nurse David Thompson, Nurse Sarah Johnson, Nurse John Smith, Nurse Jennifer Wong, Nurse Kevin Tran",Hip Replacement,146
+61,Heart Disease; Chronic Kidney Disease; Diabetes; Obesity; Hypertension,29.7,11.7,4,Dr. Michael Chen,General,"Nurse Ahmed Hassan, Nurse Emily Li, Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse Sarah Johnson",Cholecystectomy,158
+92,None,28.5,11.9,2,Dr. Sarah Ahmed,General,"Nurse David Thompson, Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse Rachel Green",Hip Replacement,179
+61,Diabetes; Obesity; Coagulopathy; Heart Disease,31,13.6,4,Dr. Michael Chen,Sedation,"Nurse Sarah Johnson, Nurse Rachel Green, Nurse Lisa Park, Nurse Carlos Rodriguez",Hip Replacement,176
+60,Diabetes; Hypertension,33.3,11.8,4,Dr. Michael Chen,Sedation,"Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Lisa Park, Nurse Maria Lopez",Knee Replacement,190
+65,None,28.5,14.1,3,Dr. Michael Chen,Local,"Nurse John Smith, Nurse Maria Lopez, Nurse Carlos Rodriguez, Nurse Rachel Green",Arthroscopy,91
+47,Diabetes; Heart Disease; Chronic Kidney Disease; Obesity; Hypertension,27.8,11.4,5,Dr. Michael Chen,Sedation,"Nurse Lisa Park, Nurse David Thompson, Nurse John Smith, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Hernia Repair,179
+63,Coagulopathy,30.6,13.6,2,Dr. Michael Chen,Sedation,"Nurse Rachel Green, Nurse Sarah Johnson, Nurse David Thompson, Nurse John Smith",Knee Replacement,136
+72,Hypertension; COPD; Chronic Kidney Disease; Heart Disease; Diabetes,32.5,15.6,3,Dr. Sarah Ahmed,Sedation,"Nurse David Thompson, Nurse Rachel Green, Nurse Ahmed Hassan",Arthroscopy,132
+73,Hypertension; Obesity; Chronic Kidney Disease,20.9,13.3,3,Dr. Elena Rodriguez,Regional,"Nurse Jennifer Wong, Nurse John Smith",Cholecystectomy,132
+49,Coagulopathy,26.9,11.8,2,Dr. Elena Rodriguez,Sedation,"Nurse John Smith, Nurse Maria Lopez",Cholecystectomy,124
+47,Diabetes; Heart Disease,24.7,11.8,2,Dr. Elena Rodriguez,Sedation,"Nurse Rachel Green, Nurse Emily Li, Nurse Carlos Rodriguez",Knee Replacement,140
+62,Chronic Kidney Disease; Diabetes; Coagulopathy; Hypertension,29.3,12.8,4,Dr. James O'Brien,Sedation,"Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Lisa Park, Nurse Jennifer Wong",Knee Replacement,184
+47,Obesity; Coagulopathy,34,12.4,2,Dr. Sarah Ahmed,Local,"Nurse Emily Li, Nurse Jennifer Wong, Nurse Rachel Green, Nurse David Thompson",Arthroscopy,60
+65,Diabetes; COPD,17.7,15.3,4,Dr. Sarah Ahmed,Regional,"Nurse Jennifer Wong, Nurse Kevin Tran",Hernia Repair,131
+53,Coagulopathy; Hypertension,28.9,14,3,Dr. Elena Rodriguez,Sedation,"Nurse Lisa Park, Nurse John Smith, Nurse Rachel Green",Hip Replacement,197
+67,Obesity,25.8,13.2,2,Dr. Elena Rodriguez,Sedation,"Nurse Lisa Park, Nurse Maria Lopez",Hip Replacement,166
+60,Hypertension; Chronic Kidney Disease,23.5,11.3,3,Dr. Sarah Ahmed,Local,"Nurse Kevin Tran, Nurse Maria Lopez, Nurse John Smith",Hip Replacement,173
+48,Obesity; Heart Disease,23,14.4,4,Dr. Priya Patel,Local,"Nurse Sarah Johnson, Nurse Lisa Park, Nurse Emily Li, Nurse Carlos Rodriguez",Spine Fusion,227
+68,Hypertension,38,15.2,2,Dr. Elena Rodriguez,Local,"Nurse Rachel Green, Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse David Thompson, Nurse Maria Lopez",Hip Replacement,180
+71,None,33.3,11.5,4,Dr. Sarah Ahmed,Local,"Nurse Rachel Green, Nurse David Thompson, Nurse Carlos Rodriguez, Nurse Kevin Tran",Cholecystectomy,179
+81,Heart Disease; Chronic Kidney Disease,43.5,11.7,4,Dr. Priya Patel,Regional,"Nurse Rachel Green, Nurse Lisa Park, Nurse Kevin Tran, Nurse John Smith",Cholecystectomy,187
+30,Obesity; Hypertension; Diabetes; COPD,24.2,14.5,3,Dr. James O'Brien,Local,"Nurse Lisa Park, Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Carlos Rodriguez",Hip Replacement,167
+56,Heart Disease,16.8,16.5,4,Dr. James O'Brien,Regional,"Nurse Sarah Johnson, Nurse Lisa Park, Nurse Maria Lopez, Nurse John Smith, Nurse Jennifer Wong",Arthroscopy,101
+65,None,27.2,12.2,2,Dr. Sarah Ahmed,Regional,"Nurse Lisa Park, Nurse Emily Li, Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Sarah Johnson",Cholecystectomy,108
+52,Coagulopathy; Chronic Kidney Disease,26.4,11.2,4,Dr. Michael Chen,Regional,"Nurse Rachel Green, Nurse David Thompson, Nurse Carlos Rodriguez",Cholecystectomy,106
+47,Chronic Kidney Disease; Heart Disease; Obesity,31.3,14,3,Dr. Sarah Ahmed,Regional,"Nurse Lisa Park, Nurse Emily Li, Nurse David Thompson",Hernia Repair,101
+55,Heart Disease,25.5,13.4,2,Dr. James O'Brien,Local,"Nurse Rachel Green, Nurse Sarah Johnson, Nurse Emily Li",Knee Replacement,170
+68,None,42.4,14.2,2,Dr. Michael Chen,Sedation,"Nurse Kevin Tran, Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse David Thompson",Cholecystectomy,144
+65,Diabetes; Chronic Kidney Disease,27.9,13.3,3,Dr. Michael Chen,General,"Nurse Carlos Rodriguez, Nurse John Smith",Hernia Repair,113
+79,Coagulopathy,23,11.1,2,Dr. Priya Patel,Regional,"Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Sarah Johnson, Nurse Maria Lopez, Nurse Lisa Park",Hip Replacement,160
+59,Hypertension; Coagulopathy,19,15.5,3,Dr. Sarah Ahmed,Local,"Nurse Sarah Johnson, Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse Jennifer Wong",Hip Replacement,150
+83,Coagulopathy; Chronic Kidney Disease; Hypertension,30.6,14.6,3,Dr. Priya Patel,Regional,"Nurse Carlos Rodriguez, Nurse Emily Li",Knee Replacement,160
+72,Heart Disease; Chronic Kidney Disease; Diabetes,27.1,13.5,4,Dr. James O'Brien,Regional,"Nurse Carlos Rodriguez, Nurse Rachel Green",Knee Replacement,181
+42,Coagulopathy; Hypertension; Obesity,23.8,13.7,2,Dr. James O'Brien,Sedation,"Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Jennifer Wong",Hernia Repair,69
+68,Chronic Kidney Disease,26,12.6,2,Dr. Elena Rodriguez,General,"Nurse Sarah Johnson, Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Maria Lopez",Hip Replacement,162
+51,None,22.8,15.3,2,Dr. Sarah Ahmed,Regional,"Nurse Emily Li, Nurse Maria Lopez, Nurse Lisa Park",Hernia Repair,78
+63,Diabetes; Chronic Kidney Disease; Coagulopathy; Hypertension,23.2,13.4,3,Dr. Michael Chen,General,"Nurse Emily Li, Nurse Rachel Green, Nurse Jennifer Wong",Spine Fusion,262
+58,COPD; Obesity; Chronic Kidney Disease; Heart Disease,40,13.2,4,Dr. Michael Chen,Local,"Nurse David Thompson, Nurse Maria Lopez, Nurse Rachel Green",Cholecystectomy,165
+43,None,37.1,14.7,3,Dr. James O'Brien,Regional,"Nurse Ahmed Hassan, Nurse Kevin Tran, Nurse Lisa Park, Nurse Emily Li, Nurse John Smith",Hernia Repair,142
+64,Heart Disease,28.8,15.1,3,Dr. James O'Brien,Regional,"Nurse Emily Li, Nurse John Smith, Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse Maria Lopez",Spine Fusion,217
+32,Hypertension; Chronic Kidney Disease; Coagulopathy,26.4,13.5,2,Dr. James O'Brien,Regional,"Nurse Maria Lopez, Nurse Kevin Tran, Nurse Ahmed Hassan",Hip Replacement,194
+67,None,27,16,3,Dr. Priya Patel,Sedation,"Nurse Emily Li, Nurse Maria Lopez",Cholecystectomy,94
+63,Chronic Kidney Disease; Heart Disease; Obesity; Diabetes,28.2,9.9,5,Dr. Priya Patel,General,"Nurse Lisa Park, Nurse David Thompson",Knee Replacement,206
+59,None,23,12.7,2,Dr. Sarah Ahmed,Sedation,"Nurse David Thompson, Nurse Sarah Johnson",Cholecystectomy,113
+66,COPD,29.7,12.6,3,Dr. Sarah Ahmed,Sedation,"Nurse Ahmed Hassan, Nurse Rachel Green",Knee Replacement,118
+50,Chronic Kidney Disease; Hypertension,21.7,10.1,3,Dr. James O'Brien,Sedation,"Nurse Lisa Park, Nurse Maria Lopez, Nurse Rachel Green",Hip Replacement,196
+44,None,32.8,15.8,1,Dr. Priya Patel,Local,"Nurse Lisa Park, Nurse Ahmed Hassan",Arthroscopy,88
+67,Obesity,32.8,12.9,3,Dr. James O'Brien,General,"Nurse Sarah Johnson, Nurse David Thompson, Nurse Ahmed Hassan",Knee Replacement,167
+55,None,31.9,13.7,1,Dr. Priya Patel,Regional,"Nurse David Thompson, Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse John Smith",Spine Fusion,226
+54,Coagulopathy; Heart Disease; Obesity; Hypertension,27.6,11.3,4,Dr. Sarah Ahmed,Sedation,"Nurse Sarah Johnson, Nurse Rachel Green, Nurse Jennifer Wong, Nurse Maria Lopez",Cholecystectomy,145
+62,Hypertension,32.1,15.1,2,Dr. Michael Chen,General,"Nurse Emily Li, Nurse John Smith, Nurse Maria Lopez, Nurse Ahmed Hassan, Nurse Lisa Park",Knee Replacement,148
+56,Diabetes; Obesity; COPD,31.9,12.6,2,Dr. Sarah Ahmed,General,"Nurse David Thompson, Nurse Ahmed Hassan, Nurse Lisa Park",Spine Fusion,186
+63,None,25.4,10.8,1,Dr. Michael Chen,Local,"Nurse Lisa Park, Nurse John Smith, Nurse Carlos Rodriguez, Nurse Rachel Green",Spine Fusion,202
+60,COPD; Diabetes,27.5,13.2,2,Dr. Sarah Ahmed,Local,"Nurse Jennifer Wong, Nurse Maria Lopez",Knee Replacement,116
+69,Heart Disease,28.2,12.2,2,Dr. Sarah Ahmed,General,"Nurse Sarah Johnson, Nurse David Thompson, Nurse Kevin Tran, Nurse Maria Lopez",Hip Replacement,161
+43,Coagulopathy; Hypertension,33.1,13.7,2,Dr. Michael Chen,Local,"Nurse Emily Li, Nurse Lisa Park, Nurse Carlos Rodriguez",Hernia Repair,99
+66,None,29.2,15.5,3,Dr. Michael Chen,Regional,"Nurse Emily Li, Nurse Lisa Park",Arthroscopy,157
+73,None,43.3,12,1,Dr. Elena Rodriguez,Sedation,"Nurse Sarah Johnson, Nurse Lisa Park",Knee Replacement,187
+82,Heart Disease; COPD; Chronic Kidney Disease,31.5,13,4,Dr. Priya Patel,General,"Nurse Lisa Park, Nurse Jennifer Wong, Nurse David Thompson, Nurse Kevin Tran, Nurse Emily Li",Hernia Repair,197
+43,Coagulopathy,37.4,15.6,2,Dr. Elena Rodriguez,Sedation,"Nurse David Thompson, Nurse Sarah Johnson, Nurse Carlos Rodriguez",Knee Replacement,138
+50,Hypertension,26.4,13.7,3,Dr. Priya Patel,Sedation,"Nurse Emily Li, Nurse Kevin Tran, Nurse Maria Lopez, Nurse Jennifer Wong, Nurse John Smith",Arthroscopy,76
+50,None,16,10.5,2,Dr. James O'Brien,General,"Nurse Sarah Johnson, Nurse Carlos Rodriguez",Hip Replacement,191
+67,None,25,12.1,3,Dr. Elena Rodriguez,General,"Nurse Rachel Green, Nurse Emily Li",Spine Fusion,195
+50,None,26.7,15.6,2,Dr. Elena Rodriguez,General,"Nurse Lisa Park, Nurse Emily Li, Nurse Ahmed Hassan",Spine Fusion,176
+66,COPD; Chronic Kidney Disease; Hypertension,28.8,12.7,2,Dr. Elena Rodriguez,Regional,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Carlos Rodriguez",Hernia Repair,116
+61,None,31.6,13,2,Dr. Priya Patel,Regional,"Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse David Thompson, Nurse Lisa Park, Nurse Kevin Tran",Spine Fusion,191
+34,Heart Disease; Coagulopathy; Diabetes; Hypertension,29.6,13.7,4,Dr. Michael Chen,Sedation,"Nurse Sarah Johnson, Nurse John Smith, Nurse David Thompson, Nurse Carlos Rodriguez, Nurse Kevin Tran",Cholecystectomy,129
+33,None,25.4,16.1,2,Dr. James O'Brien,Local,"Nurse Carlos Rodriguez, Nurse Lisa Park",Hip Replacement,106
+65,Diabetes; COPD,24.6,15.8,5,Dr. Michael Chen,Sedation,"Nurse David Thompson, Nurse Sarah Johnson",Hernia Repair,139
+63,Diabetes; Obesity; Chronic Kidney Disease,16.2,14.5,5,Dr. Sarah Ahmed,Local,"Nurse David Thompson, Nurse Kevin Tran",Knee Replacement,174
+69,None,35.1,12.2,3,Dr. Michael Chen,Local,"Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse Emily Li",Hip Replacement,150
+89,Coagulopathy,26.8,11.8,3,Dr. Sarah Ahmed,Local,"Nurse John Smith, Nurse Carlos Rodriguez",Hip Replacement,195
+74,Obesity; Coagulopathy,25.6,14.3,3,Dr. Michael Chen,Regional,"Nurse Lisa Park, Nurse Emily Li, Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Maria Lopez",Knee Replacement,123
+58,None,28.2,14.5,2,Dr. Sarah Ahmed,Local,"Nurse Emily Li, Nurse Lisa Park",Arthroscopy,84
+85,Obesity,22.9,17.7,2,Dr. Elena Rodriguez,Regional,"Nurse David Thompson, Nurse Maria Lopez, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Spine Fusion,185
+68,Coagulopathy; Chronic Kidney Disease; COPD,46.6,13.1,2,Dr. Sarah Ahmed,Regional,"Nurse Rachel Green, Nurse Kevin Tran",Arthroscopy,123
+60,Hypertension; Diabetes,35.2,13.3,3,Dr. James O'Brien,Sedation,"Nurse John Smith, Nurse Carlos Rodriguez, Nurse Lisa Park, Nurse Emily Li, Nurse Maria Lopez",Arthroscopy,30
+49,Diabetes,28.3,12.3,3,Dr. Sarah Ahmed,Regional,"Nurse Carlos Rodriguez, Nurse Lisa Park",Knee Replacement,166
+81,COPD,22.7,15.6,3,Dr. Elena Rodriguez,Sedation,"Nurse Ahmed Hassan, Nurse Maria Lopez",Knee Replacement,194
+78,None,16.6,15.7,2,Dr. Sarah Ahmed,Sedation,"Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Kevin Tran, Nurse Lisa Park, Nurse Maria Lopez",Spine Fusion,198
+33,None,29,14.7,2,Dr. Priya Patel,Local,"Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse Kevin Tran, Nurse John Smith",Spine Fusion,199
+93,COPD; Heart Disease,22.3,14.1,3,Dr. James O'Brien,Local,"Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse Kevin Tran, Nurse Sarah Johnson",Hip Replacement,166
+59,Coagulopathy,29.3,12.4,2,Dr. Priya Patel,Local,"Nurse Ahmed Hassan, Nurse John Smith, Nurse Kevin Tran, Nurse Lisa Park",Hip Replacement,135
+80,Chronic Kidney Disease; Heart Disease; Hypertension; Obesity,24.1,14.3,4,Dr. Elena Rodriguez,Sedation,"Nurse David Thompson, Nurse Emily Li, Nurse Ahmed Hassan, Nurse Carlos Rodriguez",Hernia Repair,191
+72,Chronic Kidney Disease; Coagulopathy,26.6,11.4,2,Dr. Sarah Ahmed,General,"Nurse Sarah Johnson, Nurse Maria Lopez, Nurse Ahmed Hassan, Nurse David Thompson",Cholecystectomy,93
+78,None,26.7,13.5,2,Dr. Sarah Ahmed,Regional,"Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Kevin Tran, Nurse John Smith, Nurse Lisa Park",Hernia Repair,116
+64,None,29.3,12.2,2,Dr. Priya Patel,Local,"Nurse Lisa Park, Nurse Rachel Green, Nurse Jennifer Wong, Nurse Maria Lopez",Knee Replacement,144
+62,Hypertension,30.9,13.5,2,Dr. Priya Patel,General,"Nurse Emily Li, Nurse Carlos Rodriguez",Spine Fusion,198
+53,Obesity; Chronic Kidney Disease,24.2,14.3,3,Dr. Sarah Ahmed,Regional,"Nurse Lisa Park, Nurse Ahmed Hassan, Nurse Sarah Johnson",Knee Replacement,133
+78,Obesity; Chronic Kidney Disease; Heart Disease; Diabetes; Hypertension,29.9,13.7,4,Dr. Michael Chen,Local,"Nurse Sarah Johnson, Nurse Emily Li, Nurse Ahmed Hassan, Nurse Maria Lopez, Nurse Carlos Rodriguez",Knee Replacement,204
+52,None,35,11,2,Dr. Sarah Ahmed,Local,"Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse John Smith",Hernia Repair,90
+54,Coagulopathy; Obesity; Chronic Kidney Disease,28.1,17.7,4,Dr. Elena Rodriguez,Regional,"Nurse John Smith, Nurse Rachel Green, Nurse Carlos Rodriguez",Arthroscopy,149
+67,Chronic Kidney Disease,24.4,15,4,Dr. Elena Rodriguez,General,"Nurse Jennifer Wong, Nurse Lisa Park",Hernia Repair,151
+29,COPD; Diabetes,23.7,11,2,Dr. Sarah Ahmed,Local,"Nurse Rachel Green, Nurse Ahmed Hassan, Nurse Lisa Park, Nurse Jennifer Wong, Nurse David Thompson",Hip Replacement,167
+60,Diabetes; Heart Disease; COPD,39.3,11.5,4,Dr. Sarah Ahmed,General,"Nurse Maria Lopez, Nurse Jennifer Wong, Nurse Emily Li",Knee Replacement,183
+79,Coagulopathy,22.6,15.1,2,Dr. Michael Chen,General,"Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Ahmed Hassan, Nurse Emily Li",Knee Replacement,158
+47,Coagulopathy,24.7,13.2,2,Dr. Sarah Ahmed,Regional,"Nurse Ahmed Hassan, Nurse John Smith, Nurse Jennifer Wong, Nurse David Thompson",Cholecystectomy,92
+68,COPD; Obesity; Chronic Kidney Disease; Coagulopathy; Diabetes,30.9,12.2,3,Dr. Priya Patel,Local,"Nurse John Smith, Nurse Lisa Park, Nurse Emily Li, Nurse Ahmed Hassan",Spine Fusion,229
+64,Heart Disease; Hypertension,21.7,13.3,2,Dr. Michael Chen,Regional,"Nurse Ahmed Hassan, Nurse Maria Lopez, Nurse David Thompson, Nurse Emily Li, Nurse John Smith",Hernia Repair,102
+72,Chronic Kidney Disease; Obesity,29,14.9,4,Dr. Michael Chen,General,"Nurse Maria Lopez, Nurse Emily Li, Nurse Sarah Johnson",Hernia Repair,142
+28,COPD; Heart Disease; Obesity,28,14.8,3,Dr. Priya Patel,Sedation,"Nurse Maria Lopez, Nurse Ahmed Hassan, Nurse Emily Li, Nurse Carlos Rodriguez",Hernia Repair,104
+95,Diabetes,28.3,14.6,3,Dr. Michael Chen,General,"Nurse Lisa Park, Nurse John Smith, Nurse Emily Li, Nurse David Thompson",Hip Replacement,176
+70,Hypertension; Obesity,18.9,13.8,3,Dr. Sarah Ahmed,Regional,"Nurse Lisa Park, Nurse David Thompson",Hernia Repair,139
+81,None,25.9,13.5,2,Dr. James O'Brien,Regional,"Nurse Lisa Park, Nurse Sarah Johnson, Nurse David Thompson",Spine Fusion,213
+50,Obesity,30.6,12.7,3,Dr. Priya Patel,Local,"Nurse Lisa Park, Nurse David Thompson, Nurse Jennifer Wong, Nurse Maria Lopez, Nurse John Smith",Arthroscopy,92
+52,Diabetes; Coagulopathy; Chronic Kidney Disease; Obesity; COPD,25,14.2,5,Dr. Elena Rodriguez,Sedation,"Nurse Ahmed Hassan, Nurse David Thompson, Nurse John Smith, Nurse Rachel Green",Arthroscopy,140
+44,COPD,30.1,12.2,3,Dr. Elena Rodriguez,Sedation,"Nurse Lisa Park, Nurse Sarah Johnson, Nurse Kevin Tran, Nurse Emily Li, Nurse Maria Lopez",Hip Replacement,169
+55,Chronic Kidney Disease; Diabetes,31.3,13,4,Dr. Priya Patel,General,"Nurse Lisa Park, Nurse Kevin Tran",Cholecystectomy,133
+49,Coagulopathy; Chronic Kidney Disease,19.3,14,3,Dr. Sarah Ahmed,General,"Nurse David Thompson, Nurse Emily Li",Hip Replacement,145
+62,None,25.1,13.4,4,Dr. Priya Patel,Sedation,"Nurse Lisa Park, Nurse Rachel Green, Nurse David Thompson, Nurse Kevin Tran",Hip Replacement,114
+47,None,37.6,14.5,2,Dr. Priya Patel,Regional,"Nurse Sarah Johnson, Nurse Maria Lopez, Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse Rachel Green",Hernia Repair,96
+70,None,32.3,14.2,2,Dr. Sarah Ahmed,Regional,"Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse Rachel Green",Hernia Repair,107
+64,Heart Disease; Chronic Kidney Disease; Coagulopathy; Diabetes,33.2,11.6,3,Dr. Priya Patel,Sedation,"Nurse David Thompson, Nurse Maria Lopez, Nurse Kevin Tran",Arthroscopy,68
+56,Obesity; Coagulopathy,27.4,15.4,3,Dr. Priya Patel,Local,"Nurse Rachel Green, Nurse John Smith",Knee Replacement,137
+76,Hypertension,32,13.4,3,Dr. Michael Chen,Regional,"Nurse Lisa Park, Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Kevin Tran, Nurse David Thompson",Hernia Repair,105
+77,Obesity; Heart Disease,29.7,13.4,2,Dr. James O'Brien,Sedation,"Nurse David Thompson, Nurse Jennifer Wong, Nurse Maria Lopez",Hip Replacement,203
+39,None,25.9,11.5,3,Dr. Priya Patel,Local,"Nurse Rachel Green, Nurse David Thompson",Hip Replacement,116
+95,Diabetes; Hypertension,27.8,14.5,3,Dr. Elena Rodriguez,Local,"Nurse Emily Li, Nurse Lisa Park, Nurse Jennifer Wong, Nurse John Smith, Nurse Maria Lopez",Arthroscopy,129
+69,Obesity,26,11.4,2,Dr. Sarah Ahmed,Sedation,"Nurse John Smith, Nurse Emily Li",Spine Fusion,219
+56,COPD; Heart Disease; Obesity; Chronic Kidney Disease,35.2,14.8,3,Dr. James O'Brien,Local,"Nurse Kevin Tran, Nurse Lisa Park, Nurse Emily Li",Arthroscopy,86
+77,None,19.4,13.9,2,Dr. James O'Brien,Regional,"Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Emily Li, Nurse John Smith, Nurse Sarah Johnson",Arthroscopy,59
+54,Chronic Kidney Disease; Coagulopathy; COPD,17.2,15.1,3,Dr. Elena Rodriguez,Sedation,"Nurse Emily Li, Nurse Jennifer Wong, Nurse Lisa Park, Nurse Carlos Rodriguez",Hernia Repair,110
+64,COPD,24.2,16.6,4,Dr. Michael Chen,Regional,"Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse Ahmed Hassan, Nurse David Thompson",Arthroscopy,87
+56,Chronic Kidney Disease,33.3,15.9,4,Dr. James O'Brien,Regional,"Nurse Rachel Green, Nurse Jennifer Wong",Hernia Repair,135
+68,Heart Disease,35.3,13,2,Dr. Sarah Ahmed,General,"Nurse David Thompson, Nurse Maria Lopez",Hernia Repair,153
+42,None,23.5,12.1,2,Dr. Sarah Ahmed,Sedation,"Nurse Kevin Tran, Nurse John Smith, Nurse Maria Lopez, Nurse Rachel Green, Nurse Carlos Rodriguez",Cholecystectomy,78
+66,Chronic Kidney Disease; Hypertension; Heart Disease,24.7,12.6,4,Dr. Sarah Ahmed,General,"Nurse John Smith, Nurse Kevin Tran, Nurse Rachel Green, Nurse Jennifer Wong, Nurse Lisa Park",Hip Replacement,222
+50,COPD; Heart Disease; Obesity,34.6,14.6,3,Dr. Elena Rodriguez,Regional,"Nurse Lisa Park, Nurse John Smith",Spine Fusion,216
+79,Coagulopathy; Obesity; Hypertension,25.9,13.7,4,Dr. James O'Brien,General,"Nurse Jennifer Wong, Nurse Lisa Park, Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse Ahmed Hassan",Arthroscopy,89
+54,Hypertension,25.4,16.2,2,Dr. Michael Chen,General,"Nurse John Smith, Nurse David Thompson, Nurse Rachel Green, Nurse Emily Li, Nurse Kevin Tran",Arthroscopy,95
+44,Chronic Kidney Disease; Hypertension,23.7,17.7,3,Dr. Sarah Ahmed,General,"Nurse Sarah Johnson, Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Maria Lopez",Arthroscopy,62
+56,Chronic Kidney Disease,24,12.4,2,Dr. Sarah Ahmed,Regional,"Nurse David Thompson, Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Kevin Tran",Knee Replacement,119
+58,None,16,12.3,2,Dr. James O'Brien,Local,"Nurse Lisa Park, Nurse Sarah Johnson, Nurse Emily Li, Nurse David Thompson, Nurse Rachel Green",Hip Replacement,127
+64,COPD,24.1,11.5,2,Dr. Michael Chen,Local,"Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse Emily Li",Spine Fusion,199
+57,COPD; Coagulopathy; Obesity,25.2,14.4,2,Dr. James O'Brien,Sedation,"Nurse Ahmed Hassan, Nurse Jennifer Wong",Cholecystectomy,142
+77,Hypertension,18.5,12.5,3,Dr. Michael Chen,Regional,"Nurse David Thompson, Nurse Ahmed Hassan, Nurse Rachel Green",Cholecystectomy,123
+61,None,27.3,13,4,Dr. Elena Rodriguez,General,"Nurse Jennifer Wong, Nurse Lisa Park, Nurse Emily Li",Knee Replacement,148
+90,Chronic Kidney Disease; Hypertension,25.4,13.8,2,Dr. Priya Patel,Regional,"Nurse Emily Li, Nurse David Thompson, Nurse Carlos Rodriguez, Nurse Ahmed Hassan, Nurse John Smith",Spine Fusion,271
+58,Obesity; Hypertension; COPD,31.3,13.8,4,Dr. Sarah Ahmed,Regional,"Nurse John Smith, Nurse Maria Lopez",Hernia Repair,111
+36,Obesity,19.6,8.6,3,Dr. Elena Rodriguez,Regional,"Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse Maria Lopez",Hernia Repair,135
+84,Diabetes; Hypertension; Heart Disease,35.3,12.6,3,Dr. Priya Patel,Local,"Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse Maria Lopez",Arthroscopy,138
+72,Diabetes; Hypertension; COPD,24,11.8,5,Dr. Elena Rodriguez,Regional,"Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse John Smith, Nurse Sarah Johnson, Nurse Rachel Green",Arthroscopy,164
+51,Coagulopathy; Obesity,20.7,14.2,3,Dr. Michael Chen,Regional,"Nurse Kevin Tran, Nurse Ahmed Hassan, Nurse Rachel Green",Cholecystectomy,128
+48,Chronic Kidney Disease; Coagulopathy; Heart Disease; COPD; Obesity,31.8,13.4,3,Dr. Michael Chen,Sedation,"Nurse John Smith, Nurse Sarah Johnson",Cholecystectomy,94
+31,Hypertension,32.5,13.9,3,Dr. Sarah Ahmed,Sedation,"Nurse Maria Lopez, Nurse John Smith",Hip Replacement,131
+64,Coagulopathy; Hypertension,35.1,11.6,3,Dr. Priya Patel,General,"Nurse Jennifer Wong, Nurse Carlos Rodriguez",Arthroscopy,93
+42,Coagulopathy; Obesity; Chronic Kidney Disease,38.7,12.9,5,Dr. James O'Brien,Regional,"Nurse David Thompson, Nurse Carlos Rodriguez",Spine Fusion,280
+38,Obesity; Coagulopathy,27.9,15.5,2,Dr. James O'Brien,Sedation,"Nurse Lisa Park, Nurse Sarah Johnson",Cholecystectomy,105
+74,Heart Disease; Diabetes; Obesity; COPD; Chronic Kidney Disease,31.6,13,4,Dr. Michael Chen,Local,"Nurse Sarah Johnson, Nurse Emily Li, Nurse David Thompson, Nurse Lisa Park, Nurse Ahmed Hassan",Hernia Repair,187
+67,COPD,23.9,14.7,3,Dr. Priya Patel,Sedation,"Nurse David Thompson, Nurse Rachel Green, Nurse Ahmed Hassan",Cholecystectomy,105
+62,Heart Disease; Hypertension,28.1,14.9,4,Dr. Elena Rodriguez,General,"Nurse Maria Lopez, Nurse Kevin Tran",Arthroscopy,109
+46,Obesity; Diabetes; COPD,22.4,14.5,3,Dr. Sarah Ahmed,General,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Lisa Park",Cholecystectomy,98
+38,Hypertension,23.6,12.8,3,Dr. Michael Chen,Sedation,"Nurse Lisa Park, Nurse Kevin Tran, Nurse Rachel Green, Nurse Ahmed Hassan, Nurse Sarah Johnson",Hip Replacement,146
+67,Obesity; Heart Disease; Coagulopathy; Chronic Kidney Disease; COPD,31.1,13.4,4,Dr. Michael Chen,Local,"Nurse John Smith, Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse David Thompson",Spine Fusion,305
+51,Obesity; Coagulopathy,27.5,16.4,3,Dr. James O'Brien,Regional,"Nurse Rachel Green, Nurse Lisa Park, Nurse Emily Li, Nurse Sarah Johnson, Nurse Ahmed Hassan",Cholecystectomy,95
+62,Coagulopathy; Chronic Kidney Disease,33.1,10.9,2,Dr. Elena Rodriguez,Regional,"Nurse John Smith, Nurse Carlos Rodriguez",Hip Replacement,145
+34,None,34.1,14.8,2,Dr. Priya Patel,Sedation,"Nurse John Smith, Nurse Ahmed Hassan",Cholecystectomy,68
+76,None,26.5,15.2,2,Dr. Priya Patel,Sedation,"Nurse Ahmed Hassan, Nurse Kevin Tran, Nurse Maria Lopez, Nurse Jennifer Wong",Spine Fusion,223
+56,Chronic Kidney Disease,32.3,14.3,2,Dr. Michael Chen,Sedation,"Nurse David Thompson, Nurse Jennifer Wong",Spine Fusion,185
+56,None,26.3,13,3,Dr. Elena Rodriguez,General,"Nurse David Thompson, Nurse Lisa Park, Nurse Rachel Green, Nurse John Smith, Nurse Jennifer Wong",Arthroscopy,65
+38,Obesity,24.5,14.4,3,Dr. Elena Rodriguez,Local,"Nurse Sarah Johnson, Nurse Lisa Park",Spine Fusion,184
+78,Chronic Kidney Disease,31.9,13.4,2,Dr. Sarah Ahmed,Sedation,"Nurse Jennifer Wong, Nurse Carlos Rodriguez",Arthroscopy,97
+55,None,18.5,10.7,1,Dr. Sarah Ahmed,Local,"Nurse John Smith, Nurse Ahmed Hassan",Cholecystectomy,93
+36,Hypertension; Diabetes,25,13.9,3,Dr. Priya Patel,Local,"Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Maria Lopez",Arthroscopy,119
+52,Hypertension; Chronic Kidney Disease; Diabetes; Coagulopathy,24.7,13,3,Dr. Priya Patel,Local,"Nurse Rachel Green, Nurse Sarah Johnson",Knee Replacement,165
+35,None,30.8,12.4,1,Dr. Michael Chen,General,"Nurse Sarah Johnson, Nurse Kevin Tran, Nurse John Smith, Nurse Maria Lopez, Nurse Emily Li",Cholecystectomy,68
+81,Diabetes; Obesity; Heart Disease,33.6,11.8,2,Dr. Priya Patel,Sedation,"Nurse Emily Li, Nurse Rachel Green, Nurse John Smith, Nurse Ahmed Hassan",Arthroscopy,144
+58,COPD; Obesity; Diabetes,27.7,12.9,3,Dr. Michael Chen,General,"Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse David Thompson",Hip Replacement,178
+74,Obesity; Heart Disease; Chronic Kidney Disease; Diabetes; Coagulopathy,35.4,13.2,4,Dr. James O'Brien,Sedation,"Nurse Ahmed Hassan, Nurse Kevin Tran, Nurse Rachel Green, Nurse Carlos Rodriguez",Hernia Repair,202
+67,None,16.2,14.8,2,Dr. Sarah Ahmed,General,"Nurse John Smith, Nurse Emily Li, Nurse Carlos Rodriguez, Nurse Ahmed Hassan, Nurse Rachel Green",Hernia Repair,113
+95,COPD,21.8,10.9,2,Dr. Sarah Ahmed,Sedation,"Nurse Rachel Green, Nurse David Thompson",Spine Fusion,236
+69,Chronic Kidney Disease; Hypertension,27.4,13.2,3,Dr. Priya Patel,General,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Lisa Park",Knee Replacement,167
+74,Chronic Kidney Disease; Heart Disease,26.8,13.9,3,Dr. Priya Patel,Local,"Nurse Rachel Green, Nurse David Thompson, Nurse Sarah Johnson",Arthroscopy,136
+68,Diabetes,41.8,13.2,2,Dr. Michael Chen,Regional,"Nurse Carlos Rodriguez, Nurse Emily Li, Nurse Kevin Tran",Spine Fusion,184
+58,Obesity; Heart Disease; Hypertension,33,16.8,2,Dr. Michael Chen,Regional,"Nurse Carlos Rodriguez, Nurse John Smith, Nurse Kevin Tran",Hip Replacement,158
+78,Coagulopathy; Heart Disease; Hypertension; Obesity; Diabetes,18.4,13.2,4,Dr. Michael Chen,General,"Nurse Kevin Tran, Nurse Emily Li, Nurse Jennifer Wong",Arthroscopy,160
+32,Diabetes; Coagulopathy; COPD; Chronic Kidney Disease,27.8,13.7,3,Dr. Sarah Ahmed,Local,"Nurse Carlos Rodriguez, Nurse Emily Li",Knee Replacement,167
+61,None,27,15,3,Dr. Michael Chen,Local,"Nurse Kevin Tran, Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse Sarah Johnson",Hip Replacement,211
+61,COPD,21.2,12.2,3,Dr. Priya Patel,Sedation,"Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Maria Lopez",Hip Replacement,157
+68,COPD; Obesity,23.4,16.1,3,Dr. Sarah Ahmed,Sedation,"Nurse Ahmed Hassan, Nurse Emily Li",Cholecystectomy,118
+73,None,28.8,12.7,2,Dr. James O'Brien,Sedation,"Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Ahmed Hassan",Spine Fusion,232
+87,Heart Disease; Chronic Kidney Disease; Diabetes; Obesity,24.3,14.8,3,Dr. Elena Rodriguez,Local,"Nurse Sarah Johnson, Nurse Kevin Tran, Nurse David Thompson",Hernia Repair,126
+54,Heart Disease,20.1,14.1,3,Dr. Priya Patel,Local,"Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse Rachel Green, Nurse John Smith",Hip Replacement,183
+50,None,27.7,13.8,2,Dr. James O'Brien,Sedation,"Nurse Kevin Tran, Nurse Emily Li, Nurse Lisa Park, Nurse Jennifer Wong, Nurse John Smith",Knee Replacement,91
+77,None,49.2,11.6,2,Dr. Michael Chen,Sedation,"Nurse Sarah Johnson, Nurse Emily Li, Nurse Kevin Tran",Hernia Repair,171
+70,Heart Disease; COPD,25.6,13.5,3,Dr. Sarah Ahmed,General,"Nurse Kevin Tran, Nurse Jennifer Wong, Nurse John Smith",Cholecystectomy,109
+53,None,27.9,16.3,2,Dr. Sarah Ahmed,Regional,"Nurse John Smith, Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse Kevin Tran",Knee Replacement,139
+80,Hypertension; Chronic Kidney Disease; Coagulopathy,34.4,11.6,3,Dr. James O'Brien,Local,"Nurse Maria Lopez, Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse Carlos Rodriguez, Nurse David Thompson",Spine Fusion,268
+46,Coagulopathy; COPD,26.4,11.9,3,Dr. James O'Brien,General,"Nurse Rachel Green, Nurse Ahmed Hassan, Nurse Maria Lopez, Nurse Sarah Johnson",Spine Fusion,214
+69,Chronic Kidney Disease; Hypertension; Diabetes; Coagulopathy,25.4,11.5,4,Dr. Priya Patel,Local,"Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Lisa Park, Nurse Emily Li",Knee Replacement,188
+72,Heart Disease,16,13.9,2,Dr. Michael Chen,General,"Nurse Ahmed Hassan, Nurse Lisa Park, Nurse Rachel Green, Nurse Emily Li",Arthroscopy,104
+78,None,31.7,14.5,2,Dr. Priya Patel,Local,"Nurse David Thompson, Nurse Emily Li, Nurse John Smith, Nurse Jennifer Wong, Nurse Sarah Johnson",Hernia Repair,114
+62,Heart Disease; Coagulopathy; Obesity; COPD,23.7,11.8,4,Dr. Michael Chen,Regional,"Nurse David Thompson, Nurse Sarah Johnson, Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse Emily Li",Hip Replacement,207
+54,Coagulopathy,32.7,14.3,2,Dr. James O'Brien,Sedation,"Nurse Lisa Park, Nurse Emily Li, Nurse Sarah Johnson",Cholecystectomy,64
+63,Coagulopathy; Diabetes; Chronic Kidney Disease; Hypertension; COPD,32.9,14.1,4,Dr. Michael Chen,Local,"Nurse Emily Li, Nurse Lisa Park, Nurse Rachel Green",Hernia Repair,166
+51,Obesity; Chronic Kidney Disease; COPD,21,12.9,4,Dr. James O'Brien,Sedation,"Nurse Carlos Rodriguez, Nurse Emily Li, Nurse Ahmed Hassan, Nurse Lisa Park",Spine Fusion,173
+69,None,16,14.1,2,Dr. Michael Chen,Regional,"Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Lisa Park",Hernia Repair,125
+65,None,40.3,11.1,3,Dr. Priya Patel,General,"Nurse David Thompson, Nurse John Smith, Nurse Jennifer Wong, Nurse Sarah Johnson",Spine Fusion,222
+44,Diabetes; Coagulopathy,29.9,11.5,2,Dr. Sarah Ahmed,General,"Nurse Ahmed Hassan, Nurse Maria Lopez, Nurse Kevin Tran, Nurse Sarah Johnson, Nurse Rachel Green",Hip Replacement,163
+74,Diabetes; Heart Disease; Obesity; Hypertension; Coagulopathy,16,12.3,4,Dr. Michael Chen,Regional,"Nurse Rachel Green, Nurse John Smith, Nurse Kevin Tran, Nurse Lisa Park, Nurse Ahmed Hassan",Spine Fusion,278
+42,Hypertension; Obesity,21.1,15,3,Dr. Michael Chen,Local,"Nurse Maria Lopez, Nurse Lisa Park, Nurse Emily Li",Cholecystectomy,103
+58,None,37.2,14.4,3,Dr. Priya Patel,Regional,"Nurse Carlos Rodriguez, Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Lisa Park, Nurse David Thompson",Knee Replacement,136
+69,None,22.7,15.5,2,Dr. Priya Patel,Sedation,"Nurse Lisa Park, Nurse Kevin Tran, Nurse Sarah Johnson, Nurse Rachel Green, Nurse Jennifer Wong",Spine Fusion,215
+84,Obesity; Hypertension; Diabetes,33.1,14.3,3,Dr. James O'Brien,Local,"Nurse Rachel Green, Nurse Emily Li, Nurse Sarah Johnson, Nurse Lisa Park, Nurse David Thompson",Spine Fusion,232
+53,None,35.4,12.6,1,Dr. Priya Patel,Regional,"Nurse Maria Lopez, Nurse Ahmed Hassan",Hernia Repair,118
+68,Heart Disease; Coagulopathy,21.2,13,2,Dr. Sarah Ahmed,General,"Nurse Ahmed Hassan, Nurse Maria Lopez, Nurse Carlos Rodriguez, Nurse Lisa Park, Nurse Jennifer Wong",Knee Replacement,166
+71,Coagulopathy; COPD,25.7,10.6,3,Dr. Elena Rodriguez,Regional,"Nurse Kevin Tran, Nurse John Smith, Nurse Maria Lopez, Nurse Emily Li",Hip Replacement,164
+48,COPD,34.4,12.8,3,Dr. Michael Chen,Sedation,"Nurse Sarah Johnson, Nurse John Smith, Nurse Jennifer Wong, Nurse Lisa Park, Nurse Carlos Rodriguez",Hip Replacement,140
+34,Hypertension; Heart Disease; Diabetes,18.1,13.3,3,Dr. Priya Patel,Local,"Nurse Lisa Park, Nurse John Smith, Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Jennifer Wong",Cholecystectomy,146
+41,COPD; Hypertension,31.6,14.7,3,Dr. Elena Rodriguez,Local,"Nurse Jennifer Wong, Nurse Lisa Park",Hernia Repair,121
+47,Diabetes,28.2,15,3,Dr. Sarah Ahmed,Local,"Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse Lisa Park, Nurse David Thompson",Arthroscopy,89
+74,Diabetes; Hypertension; Coagulopathy,25.7,15.9,3,Dr. Priya Patel,Local,"Nurse Jennifer Wong, Nurse David Thompson",Hip Replacement,200
+74,Heart Disease,27.4,13.6,3,Dr. Priya Patel,General,"Nurse Carlos Rodriguez, Nurse Maria Lopez, Nurse John Smith",Knee Replacement,194
+45,Hypertension; Diabetes; COPD,24.6,14.5,3,Dr. Sarah Ahmed,Sedation,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Rachel Green",Hernia Repair,144
+60,Heart Disease; COPD,33.9,14.6,2,Dr. Elena Rodriguez,Regional,"Nurse Emily Li, Nurse David Thompson",Arthroscopy,84
+87,Diabetes; Heart Disease,29.7,15.7,3,Dr. James O'Brien,Local,"Nurse David Thompson, Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse Lisa Park",Hip Replacement,240
+37,None,18,16.5,3,Dr. Elena Rodriguez,Sedation,"Nurse Maria Lopez, Nurse David Thompson, Nurse John Smith, Nurse Sarah Johnson, Nurse Carlos Rodriguez",Cholecystectomy,107
+61,None,21.4,12.3,3,Dr. Michael Chen,General,"Nurse Maria Lopez, Nurse John Smith, Nurse Carlos Rodriguez",Hernia Repair,67
+66,Obesity,17.4,12.2,2,Dr. Elena Rodriguez,Local,"Nurse Carlos Rodriguez, Nurse Sarah Johnson, Nurse Rachel Green",Hernia Repair,117
+86,None,32.1,13.7,1,Dr. Priya Patel,General,"Nurse Lisa Park, Nurse Maria Lopez, Nurse Ahmed Hassan",Hip Replacement,185
+54,Heart Disease; COPD,39.9,13.3,3,Dr. Michael Chen,General,"Nurse John Smith, Nurse Emily Li, Nurse Maria Lopez, Nurse Lisa Park",Knee Replacement,175
+63,Hypertension; Chronic Kidney Disease,27.5,14.5,3,Dr. Sarah Ahmed,General,"Nurse Emily Li, Nurse Maria Lopez, Nurse Jennifer Wong, Nurse Rachel Green, Nurse Carlos Rodriguez",Hip Replacement,178
+59,COPD,24.1,14.8,4,Dr. James O'Brien,Regional,"Nurse Maria Lopez, Nurse Lisa Park, Nurse Carlos Rodriguez",Cholecystectomy,87
+65,Heart Disease,49.3,13.9,3,Dr. Elena Rodriguez,Sedation,"Nurse John Smith, Nurse Jennifer Wong",Arthroscopy,128
+55,Diabetes,30.4,11.3,2,Dr. Elena Rodriguez,Regional,"Nurse Lisa Park, Nurse Maria Lopez, Nurse Kevin Tran, Nurse Emily Li",Hip Replacement,157
+62,Chronic Kidney Disease; Obesity; Diabetes; Hypertension,24.4,12.3,3,Dr. Michael Chen,Sedation,"Nurse John Smith, Nurse Emily Li, Nurse Ahmed Hassan, Nurse Kevin Tran, Nurse Sarah Johnson",Spine Fusion,204
+48,None,22.8,13,2,Dr. Elena Rodriguez,Regional,"Nurse Maria Lopez, Nurse Sarah Johnson, Nurse Emily Li",Knee Replacement,140
+83,Heart Disease; Diabetes; COPD,22,11.8,3,Dr. Priya Patel,Regional,"Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse David Thompson",Hip Replacement,206
+63,Obesity; Heart Disease,29.1,14.6,4,Dr. Priya Patel,General,"Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse Ahmed Hassan, Nurse Jennifer Wong",Spine Fusion,257
+82,Obesity,29.5,14,4,Dr. Sarah Ahmed,Local,"Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse Kevin Tran",Hernia Repair,151
+55,None,24.4,12.4,2,Dr. Priya Patel,Local,"Nurse Maria Lopez, Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Lisa Park",Cholecystectomy,78
+83,Coagulopathy; Obesity; Hypertension,37,13.4,4,Dr. James O'Brien,Sedation,"Nurse David Thompson, Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse John Smith",Hernia Repair,172
+77,Coagulopathy; Obesity,24.7,15.1,3,Dr. Elena Rodriguez,Sedation,"Nurse Kevin Tran, Nurse Rachel Green, Nurse Emily Li",Hip Replacement,202
+55,Chronic Kidney Disease; Heart Disease; Diabetes; Obesity,30.8,14.4,2,Dr. Priya Patel,Regional,"Nurse Maria Lopez, Nurse Jennifer Wong",Arthroscopy,115
+57,Coagulopathy; Diabetes,29.9,14.2,3,Dr. Sarah Ahmed,General,"Nurse David Thompson, Nurse Carlos Rodriguez, Nurse John Smith",Hip Replacement,214
+70,None,36.4,14.1,2,Dr. Priya Patel,Sedation,"Nurse Kevin Tran, Nurse Sarah Johnson",Hip Replacement,160
+76,Obesity; Coagulopathy; Chronic Kidney Disease,26.6,14.5,2,Dr. Elena Rodriguez,General,"Nurse Maria Lopez, Nurse Emily Li, Nurse John Smith, Nurse David Thompson",Arthroscopy,84
+63,None,23.4,15.7,1,Dr. Priya Patel,Sedation,"Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse David Thompson",Knee Replacement,93
+67,None,25.9,13.1,3,Dr. Elena Rodriguez,Sedation,"Nurse Emily Li, Nurse Ahmed Hassan",Hip Replacement,163
+57,None,24.9,14.1,4,Dr. Priya Patel,General,"Nurse Maria Lopez, Nurse Kevin Tran, Nurse Rachel Green, Nurse Lisa Park",Arthroscopy,80
+76,Coagulopathy; Heart Disease; Diabetes; Hypertension,40.3,13.4,4,Dr. Priya Patel,Sedation,"Nurse David Thompson, Nurse John Smith",Cholecystectomy,179
+58,None,28.2,13.2,3,Dr. Michael Chen,Regional,"Nurse John Smith, Nurse Ahmed Hassan, Nurse Lisa Park",Cholecystectomy,113
+65,Obesity; Chronic Kidney Disease; Coagulopathy,24.8,12.7,5,Dr. Elena Rodriguez,Sedation,"Nurse David Thompson, Nurse Kevin Tran, Nurse Emily Li, Nurse Carlos Rodriguez, Nurse Ahmed Hassan",Spine Fusion,271
+47,Diabetes,32.8,12.7,2,Dr. Priya Patel,Local,"Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse Sarah Johnson",Spine Fusion,210
+58,None,23.9,15.2,2,Dr. Priya Patel,Local,"Nurse Ahmed Hassan, Nurse Kevin Tran, Nurse Carlos Rodriguez",Arthroscopy,102
+62,Heart Disease,30.2,13,3,Dr. James O'Brien,Regional,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Kevin Tran, Nurse Lisa Park",Hernia Repair,190
+71,Obesity,28.4,13.6,2,Dr. Elena Rodriguez,Local,"Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse Rachel Green",Hip Replacement,151
+70,None,19.9,14.8,2,Dr. James O'Brien,General,"Nurse Carlos Rodriguez, Nurse Sarah Johnson, Nurse Maria Lopez, Nurse Ahmed Hassan, Nurse Jennifer Wong",Hip Replacement,116
+81,None,23,12.4,1,Dr. Priya Patel,Regional,"Nurse Rachel Green, Nurse Maria Lopez, Nurse Lisa Park",Spine Fusion,194
+86,Hypertension,24.8,11.9,2,Dr. Elena Rodriguez,General,"Nurse Maria Lopez, Nurse Rachel Green, Nurse Ahmed Hassan, Nurse Jennifer Wong",Hernia Repair,159
+42,Diabetes; COPD; Heart Disease; Hypertension,21.5,11.5,3,Dr. Sarah Ahmed,Regional,"Nurse Rachel Green, Nurse Emily Li, Nurse John Smith",Arthroscopy,118
+58,None,32.6,12.9,2,Dr. Sarah Ahmed,General,"Nurse Rachel Green, Nurse David Thompson, Nurse Sarah Johnson, Nurse John Smith",Arthroscopy,80
+67,Chronic Kidney Disease; Heart Disease,17.7,13,2,Dr. Sarah Ahmed,Sedation,"Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Rachel Green, Nurse Maria Lopez",Cholecystectomy,71
+52,None,20.7,12.4,2,Dr. Michael Chen,Local,"Nurse Maria Lopez, Nurse Emily Li",Hernia Repair,125
+40,Coagulopathy,27.8,14.8,2,Dr. Michael Chen,Sedation,"Nurse Sarah Johnson, Nurse David Thompson, Nurse John Smith, Nurse Maria Lopez, Nurse Emily Li",Spine Fusion,216
+74,Diabetes; Heart Disease,27.2,14.7,2,Dr. Michael Chen,Regional,"Nurse Emily Li, Nurse Ahmed Hassan",Knee Replacement,155
+69,Heart Disease; Obesity; Hypertension,33.2,14.3,2,Dr. Sarah Ahmed,General,"Nurse Maria Lopez, Nurse Sarah Johnson, Nurse Carlos Rodriguez",Arthroscopy,100
+46,Hypertension; COPD; Heart Disease; Chronic Kidney Disease,20.5,13.5,3,Dr. Michael Chen,Sedation,"Nurse Jennifer Wong, Nurse Emily Li, Nurse David Thompson",Spine Fusion,253
+59,Obesity,29.6,15,2,Dr. Michael Chen,Local,"Nurse Ahmed Hassan, Nurse Sarah Johnson",Hip Replacement,169
+35,None,39.1,12.9,2,Dr. Priya Patel,Sedation,"Nurse Sarah Johnson, Nurse Ahmed Hassan",Arthroscopy,85
+63,Coagulopathy,16,13.8,3,Dr. Elena Rodriguez,Regional,"Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse Ahmed Hassan",Spine Fusion,196
+44,COPD; Coagulopathy,37.1,10.3,2,Dr. Michael Chen,Regional,"Nurse Ahmed Hassan, Nurse Kevin Tran, Nurse Lisa Park",Cholecystectomy,114
+46,Hypertension,25.1,13.5,2,Dr. Elena Rodriguez,Local,"Nurse Rachel Green, Nurse Sarah Johnson",Arthroscopy,57
+50,None,19,13.5,2,Dr. Priya Patel,Sedation,"Nurse David Thompson, Nurse Sarah Johnson",Hip Replacement,143
+51,None,25,14.5,3,Dr. Michael Chen,General,"Nurse Emily Li, Nurse John Smith, Nurse Lisa Park, Nurse Ahmed Hassan",Hernia Repair,55
+54,Coagulopathy; Heart Disease; Hypertension,37.9,12.7,3,Dr. Priya Patel,General,"Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse Lisa Park",Cholecystectomy,134
+79,Coagulopathy; Hypertension; Chronic Kidney Disease,36.3,11.5,3,Dr. Michael Chen,Regional,"Nurse Jennifer Wong, Nurse David Thompson, Nurse Kevin Tran, Nurse Maria Lopez",Cholecystectomy,210
+64,Obesity; Hypertension; Heart Disease,26.5,14,3,Dr. Elena Rodriguez,Local,"Nurse Emily Li, Nurse David Thompson",Knee Replacement,134
+64,COPD,28.1,16,2,Dr. Elena Rodriguez,Local,"Nurse Maria Lopez, Nurse Emily Li, Nurse John Smith, Nurse Ahmed Hassan, Nurse David Thompson",Hip Replacement,140
+65,None,28.1,11.3,1,Dr. James O'Brien,General,"Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Sarah Johnson, Nurse Rachel Green",Hernia Repair,114
+95,Heart Disease; Hypertension; Diabetes,31.1,13.8,3,Dr. Priya Patel,Sedation,"Nurse John Smith, Nurse Kevin Tran, Nurse Rachel Green, Nurse Maria Lopez",Knee Replacement,208
+66,Chronic Kidney Disease,28.1,14,2,Dr. Michael Chen,Local,"Nurse David Thompson, Nurse Sarah Johnson",Hernia Repair,114
+29,Chronic Kidney Disease,24.2,15.5,3,Dr. James O'Brien,Regional,"Nurse David Thompson, Nurse Maria Lopez, Nurse Rachel Green, Nurse Sarah Johnson",Knee Replacement,89
+83,COPD; Obesity; Diabetes,32.2,15.2,3,Dr. James O'Brien,Regional,"Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Ahmed Hassan, Nurse David Thompson",Knee Replacement,205
+80,Hypertension; Obesity,25.9,15.1,4,Dr. Elena Rodriguez,Local,"Nurse Ahmed Hassan, Nurse Maria Lopez, Nurse Kevin Tran, Nurse John Smith, Nurse Rachel Green",Hip Replacement,214
+75,Heart Disease,27.7,15.2,2,Dr. James O'Brien,Local,"Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Emily Li, Nurse Carlos Rodriguez",Cholecystectomy,134
+71,Heart Disease,33.8,12.7,3,Dr. Sarah Ahmed,Local,"Nurse John Smith, Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Maria Lopez",Cholecystectomy,128
+49,COPD,37.8,10.6,2,Dr. Michael Chen,Regional,"Nurse Ahmed Hassan, Nurse Rachel Green",Cholecystectomy,104
+76,Hypertension,33.6,13.9,3,Dr. Priya Patel,Regional,"Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse David Thompson, Nurse Lisa Park",Spine Fusion,238
+56,None,26.8,14.6,4,Dr. Priya Patel,Local,"Nurse John Smith, Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse Ahmed Hassan",Hip Replacement,171
+57,COPD; Obesity,25.8,13.4,2,Dr. Michael Chen,Regional,"Nurse John Smith, Nurse Jennifer Wong, Nurse Ahmed Hassan",Cholecystectomy,75
+48,Coagulopathy; Hypertension; Heart Disease; Chronic Kidney Disease; COPD,23.7,15.1,3,Dr. Sarah Ahmed,Local,"Nurse Lisa Park, Nurse Kevin Tran, Nurse Jennifer Wong",Knee Replacement,142
+46,Diabetes; Obesity; Chronic Kidney Disease,22.9,11.7,3,Dr. James O'Brien,Regional,"Nurse Jennifer Wong, Nurse Emily Li",Hernia Repair,108
+46,Chronic Kidney Disease,32.6,15.3,2,Dr. Michael Chen,Sedation,"Nurse Emily Li, Nurse Sarah Johnson",Hip Replacement,157
+53,Heart Disease; COPD,30,12.6,2,Dr. James O'Brien,Regional,"Nurse Jennifer Wong, Nurse John Smith, Nurse David Thompson, Nurse Lisa Park",Hernia Repair,114
+41,Diabetes,28.8,14.2,2,Dr. Priya Patel,Regional,"Nurse Kevin Tran, Nurse Lisa Park, Nurse John Smith, Nurse Ahmed Hassan",Cholecystectomy,93
+57,Chronic Kidney Disease; Diabetes; Heart Disease; Coagulopathy,16,13.2,4,Dr. Sarah Ahmed,Sedation,"Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse Emily Li, Nurse David Thompson",Arthroscopy,123
+44,COPD; Coagulopathy; Hypertension; Obesity,35.5,14.5,3,Dr. Elena Rodriguez,General,"Nurse John Smith, Nurse Maria Lopez, Nurse Sarah Johnson",Arthroscopy,108
+66,Heart Disease,32.6,13.9,2,Dr. Michael Chen,Sedation,"Nurse John Smith, Nurse Lisa Park, Nurse Kevin Tran, Nurse David Thompson, Nurse Carlos Rodriguez",Arthroscopy,101
+54,None,20,14.4,1,Dr. Michael Chen,General,"Nurse Emily Li, Nurse Carlos Rodriguez, Nurse John Smith, Nurse Sarah Johnson, Nurse Ahmed Hassan",Arthroscopy,75
+28,Obesity,42.5,15.7,3,Dr. Priya Patel,General,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Ahmed Hassan, Nurse Maria Lopez, Nurse Rachel Green",Spine Fusion,211
+68,COPD; Coagulopathy; Diabetes; Hypertension,31,13,3,Dr. Priya Patel,Local,"Nurse Maria Lopez, Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse Lisa Park, Nurse David Thompson",Hernia Repair,131
+38,COPD,31.1,15.5,3,Dr. Michael Chen,Local,"Nurse Rachel Green, Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse John Smith",Arthroscopy,43
+78,Obesity; Diabetes,29.8,14,2,Dr. James O'Brien,General,"Nurse Carlos Rodriguez, Nurse Lisa Park, Nurse David Thompson",Spine Fusion,240
+60,Hypertension; Obesity; Chronic Kidney Disease,19.1,14.3,3,Dr. Priya Patel,Sedation,"Nurse Sarah Johnson, Nurse Lisa Park, Nurse Emily Li",Knee Replacement,116
+72,None,29.9,13.8,5,Dr. Sarah Ahmed,Regional,"Nurse Jennifer Wong, Nurse Carlos Rodriguez",Hip Replacement,209
+65,COPD,26.7,11.4,2,Dr. Elena Rodriguez,Regional,"Nurse Rachel Green, Nurse Emily Li",Hernia Repair,124
+68,Chronic Kidney Disease; Coagulopathy; Diabetes,32.8,13.4,2,Dr. Michael Chen,Local,"Nurse David Thompson, Nurse Carlos Rodriguez",Hernia Repair,148
+18,Diabetes,17,11,2,Dr. Priya Patel,Sedation,"Nurse Ahmed Hassan, Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse Rachel Green",Cholecystectomy,96
+68,Diabetes; Hypertension,17.1,12.1,3,Dr. Elena Rodriguez,Regional,"Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Lisa Park, Nurse Ahmed Hassan",Cholecystectomy,97
+57,Coagulopathy,39.6,10.8,3,Dr. Priya Patel,Local,"Nurse Sarah Johnson, Nurse Rachel Green",Hip Replacement,128
+55,None,30.1,12.1,2,Dr. James O'Brien,General,"Nurse Rachel Green, Nurse Jennifer Wong, Nurse David Thompson, Nurse Kevin Tran, Nurse Ahmed Hassan",Knee Replacement,158
+72,Obesity; Heart Disease; Diabetes; COPD; Hypertension,37.4,14.2,3,Dr. Elena Rodriguez,Sedation,"Nurse Ahmed Hassan, Nurse Maria Lopez, Nurse Carlos Rodriguez, Nurse John Smith, Nurse David Thompson",Arthroscopy,140
+66,COPD,31.3,15.4,2,Dr. Priya Patel,Local,"Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Maria Lopez, Nurse John Smith, Nurse Rachel Green",Cholecystectomy,135
+52,Obesity; Chronic Kidney Disease; Coagulopathy; Hypertension; Diabetes,23.2,10.4,4,Dr. Elena Rodriguez,General,"Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Emily Li",Hip Replacement,212
+65,Hypertension; Diabetes; Obesity,21.1,12.2,5,Dr. James O'Brien,Sedation,"Nurse Emily Li, Nurse David Thompson, Nurse Maria Lopez, Nurse Kevin Tran",Arthroscopy,152
+78,Hypertension; Coagulopathy; Heart Disease,28,13.9,3,Dr. Michael Chen,General,"Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Emily Li",Cholecystectomy,97
+48,Diabetes; Heart Disease,30.1,13.4,2,Dr. James O'Brien,General,"Nurse Emily Li, Nurse Sarah Johnson, Nurse David Thompson, Nurse Kevin Tran",Arthroscopy,30
+71,Heart Disease,26.8,13.2,2,Dr. Michael Chen,Sedation,"Nurse Jennifer Wong, Nurse David Thompson, Nurse Rachel Green, Nurse Emily Li, Nurse Ahmed Hassan",Hip Replacement,135
+92,Obesity; Hypertension,20.8,13.7,2,Dr. Elena Rodriguez,General,"Nurse Kevin Tran, Nurse Maria Lopez, Nurse David Thompson",Spine Fusion,225
+46,COPD,38.9,14.3,2,Dr. Sarah Ahmed,Local,"Nurse Sarah Johnson, Nurse Kevin Tran, Nurse Emily Li, Nurse Rachel Green",Hip Replacement,142
+63,Hypertension,18.3,14,5,Dr. Sarah Ahmed,Regional,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Rachel Green",Hernia Repair,115
+74,None,18.9,11.5,1,Dr. James O'Brien,Sedation,"Nurse John Smith, Nurse Maria Lopez, Nurse David Thompson, Nurse Kevin Tran",Hernia Repair,88
+76,Chronic Kidney Disease; Diabetes; Hypertension,27.7,14.2,4,Dr. Michael Chen,Regional,"Nurse Sarah Johnson, Nurse Maria Lopez, Nurse Emily Li, Nurse Ahmed Hassan, Nurse Rachel Green",Cholecystectomy,116
+59,Diabetes,37.5,15,3,Dr. James O'Brien,Local,"Nurse Rachel Green, Nurse Lisa Park, Nurse David Thompson",Arthroscopy,37
+64,Heart Disease; Obesity; Chronic Kidney Disease,25.2,15.2,3,Dr. Elena Rodriguez,Sedation,"Nurse Maria Lopez, Nurse David Thompson, Nurse Emily Li, Nurse Ahmed Hassan",Knee Replacement,148
+73,None,24.1,12.3,2,Dr. Michael Chen,Local,"Nurse Jennifer Wong, Nurse John Smith",Hernia Repair,155
+49,Coagulopathy; Heart Disease; COPD,36.3,13.5,3,Dr. James O'Brien,Sedation,"Nurse Maria Lopez, Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse Emily Li",Hernia Repair,86
+56,Coagulopathy,25.3,14.4,3,Dr. James O'Brien,Local,"Nurse Carlos Rodriguez, Nurse Sarah Johnson, Nurse Maria Lopez, Nurse Rachel Green",Knee Replacement,81
+47,Obesity,16,15,2,Dr. James O'Brien,Local,"Nurse John Smith, Nurse Kevin Tran",Spine Fusion,252
+47,None,20.2,14.5,2,Dr. Priya Patel,Local,"Nurse David Thompson, Nurse Jennifer Wong, Nurse Rachel Green, Nurse Maria Lopez",Knee Replacement,122
+83,COPD; Chronic Kidney Disease,29.6,13.1,4,Dr. Michael Chen,Regional,"Nurse Kevin Tran, Nurse Lisa Park, Nurse Sarah Johnson",Arthroscopy,140
+71,None,25.8,11.7,2,Dr. Sarah Ahmed,General,"Nurse Rachel Green, Nurse Emily Li",Knee Replacement,131
+43,Heart Disease,39.5,13.8,4,Dr. Priya Patel,Local,"Nurse David Thompson, Nurse Carlos Rodriguez, Nurse John Smith, Nurse Emily Li, Nurse Ahmed Hassan",Cholecystectomy,155
+59,Hypertension; Obesity; Heart Disease,19.3,13.1,3,Dr. Sarah Ahmed,Regional,"Nurse David Thompson, Nurse Emily Li, Nurse Maria Lopez",Arthroscopy,96
+50,None,28.9,15.5,2,Dr. Michael Chen,General,"Nurse Carlos Rodriguez, Nurse Ahmed Hassan",Hip Replacement,182
+95,Coagulopathy; COPD,32.7,12.2,3,Dr. Elena Rodriguez,Local,"Nurse John Smith, Nurse Emily Li, Nurse Carlos Rodriguez",Hip Replacement,221
+56,Coagulopathy; Heart Disease; Hypertension,24.2,10.6,3,Dr. Michael Chen,Regional,"Nurse Ahmed Hassan, Nurse Jennifer Wong",Knee Replacement,205
+63,Chronic Kidney Disease,27.2,13.3,3,Dr. James O'Brien,General,"Nurse Carlos Rodriguez, Nurse Sarah Johnson",Arthroscopy,108
+77,Diabetes,17,12.3,2,Dr. Priya Patel,Sedation,"Nurse Maria Lopez, Nurse Kevin Tran, Nurse David Thompson, Nurse Emily Li",Cholecystectomy,154
+59,Diabetes; Coagulopathy,33,12.3,3,Dr. James O'Brien,Local,"Nurse Maria Lopez, Nurse Kevin Tran, Nurse Rachel Green, Nurse John Smith",Knee Replacement,124
+62,None,27,13.1,1,Dr. Michael Chen,Local,"Nurse John Smith, Nurse Rachel Green, Nurse Kevin Tran",Knee Replacement,120
+54,Coagulopathy; COPD; Diabetes; Heart Disease,32.9,14.6,4,Dr. Michael Chen,General,"Nurse Jennifer Wong, Nurse Rachel Green, Nurse David Thompson",Hip Replacement,212
+42,Obesity; Coagulopathy; Chronic Kidney Disease; Diabetes,24.8,13.2,4,Dr. Priya Patel,Local,"Nurse Ahmed Hassan, Nurse Emily Li, Nurse Lisa Park",Hernia Repair,177
+50,Heart Disease; Hypertension,29.3,11.4,2,Dr. James O'Brien,Local,"Nurse Kevin Tran, Nurse John Smith, Nurse Jennifer Wong, Nurse David Thompson",Cholecystectomy,116
+67,Obesity; Heart Disease; Coagulopathy,25.7,12.1,2,Dr. Priya Patel,General,"Nurse Maria Lopez, Nurse Jennifer Wong, Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse Emily Li",Arthroscopy,77
+78,Diabetes; COPD,22,13.5,3,Dr. James O'Brien,Sedation,"Nurse David Thompson, Nurse Sarah Johnson",Hip Replacement,161
+74,Hypertension,24.2,14.3,3,Dr. Elena Rodriguez,Regional,"Nurse Kevin Tran, Nurse Emily Li, Nurse Rachel Green, Nurse Lisa Park, Nurse Sarah Johnson",Knee Replacement,158
+67,Chronic Kidney Disease; Coagulopathy,27.8,11.1,2,Dr. James O'Brien,Regional,"Nurse Carlos Rodriguez, Nurse Kevin Tran",Arthroscopy,62
+66,Diabetes; Chronic Kidney Disease; COPD,31.1,14.7,3,Dr. Priya Patel,Sedation,"Nurse Carlos Rodriguez, Nurse Rachel Green",Hip Replacement,187
+57,COPD; Hypertension; Chronic Kidney Disease; Obesity,29,14.6,3,Dr. Sarah Ahmed,Local,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Lisa Park",Arthroscopy,78
+49,None,24.2,14.6,3,Dr. Sarah Ahmed,Local,"Nurse Carlos Rodriguez, Nurse Maria Lopez, Nurse David Thompson, Nurse Lisa Park, Nurse Kevin Tran",Hernia Repair,99
+59,COPD,27.4,15.1,2,Dr. Priya Patel,General,"Nurse Jennifer Wong, Nurse Rachel Green, Nurse Emily Li, Nurse Lisa Park, Nurse Kevin Tran",Spine Fusion,190
+49,COPD; Chronic Kidney Disease,26.5,14.1,2,Dr. Michael Chen,General,"Nurse Emily Li, Nurse Ahmed Hassan",Hip Replacement,127
+72,Coagulopathy; Heart Disease,25.3,14.3,3,Dr. James O'Brien,Regional,"Nurse Sarah Johnson, Nurse Kevin Tran, Nurse Lisa Park, Nurse John Smith, Nurse Rachel Green",Hip Replacement,154
+55,Obesity,37,13.4,2,Dr. Sarah Ahmed,Local,"Nurse Carlos Rodriguez, Nurse Sarah Johnson, Nurse David Thompson",Arthroscopy,75
+59,Hypertension; Chronic Kidney Disease,34.5,13.4,3,Dr. James O'Brien,General,"Nurse Sarah Johnson, Nurse Kevin Tran, Nurse Emily Li, Nurse John Smith, Nurse David Thompson",Spine Fusion,204
+51,Chronic Kidney Disease; Coagulopathy,27.4,13.6,3,Dr. Priya Patel,General,"Nurse David Thompson, Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse Emily Li, Nurse Rachel Green",Hernia Repair,85
+51,None,42.6,12.6,2,Dr. Michael Chen,General,"Nurse Jennifer Wong, Nurse Rachel Green, Nurse Sarah Johnson, Nurse David Thompson, Nurse Kevin Tran",Hip Replacement,223
+49,Chronic Kidney Disease,33.1,13.5,3,Dr. Priya Patel,Regional,"Nurse Emily Li, Nurse Carlos Rodriguez, Nurse Maria Lopez, Nurse David Thompson, Nurse Kevin Tran",Spine Fusion,232
+77,None,35.3,14.4,2,Dr. Priya Patel,Sedation,"Nurse Jennifer Wong, Nurse Lisa Park",Hernia Repair,110
+88,None,38.3,15,2,Dr. Elena Rodriguez,Regional,"Nurse Sarah Johnson, Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse John Smith",Hip Replacement,215
+42,Chronic Kidney Disease; Heart Disease,23.4,12,3,Dr. Elena Rodriguez,General,"Nurse Kevin Tran, Nurse Rachel Green, Nurse Sarah Johnson, Nurse Emily Li",Hip Replacement,166
+94,None,36.4,13.8,1,Dr. Sarah Ahmed,Sedation,"Nurse Kevin Tran, Nurse Ahmed Hassan",Arthroscopy,132
+63,Coagulopathy; Hypertension; Heart Disease,36.6,12.1,2,Dr. Michael Chen,General,"Nurse Emily Li, Nurse Ahmed Hassan",Knee Replacement,137
+55,Diabetes; Chronic Kidney Disease,28.4,15.9,3,Dr. Priya Patel,Sedation,"Nurse David Thompson, Nurse Rachel Green, Nurse Maria Lopez, Nurse John Smith",Knee Replacement,162
+70,Chronic Kidney Disease; Obesity; COPD; Heart Disease,21,13.4,3,Dr. Michael Chen,Regional,"Nurse Sarah Johnson, Nurse Lisa Park, Nurse Kevin Tran, Nurse John Smith, Nurse Emily Li",Arthroscopy,140
+60,COPD,38.5,10.5,3,Dr. Priya Patel,Local,"Nurse John Smith, Nurse Ahmed Hassan, Nurse Sarah Johnson",Arthroscopy,79
+51,Coagulopathy; COPD,24.7,14.8,3,Dr. Priya Patel,General,"Nurse Rachel Green, Nurse Jennifer Wong, Nurse Kevin Tran",Cholecystectomy,123
+92,Diabetes; Chronic Kidney Disease,16.5,13.4,2,Dr. James O'Brien,Sedation,"Nurse Jennifer Wong, Nurse Carlos Rodriguez",Spine Fusion,282
+61,Hypertension; Diabetes,22.1,11.3,3,Dr. Sarah Ahmed,Sedation,"Nurse Lisa Park, Nurse Sarah Johnson, Nurse Carlos Rodriguez",Cholecystectomy,119
+55,Obesity; Hypertension; COPD,34.1,13.8,4,Dr. Michael Chen,Regional,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse Sarah Johnson, Nurse Emily Li, Nurse David Thompson",Knee Replacement,245
+54,COPD,34.3,11.6,3,Dr. Elena Rodriguez,Regional,"Nurse Kevin Tran, Nurse Carlos Rodriguez",Hip Replacement,164
+57,Chronic Kidney Disease; Obesity; Heart Disease; COPD,36.8,12.6,4,Dr. Michael Chen,General,"Nurse Maria Lopez, Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse Emily Li",Hip Replacement,187
+56,Obesity; COPD,32.4,12,3,Dr. Elena Rodriguez,Local,"Nurse Jennifer Wong, Nurse Ahmed Hassan",Arthroscopy,90
+68,COPD; Obesity; Diabetes; Chronic Kidney Disease,34.3,14,3,Dr. Priya Patel,Local,"Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Ahmed Hassan",Arthroscopy,93
+57,Obesity; Diabetes; Heart Disease; Chronic Kidney Disease; Hypertension,27.2,13.7,4,Dr. Michael Chen,Local,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez, Nurse Emily Li, Nurse Sarah Johnson, Nurse Jennifer Wong",Arthroscopy,137
+70,None,28.4,13.7,1,Dr. Michael Chen,General,"Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Rachel Green, Nurse Ahmed Hassan",Hernia Repair,30
+60,Chronic Kidney Disease; COPD; Obesity; Hypertension,20.9,15.9,3,Dr. Michael Chen,General,"Nurse Lisa Park, Nurse Rachel Green",Spine Fusion,200
+65,Heart Disease,16.5,12.9,3,Dr. Sarah Ahmed,Local,"Nurse David Thompson, Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse Lisa Park, Nurse Sarah Johnson",Hip Replacement,179
+65,Heart Disease,21.9,10.2,2,Dr. Priya Patel,Local,"Nurse Kevin Tran, Nurse Rachel Green, Nurse Lisa Park",Hip Replacement,162
+47,Diabetes; Chronic Kidney Disease; Coagulopathy; Hypertension,22,12.4,3,Dr. Priya Patel,Regional,"Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse Emily Li",Hip Replacement,213
+66,Heart Disease,16,11.9,3,Dr. Priya Patel,General,"Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse Ahmed Hassan",Arthroscopy,68
+74,Heart Disease; Diabetes,19.2,13.3,3,Dr. James O'Brien,Sedation,"Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Hernia Repair,140
+64,Coagulopathy,36.8,15,3,Dr. Elena Rodriguez,Local,"Nurse John Smith, Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse Lisa Park, Nurse Rachel Green",Hernia Repair,110
+64,Diabetes; Chronic Kidney Disease,37.8,13.8,3,Dr. James O'Brien,Sedation,"Nurse David Thompson, Nurse Maria Lopez, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Knee Replacement,152
+68,COPD,31.2,12,3,Dr. Michael Chen,Sedation,"Nurse Carlos Rodriguez, Nurse Ahmed Hassan, Nurse John Smith, Nurse Sarah Johnson",Cholecystectomy,82
+71,None,21.8,14,2,Dr. Michael Chen,Local,"Nurse Rachel Green, Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse Sarah Johnson, Nurse Maria Lopez",Hip Replacement,147
+39,None,25.7,11.8,3,Dr. Elena Rodriguez,Local,"Nurse Sarah Johnson, Nurse Emily Li, Nurse Ahmed Hassan, Nurse Maria Lopez, Nurse Carlos Rodriguez",Spine Fusion,202
+51,None,23.5,15.2,3,Dr. James O'Brien,General,"Nurse Kevin Tran, Nurse Rachel Green, Nurse Emily Li, Nurse Lisa Park, Nurse Jennifer Wong",Arthroscopy,60
+67,Heart Disease; Chronic Kidney Disease,28.9,16.7,5,Dr. Sarah Ahmed,Regional,"Nurse Carlos Rodriguez, Nurse John Smith, Nurse Kevin Tran, Nurse Emily Li, Nurse Lisa Park",Spine Fusion,253
+82,Heart Disease; Obesity,29.4,14.3,3,Dr. Elena Rodriguez,General,"Nurse Lisa Park, Nurse Maria Lopez",Cholecystectomy,116
+51,Diabetes; COPD,34,17,4,Dr. Priya Patel,Sedation,"Nurse Ahmed Hassan, Nurse David Thompson",Arthroscopy,93
+56,None,30.6,12.4,3,Dr. James O'Brien,General,"Nurse John Smith, Nurse Rachel Green, Nurse Kevin Tran, Nurse Lisa Park",Cholecystectomy,62
+37,Diabetes; Obesity; Coagulopathy,16,13.3,3,Dr. Priya Patel,General,"Nurse Kevin Tran, Nurse John Smith",Hip Replacement,142
+37,Chronic Kidney Disease,22.7,13.9,3,Dr. Michael Chen,Regional,"Nurse David Thompson, Nurse Kevin Tran",Arthroscopy,78
+68,COPD,26,13.1,2,Dr. Elena Rodriguez,Local,"Nurse David Thompson, Nurse Jennifer Wong, Nurse Rachel Green",Cholecystectomy,91
+56,COPD; Chronic Kidney Disease,31.3,14,4,Dr. Sarah Ahmed,Local,"Nurse Lisa Park, Nurse Carlos Rodriguez",Arthroscopy,91
+31,None,31.4,14.3,2,Dr. Elena Rodriguez,General,"Nurse Lisa Park, Nurse Emily Li, Nurse Rachel Green, Nurse Jennifer Wong, Nurse Sarah Johnson",Knee Replacement,107
+77,Heart Disease; Diabetes,32.4,15.3,2,Dr. Priya Patel,Local,"Nurse Sarah Johnson, Nurse Emily Li, Nurse Maria Lopez, Nurse Rachel Green, Nurse Lisa Park",Hip Replacement,209
+64,Hypertension; COPD,24.7,13.7,2,Dr. Priya Patel,Sedation,"Nurse Carlos Rodriguez, Nurse John Smith",Hip Replacement,133
+45,None,23.3,11,2,Dr. Sarah Ahmed,Regional,"Nurse Lisa Park, Nurse Carlos Rodriguez, Nurse David Thompson",Knee Replacement,169
+56,Obesity; COPD; Hypertension; Diabetes; Coagulopathy,29.1,13.5,3,Dr. James O'Brien,Local,"Nurse David Thompson, Nurse Maria Lopez, Nurse Lisa Park, Nurse Ahmed Hassan",Knee Replacement,138
+89,None,22,14.1,3,Dr. Priya Patel,Sedation,"Nurse Maria Lopez, Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse Lisa Park, Nurse Kevin Tran",Hernia Repair,139
+62,Heart Disease; Hypertension; Coagulopathy; COPD; Obesity,16,11.7,3,Dr. James O'Brien,Sedation,"Nurse Ahmed Hassan, Nurse Carlos Rodriguez",Hernia Repair,158
+58,COPD; Coagulopathy,23,14.4,5,Dr. Priya Patel,General,"Nurse Ahmed Hassan, Nurse John Smith",Cholecystectomy,126
+63,COPD,22.9,12.6,2,Dr. Michael Chen,Local,"Nurse David Thompson, Nurse Kevin Tran, Nurse Ahmed Hassan, Nurse Emily Li, Nurse Jennifer Wong",Hip Replacement,130
+52,None,32.3,14.1,2,Dr. Elena Rodriguez,Sedation,"Nurse Maria Lopez, Nurse David Thompson, Nurse Emily Li, Nurse Ahmed Hassan, Nurse Lisa Park",Hernia Repair,71
+67,Coagulopathy; Heart Disease,27.7,15.4,2,Dr. Sarah Ahmed,Sedation,"Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse Maria Lopez",Spine Fusion,195
+75,Chronic Kidney Disease; Hypertension,35.2,13.1,2,Dr. Priya Patel,General,"Nurse Sarah Johnson, Nurse David Thompson, Nurse Emily Li, Nurse Carlos Rodriguez",Hernia Repair,144
+52,Chronic Kidney Disease,29.6,14.7,3,Dr. Michael Chen,Regional,"Nurse John Smith, Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Lisa Park, Nurse Ahmed Hassan",Spine Fusion,236
+37,None,23.3,13.1,3,Dr. Michael Chen,Sedation,"Nurse Sarah Johnson, Nurse David Thompson, Nurse Ahmed Hassan, Nurse Rachel Green, Nurse John Smith",Hernia Repair,100
+63,Diabetes,30.2,13.2,2,Dr. Priya Patel,Local,"Nurse Emily Li, Nurse Maria Lopez",Hip Replacement,188
+93,Coagulopathy,36.9,12.8,2,Dr. Elena Rodriguez,Regional,"Nurse Sarah Johnson, Nurse David Thompson",Hernia Repair,151
+59,Coagulopathy,18.7,11.8,3,Dr. James O'Brien,General,"Nurse Lisa Park, Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse John Smith, Nurse Maria Lopez",Spine Fusion,229
+69,None,30.7,12.9,2,Dr. Priya Patel,General,"Nurse Carlos Rodriguez, Nurse Maria Lopez, Nurse Lisa Park",Hip Replacement,183
+47,Hypertension; Chronic Kidney Disease,29.1,11.1,2,Dr. James O'Brien,Local,"Nurse Maria Lopez, Nurse Jennifer Wong, Nurse Lisa Park",Hernia Repair,116
+63,Coagulopathy; Diabetes,25.7,14,2,Dr. Michael Chen,Sedation,"Nurse Kevin Tran, Nurse Jennifer Wong, Nurse David Thompson, Nurse Ahmed Hassan, Nurse Maria Lopez",Hernia Repair,92
+61,None,31.9,17.1,1,Dr. Michael Chen,Local,"Nurse David Thompson, Nurse John Smith, Nurse Sarah Johnson",Cholecystectomy,66
+37,Coagulopathy; Chronic Kidney Disease,22.1,13,3,Dr. James O'Brien,Regional,"Nurse Emily Li, Nurse David Thompson, Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Arthroscopy,93
+89,Coagulopathy; Diabetes; Obesity; Hypertension,31.2,15.1,4,Dr. Michael Chen,Sedation,"Nurse David Thompson, Nurse Lisa Park, Nurse Rachel Green, Nurse Jennifer Wong",Cholecystectomy,138
+46,Hypertension; Chronic Kidney Disease,32.1,13.5,3,Dr. Michael Chen,General,"Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse John Smith",Knee Replacement,179
+60,None,16,11.8,2,Dr. Priya Patel,Regional,"Nurse David Thompson, Nurse Kevin Tran, Nurse Sarah Johnson",Hip Replacement,149
+36,None,25.4,10.9,2,Dr. Priya Patel,General,"Nurse Carlos Rodriguez, Nurse David Thompson",Cholecystectomy,82
+76,Diabetes; Hypertension; Coagulopathy; Heart Disease,31.5,13.1,4,Dr. Michael Chen,Local,"Nurse Carlos Rodriguez, Nurse Jennifer Wong, Nurse John Smith, Nurse Kevin Tran, Nurse Emily Li",Cholecystectomy,145
+91,Obesity; COPD; Chronic Kidney Disease,20.5,12,4,Dr. Priya Patel,Regional,"Nurse Jennifer Wong, Nurse Kevin Tran, Nurse Maria Lopez",Cholecystectomy,178
+54,None,35.2,12.6,2,Dr. Elena Rodriguez,General,"Nurse Kevin Tran, Nurse David Thompson, Nurse Rachel Green, Nurse Emily Li, Nurse John Smith",Arthroscopy,82
+67,None,24,15.1,1,Dr. Priya Patel,General,"Nurse John Smith, Nurse David Thompson, Nurse Ahmed Hassan",Cholecystectomy,77
+68,Obesity,35.9,11.5,2,Dr. Sarah Ahmed,Regional,"Nurse Ahmed Hassan, Nurse Lisa Park, Nurse John Smith, Nurse Carlos Rodriguez",Spine Fusion,251
+58,Heart Disease; Diabetes,21.9,11.2,3,Dr. Elena Rodriguez,Sedation,"Nurse David Thompson, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Cholecystectomy,110
+54,None,26.3,11.8,1,Dr. Elena Rodriguez,Local,"Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Kevin Tran",Cholecystectomy,64
+34,Heart Disease; Hypertension; COPD; Coagulopathy; Chronic Kidney Disease,29.5,14.8,5,Dr. Michael Chen,General,"Nurse Maria Lopez, Nurse David Thompson, Nurse Lisa Park, Nurse Jennifer Wong, Nurse Kevin Tran",Hernia Repair,181
+48,None,25.5,13.9,1,Dr. Priya Patel,Sedation,"Nurse Ahmed Hassan, Nurse David Thompson, Nurse Kevin Tran, Nurse John Smith, Nurse Emily Li",Cholecystectomy,89
+39,Obesity,31.8,12.4,2,Dr. Michael Chen,General,"Nurse Sarah Johnson, Nurse John Smith, Nurse Emily Li, Nurse Kevin Tran",Knee Replacement,119
+53,Heart Disease; Hypertension; Diabetes; Chronic Kidney Disease; Coagulopathy,23,13.4,5,Dr. Michael Chen,Sedation,"Nurse John Smith, Nurse Sarah Johnson, Nurse Lisa Park, Nurse David Thompson, Nurse Ahmed Hassan",Knee Replacement,187
+59,Diabetes,28.2,13,3,Dr. Michael Chen,Local,"Nurse Jennifer Wong, Nurse John Smith, Nurse Carlos Rodriguez, Nurse Lisa Park, Nurse Kevin Tran",Spine Fusion,189
+69,Hypertension,24,14.2,3,Dr. Priya Patel,Regional,"Nurse John Smith, Nurse Emily Li, Nurse Rachel Green, Nurse Lisa Park, Nurse Jennifer Wong",Spine Fusion,215
+50,Diabetes; Chronic Kidney Disease; Obesity; Coagulopathy; Hypertension,24.3,14.8,4,Dr. Michael Chen,Sedation,"Nurse David Thompson, Nurse Carlos Rodriguez, Nurse Kevin Tran",Hernia Repair,182
+85,Hypertension,25.4,14.5,4,Dr. James O'Brien,Regional,"Nurse John Smith, Nurse Rachel Green, Nurse Jennifer Wong, Nurse Ahmed Hassan",Hernia Repair,139
+62,Diabetes; COPD; Obesity; Chronic Kidney Disease; Coagulopathy,30.1,14.9,3,Dr. Elena Rodriguez,Regional,"Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse Maria Lopez, Nurse Sarah Johnson, Nurse Emily Li",Hernia Repair,146
+68,Hypertension; Heart Disease; COPD; Coagulopathy; Chronic Kidney Disease,33.1,14.3,3,Dr. James O'Brien,General,"Nurse Kevin Tran, Nurse Maria Lopez, Nurse Sarah Johnson",Hernia Repair,102
+60,Diabetes; COPD,23.7,14.9,2,Dr. Elena Rodriguez,Sedation,"Nurse Sarah Johnson, Nurse Ahmed Hassan",Hip Replacement,147
+56,None,37.3,15.5,2,Dr. Elena Rodriguez,General,"Nurse David Thompson, Nurse Carlos Rodriguez, Nurse Kevin Tran, Nurse John Smith, Nurse Maria Lopez",Spine Fusion,189
+64,Chronic Kidney Disease,32.9,13.8,2,Dr. James O'Brien,General,"Nurse John Smith, Nurse Jennifer Wong, Nurse Emily Li, Nurse Rachel Green, Nurse David Thompson",Cholecystectomy,120
+71,Diabetes; COPD,32.1,13.6,2,Dr. Michael Chen,Sedation,"Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse Maria Lopez, Nurse Kevin Tran",Cholecystectomy,163
+59,Coagulopathy; Hypertension; COPD,31.7,13,4,Dr. Sarah Ahmed,General,"Nurse Emily Li, Nurse Carlos Rodriguez, Nurse Maria Lopez",Arthroscopy,134
+62,COPD; Chronic Kidney Disease; Heart Disease; Diabetes; Hypertension,27,11,3,Dr. Priya Patel,General,"Nurse Rachel Green, Nurse Kevin Tran, Nurse Ahmed Hassan, Nurse John Smith, Nurse Sarah Johnson",Knee Replacement,160
+66,Obesity,31.2,10.8,2,Dr. Sarah Ahmed,General,"Nurse Maria Lopez, Nurse Ahmed Hassan, Nurse Emily Li, Nurse Lisa Park",Spine Fusion,198
+51,COPD; Heart Disease; Coagulopathy,30.2,12.3,3,Dr. James O'Brien,Regional,"Nurse Emily Li, Nurse Lisa Park",Hernia Repair,187
+72,None,30,14,2,Dr. James O'Brien,Regional,"Nurse Ahmed Hassan, Nurse John Smith",Hernia Repair,131
+61,None,25.6,14.7,3,Dr. Sarah Ahmed,Regional,"Nurse John Smith, Nurse Ahmed Hassan, Nurse David Thompson, Nurse Carlos Rodriguez",Cholecystectomy,78
+55,None,22.9,13.2,3,Dr. James O'Brien,Sedation,"Nurse Emily Li, Nurse Lisa Park, Nurse Rachel Green",Hip Replacement,176
+54,Heart Disease,34,14.1,3,Dr. James O'Brien,Local,"Nurse David Thompson, Nurse Emily Li",Spine Fusion,175
+69,COPD; Coagulopathy; Obesity; Diabetes,29.8,13.7,3,Dr. James O'Brien,Local,"Nurse Ahmed Hassan, Nurse Lisa Park, Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse Kevin Tran",Cholecystectomy,153
+56,Coagulopathy; Chronic Kidney Disease,29.4,12,3,Dr. Sarah Ahmed,General,"Nurse John Smith, Nurse Carlos Rodriguez",Hernia Repair,74
+58,Diabetes; COPD; Hypertension,16.6,15.6,3,Dr. Priya Patel,General,"Nurse David Thompson, Nurse Lisa Park, Nurse Jennifer Wong, Nurse Rachel Green",Spine Fusion,243
+55,Chronic Kidney Disease; Hypertension; COPD,27.5,12.4,3,Dr. Michael Chen,Local,"Nurse John Smith, Nurse Ahmed Hassan, Nurse Maria Lopez",Hernia Repair,147
+63,None,30.6,13,2,Dr. Priya Patel,Sedation,"Nurse Lisa Park, Nurse Ahmed Hassan, Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse Kevin Tran",Arthroscopy,98
+63,COPD,16.6,15.7,2,Dr. Priya Patel,General,"Nurse Rachel Green, Nurse John Smith",Hernia Repair,89
+51,None,24.3,16.7,3,Dr. Michael Chen,Local,"Nurse John Smith, Nurse Ahmed Hassan",Hip Replacement,121
+80,COPD; Obesity,32.4,13.6,4,Dr. Michael Chen,Sedation,"Nurse Lisa Park, Nurse Emily Li, Nurse Carlos Rodriguez, Nurse Ahmed Hassan",Arthroscopy,177
+82,Heart Disease; Obesity,27.3,14.6,2,Dr. Sarah Ahmed,Regional,"Nurse Rachel Green, Nurse Jennifer Wong, Nurse Lisa Park",Arthroscopy,80
+76,None,26.5,13.8,1,Dr. Elena Rodriguez,Local,"Nurse Emily Li, Nurse Rachel Green, Nurse Maria Lopez, Nurse Jennifer Wong, Nurse Carlos Rodriguez",Knee Replacement,135
+79,COPD; Hypertension,27.4,12.4,2,Dr. Michael Chen,Regional,"Nurse Ahmed Hassan, Nurse Rachel Green, Nurse Jennifer Wong",Hip Replacement,191
+72,None,26.3,13.3,2,Dr. Priya Patel,General,"Nurse Jennifer Wong, Nurse John Smith, Nurse David Thompson",Knee Replacement,165
+52,Heart Disease; Obesity; Hypertension; COPD; Chronic Kidney Disease,26.8,15.2,5,Dr. Michael Chen,Local,"Nurse Jennifer Wong, Nurse John Smith, Nurse Ahmed Hassan, Nurse Maria Lopez",Spine Fusion,246
+55,Heart Disease,22.4,11.2,3,Dr. Priya Patel,Regional,"Nurse Emily Li, Nurse Carlos Rodriguez, Nurse Ahmed Hassan",Cholecystectomy,87
+77,Obesity,26.1,12.3,3,Dr. Michael Chen,Regional,"Nurse David Thompson, Nurse Maria Lopez, Nurse Sarah Johnson, Nurse Carlos Rodriguez",Knee Replacement,170
+60,None,20.2,13.2,1,Dr. Michael Chen,Local,"Nurse Emily Li, Nurse Jennifer Wong, Nurse Maria Lopez, Nurse Lisa Park, Nurse Carlos Rodriguez",Hip Replacement,146
+38,None,18.3,14.6,1,Dr. Priya Patel,General,"Nurse Rachel Green, Nurse Kevin Tran, Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse Ahmed Hassan",Cholecystectomy,62
+68,None,35.4,10.9,2,Dr. Michael Chen,General,"Nurse Maria Lopez, Nurse Jennifer Wong, Nurse Ahmed Hassan, Nurse David Thompson, Nurse Kevin Tran",Knee Replacement,152
+67,COPD; Obesity; Hypertension; Coagulopathy,16.6,11.5,3,Dr. Elena Rodriguez,Regional,"Nurse David Thompson, Nurse Emily Li, Nurse Maria Lopez, Nurse John Smith",Hernia Repair,159
+40,Coagulopathy,31,13.7,2,Dr. Sarah Ahmed,General,"Nurse John Smith, Nurse Maria Lopez, Nurse David Thompson, Nurse Carlos Rodriguez",Hernia Repair,134
+44,None,30.2,12.7,2,Dr. Sarah Ahmed,Local,"Nurse John Smith, Nurse Carlos Rodriguez, Nurse Emily Li, Nurse Maria Lopez, Nurse Ahmed Hassan",Hernia Repair,73
+64,COPD,42.4,12.2,3,Dr. James O'Brien,Local,"Nurse Sarah Johnson, Nurse Emily Li, Nurse Lisa Park",Knee Replacement,215
+40,Diabetes,16,13.2,2,Dr. Elena Rodriguez,General,"Nurse Emily Li, Nurse Lisa Park, Nurse Rachel Green, Nurse Carlos Rodriguez",Knee Replacement,111
+66,Hypertension; Chronic Kidney Disease; COPD,29.3,15.2,3,Dr. James O'Brien,Sedation,"Nurse Carlos Rodriguez, Nurse Rachel Green, Nurse Jennifer Wong, Nurse Sarah Johnson, Nurse Emily Li",Spine Fusion,251
+64,Hypertension,36.7,12.8,2,Dr. James O'Brien,Local,"Nurse Jennifer Wong, Nurse John Smith",Knee Replacement,183
+63,COPD; Obesity,28.6,14.3,3,Dr. Michael Chen,General,"Nurse David Thompson, Nurse Kevin Tran, Nurse Sarah Johnson, Nurse Lisa Park",Hip Replacement,166
+41,COPD; Chronic Kidney Disease; Heart Disease; Coagulopathy; Diabetes,16.7,11.2,5,Dr. Sarah Ahmed,Sedation,"Nurse Kevin Tran, Nurse Jennifer Wong, Nurse John Smith, Nurse Lisa Park, Nurse Sarah Johnson",Cholecystectomy,158
+58,Heart Disease; Obesity,30.7,14.4,2,Dr. Elena Rodriguez,Sedation,"Nurse Maria Lopez, Nurse Rachel Green, Nurse Kevin Tran, Nurse Carlos Rodriguez, Nurse Ahmed Hassan",Cholecystectomy,99
+44,Hypertension; Diabetes; Chronic Kidney Disease,22.6,10,4,Dr. Priya Patel,General,"Nurse Rachel Green, Nurse Lisa Park, Nurse Carlos Rodriguez",Arthroscopy,114
+55,Chronic Kidney Disease; Coagulopathy,28.8,14.9,3,Dr. Elena Rodriguez,General,"Nurse Sarah Johnson, Nurse Jennifer Wong, Nurse Carlos Rodriguez, Nurse John Smith",Hip Replacement,155
+66,Diabetes; Heart Disease; COPD,27.1,13.8,3,Dr. Priya Patel,Sedation,"Nurse Kevin Tran, Nurse Emily Li",Knee Replacement,185
+49,Obesity,21,13.5,2,Dr. Elena Rodriguez,General,"Nurse Rachel Green, Nurse Carlos Rodriguez, Nurse David Thompson, Nurse Emily Li, Nurse Lisa Park",Knee Replacement,115
+70,Coagulopathy; Heart Disease; Hypertension,28.9,13,3,Dr. Sarah Ahmed,Sedation,"Nurse Jennifer Wong, Nurse Emily Li",Hip Replacement,155
+70,Chronic Kidney Disease; Hypertension; Heart Disease; Coagulopathy; Diabetes,27.6,14.8,4,Dr. Sarah Ahmed,Local,"Nurse Emily Li, Nurse Sarah Johnson, Nurse Lisa Park, Nurse Maria Lopez",Knee Replacement,190
+49,None,30.3,10.7,2,Dr. Elena Rodriguez,Regional,"Nurse Ahmed Hassan, Nurse David Thompson, Nurse Lisa Park, Nurse John Smith",Knee Replacement,124
+37,None,30.8,11.2,2,Dr. James O'Brien,Local,"Nurse Kevin Tran, Nurse Jennifer Wong",Spine Fusion,150
+78,Coagulopathy; Heart Disease,30.2,13.8,3,Dr. Priya Patel,Regional,"Nurse Rachel Green, Nurse Emily Li, Nurse David Thompson, Nurse Kevin Tran",Knee Replacement,187
+64,None,33.9,10.4,2,Dr. Michael Chen,Local,"Nurse Jennifer Wong, Nurse Ahmed Hassan",Hernia Repair,110
+65,Heart Disease; COPD; Chronic Kidney Disease; Coagulopathy,28,13.2,5,Dr. Sarah Ahmed,Regional,"Nurse David Thompson, Nurse John Smith, Nurse Jennifer Wong",Knee Replacement,184
+36,Coagulopathy; Hypertension; Obesity,24.4,14.3,5,Dr. Sarah Ahmed,General,"Nurse Sarah Johnson, Nurse Carlos Rodriguez",Cholecystectomy,159
+77,Diabetes,21,15,2,Dr. Sarah Ahmed,Local,"Nurse Maria Lopez, Nurse Carlos Rodriguez, Nurse Emily Li",Cholecystectomy,95
+60,Chronic Kidney Disease; Heart Disease; Hypertension,27.8,12.8,3,Dr. Michael Chen,Local,"Nurse Kevin Tran, Nurse Ahmed Hassan, Nurse Emily Li, Nurse Jennifer Wong, Nurse Lisa Park",Cholecystectomy,96
+66,Diabetes; Chronic Kidney Disease; Coagulopathy,33.5,11.3,4,Dr. James O'Brien,Local,"Nurse Jennifer Wong, Nurse Lisa Park, Nurse John Smith",Hip Replacement,227
+58,None,27.1,11,2,Dr. Elena Rodriguez,Sedation,"Nurse John Smith, Nurse Jennifer Wong, Nurse David Thompson",Hernia Repair,92
+66,None,21.3,16.1,1,Dr. Priya Patel,Sedation,"Nurse David Thompson, Nurse Maria Lopez",Cholecystectomy,64
+55,Coagulopathy; COPD,28.9,12.2,3,Dr. James O'Brien,General,"Nurse John Smith, Nurse David Thompson",Hernia Repair,114
+50,Coagulopathy; Chronic Kidney Disease; Obesity; Diabetes,25.3,13.1,3,Dr. James O'Brien,General,"Nurse David Thompson, Nurse Rachel Green, Nurse Maria Lopez, Nurse Lisa Park, Nurse Jennifer Wong",Cholecystectomy,166
+82,Coagulopathy,30.4,15,2,Dr. Michael Chen,Regional,"Nurse David Thompson, Nurse Kevin Tran",Arthroscopy,81
+66,Obesity; Hypertension,21.8,13.8,5,Dr. Priya Patel,General,"Nurse Lisa Park, Nurse Emily Li, Nurse Maria Lopez",Knee Replacement,164
