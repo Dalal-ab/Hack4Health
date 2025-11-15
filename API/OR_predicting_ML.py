@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split, cross_val_score, cross_validate
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
@@ -58,8 +58,13 @@ X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42
 )
 
-# Train Random Forest model
-print("Training Random Forest model...")
+
+# 5-FOLD CROSS-VALIDATION IMPLEMENTATION
+print("\n" + "="*60)
+print("PERFORMING 5-FOLD CROSS-VALIDATION")
+print("="*60)
+
+# Create the model (same configuration as before)
 rf_model = RandomForestRegressor(
     n_estimators=200,
     max_depth=20,
@@ -69,21 +74,51 @@ rf_model = RandomForestRegressor(
     n_jobs=-1
 )
 
+# Perform cross-validation with multiple metrics
+
+
+# Method 1: Simple cross_val_score for MAE
+cv_mae_scores = cross_val_score(
+    rf_model, 
+    X, 
+    y, 
+    cv=5,  # 5-fold cross-validation
+    scoring='neg_mean_absolute_error',  # negative because sklearn maximizes scores
+    n_jobs=-1
+)
+
+# Convert negative scores back to positive
+cv_mae_scores = -cv_mae_scores
+
+# Method 2: cross_validate for multiple metrics at once
+cv_results = cross_validate(
+    rf_model,
+    X,
+    y,
+    cv=5,
+    scoring={
+        'mae': 'neg_mean_absolute_error',
+        'rmse': 'neg_root_mean_squared_error',
+        'r2': 'r2'
+    },
+    n_jobs=-1,
+    return_train_score=True  # Optional: see training scores too
+)
+
+# Extract and convert scores
+cv_mae = -cv_results['test_mae']
+cv_rmse = -cv_results['test_rmse']
+cv_r2 = cv_results['test_r2']
+
+# Display cross-validation results
 rf_model.fit(X_train, y_train)
 
-# Evaluate the model
+# Evaluate on held-out test set
 y_pred = rf_model.predict(X_test)
 mae = mean_absolute_error(y_test, y_pred)
 rmse = np.sqrt(mean_squared_error(y_test, y_pred))
 r2 = r2_score(y_test, y_pred)
 
-print("\n" + "="*60)
-print("MODEL PERFORMANCE METRICS")
-print("="*60)
-print(f"Mean Absolute Error: {mae:.2f} minutes")
-print(f"Root Mean Squared Error: {rmse:.2f} minutes")
-print(f"R² Score: {r2:.4f}")
-print("="*60 + "\n")
 
 # Feature importance
 feature_importance = pd.DataFrame({
@@ -181,6 +216,12 @@ def predict_surgery_duration():
     # Make prediction
     predicted_duration = rf_model.predict(input_df)[0]
     
+    # Calculate prediction interval using all trees
+    predictions = np.array([tree.predict(input_df)[0] for tree in rf_model.estimators_])
+    lower_bound = np.percentile(predictions, 5)  # 5th percentile
+    upper_bound = np.percentile(predictions, 95)  # 95th percentile
+    interval_width = upper_bound - lower_bound
+    
     # Display results
     print("\n" + "="*60)
     print("PREDICTION RESULTS")
@@ -197,7 +238,6 @@ def predict_surgery_duration():
     print("\n" + "-"*60)
     print(f"PREDICTED SURGERY DURATION: {predicted_duration:.0f} minutes")
     print(f"ESTIMATED TIME: {predicted_duration/60:.1f} hours")
-    print("="*60 + "\n")
     
     return predicted_duration
 
