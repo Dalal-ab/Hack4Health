@@ -9,7 +9,7 @@ warnings.filterwarnings('ignore')
 
 # Load the data
 print("Loading surgery data...")
-df = pd.read_csv('/Users/huzaifashafiq/Downloads/surgery_dataset_1000_with_correlations.csv')
+df = pd.read_csv('surgery_dataset_1000_with_correlations.csv')
 
 print(f"Dataset loaded successfully! Total records: {len(df)}")
 print(f"Columns: {df.columns.tolist()}\n")
